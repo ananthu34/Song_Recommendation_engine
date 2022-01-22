@@ -1,0 +1,43 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Madhura Muruti (Assamese Devotional Songs),1,6RA4roSOoT9rDs37O1F9SE,Gopale Kee Goti Koile,spotify:track:6RA4roSOoT9rDs37O1F9SE,0.859,0.382,0.412,0.0,0.0464,-9.935,0.0306,180.857,0.782,4
+1,Madhura Muruti (Assamese Devotional Songs),2,1rUxzBVMfU7QlSqMoMEsNt,Pawya Podi Hodi,spotify:track:1rUxzBVMfU7QlSqMoMEsNt,0.856,0.285,0.101,3.23e-06,0.0509,-20.88,0.0334,154.284,0.282,2
+2,Madhura Muruti (Assamese Devotional Songs),3,3aEW9ma4YoEMolAcfGbgRj,Udhaba Salaho Gokule,spotify:track:3aEW9ma4YoEMolAcfGbgRj,0.873,0.411,0.295,0.0,0.23,-10.232,0.0327,136.9,0.385,6
+3,Madhura Muruti (Assamese Devotional Songs),4,4ZGEosrFuCFaZDQLsmsHvm,Madhura Muruti Muraru,spotify:track:4ZGEosrFuCFaZDQLsmsHvm,0.815,0.416,0.241,2.23e-06,0.081,-12.479,0.0319,117.525,0.236,3
+4,Madhura Muruti (Assamese Devotional Songs),5,5AJjQRQt5mgLXfPjS5Q8Kr,Alu Bhai Salaaikha,spotify:track:5AJjQRQt5mgLXfPjS5Q8Kr,0.588,0.446,0.362,0.0,0.093,-9.811,0.0301,94.213,0.548,5
+5,Madhura Muruti (Assamese Devotional Songs),6,3L1BgA7TrBFeT91weGujAE,Brindavana Khelota,spotify:track:3L1BgA7TrBFeT91weGujAE,0.868,0.312,0.263,0.0,0.349,-11.651,0.03,97.478,0.227,4
+6,Madhura Muruti (Assamese Devotional Songs),7,2dP50gIVpRM3b3QEsRPFI2,Kemon Paibe Hori,spotify:track:2dP50gIVpRM3b3QEsRPFI2,0.843,0.287,0.205,0.0,0.235,-11.037,0.0378,178.712,0.371,1
+7,Madhura Muruti (Assamese Devotional Songs),8,1FbDn3ZwRsu6b8TM0u7IW4,Ramo Gokhai,spotify:track:1FbDn3ZwRsu6b8TM0u7IW4,0.8,0.339,0.255,0.0,0.0673,-12.084,0.0288,100.388,0.471,2
+8,Assamese Modern Songs,1,6rtOj18eztwsCQmNfS3CIY,Chenatra Suyale Mata,spotify:track:6rtOj18eztwsCQmNfS3CIY,0.952,0.563,0.488,0.175,0.133,-15.314,0.162,120.714,0.524,0
+9,Assamese Modern Songs,2,0CFHJXyoqKLGm2nKWM0txp,Paar Hoi Gale,spotify:track:0CFHJXyoqKLGm2nKWM0txp,0.946,0.534,0.403,0.796,0.339,-16.685,0.0371,158.989,0.849,0
+10,Assamese Modern Songs,3,2Mi02ZWgqWsEyEUxorEDLF,Phagun Ahi,spotify:track:2Mi02ZWgqWsEyEUxorEDLF,0.953,0.747,0.373,0.295,0.304,-15.686,0.0383,115.147,0.96,0
+11,Assamese Modern Songs,4,4H4zFW7INU2yYNjDZje0dt,Asha Mor Habaloi,spotify:track:4H4zFW7INU2yYNjDZje0dt,0.979,0.665,0.268,0.0297,0.0908,-16.419,0.0572,107.891,0.697,0
+12,Assamese Modern Songs,5,53jxJJasZ9t16GhsuCzVJT,Mor Shona Saragara,spotify:track:53jxJJasZ9t16GhsuCzVJT,0.971,0.555,0.261,0.124,0.0436,-15.777,0.0406,105.659,0.719,0
+13,Assamese Modern Songs,6,0XmukJxzslNJlSMpQ2ONGr,Achhilo Ba Kino,spotify:track:0XmukJxzslNJlSMpQ2ONGr,0.958,0.589,0.264,0.25,0.0529,-15.549,0.0472,137.505,0.672,0
+14,Assamese Modern Songs,7,71v357lC1M1lf2aJKSqf9Z,Dehi Oi Kalija,spotify:track:71v357lC1M1lf2aJKSqf9Z,0.969,0.455,0.407,0.223,0.0818,-15.694,0.0463,91.173,0.939,0
+15,Assamese Modern Songs,8,6mjx36XafWPE29xtyCXrne,Betha Kiyo Lagai Gali,spotify:track:6mjx36XafWPE29xtyCXrne,0.914,0.414,0.446,0.00333,0.172,-13.005,0.0524,85.432,0.853,0
+16,Assamese Modern Songs,9,3XIW6KaQGYcdyIPM385els,Phale Phule Bhara,spotify:track:3XIW6KaQGYcdyIPM385els,0.923,0.347,0.343,0.316,0.328,-12.493,0.0533,170.408,0.866,0
+17,Assamese Modern Songs,10,7kRBjVSqEXQ70scuZcxERx,Kona Samayata Shui Parilo Moi,spotify:track:7kRBjVSqEXQ70scuZcxERx,0.739,0.41,0.395,0.0295,0.0914,-12.56,0.0389,76.693,0.529,0
+18,Assamese Modern Songs,11,7Eet96GPgmdBlXzMcZ8kt4,Akou Ubhati Jadi Aha,spotify:track:7Eet96GPgmdBlXzMcZ8kt4,0.901,0.451,0.498,1.79e-05,0.116,-10.99,0.035,133.672,0.579,0
+19,Assamese Modern Songs,12,43OYyBJHTsclWkQ8ebsqqa,Palo Adhikar Tomar Hiyar,spotify:track:43OYyBJHTsclWkQ8ebsqqa,0.888,0.458,0.475,0.00848,0.325,-12.041,0.0673,78.789,0.714,0
+20,Assamese Modern Songs,13,2yMZdjkbcYdpr5rLAXzKCq,Lagarta Mor Banare Banaphool,spotify:track:2yMZdjkbcYdpr5rLAXzKCq,0.934,0.427,0.399,0.00192,0.17,-11.929,0.0667,180.387,0.746,0
+21,Assamese Modern Songs,14,1SgE8YQR23rVHXjh4FtfB6,Jadi Ketiara Kararat,spotify:track:1SgE8YQR23rVHXjh4FtfB6,0.966,0.548,0.411,0.000702,0.128,-12.062,0.0607,91.227,0.757,0
+22,Assamese Songs,1,3LXMPLAkdEq1FrUsnBVmDM,Konomate Kala,spotify:track:3LXMPLAkdEq1FrUsnBVmDM,0.936,0.448,0.353,0.169,0.119,-17.512,0.0407,141.735,0.276,0
+23,Assamese Songs,2,5OUIxlASiBtqgjXBshLEPd,Dikhou Noir Parare,spotify:track:5OUIxlASiBtqgjXBshLEPd,0.917,0.616,0.231,1.35e-06,0.122,-16.25,0.0323,109.208,0.451,0
+24,Assamese Songs,3,76jk5yCCMjKTYomzz2vJkC,He Natun Purush,spotify:track:76jk5yCCMjKTYomzz2vJkC,0.765,0.456,0.245,0.0,0.304,-14.885,0.0295,74.708,0.621,0
+25,Assamese Songs,4,0Wqwdole6Mz0AkJNKdZKPQ,Chou Mari Nahibi,spotify:track:0Wqwdole6Mz0AkJNKdZKPQ,0.749,0.424,0.396,0.0,0.208,-10.023,0.0457,88.356,0.867,0
+26,Assamese Songs,5,2TRb6UjSpFASQ1TKhz5HIz,Udas Nahaba Tumi,spotify:track:2TRb6UjSpFASQ1TKhz5HIz,0.743,0.357,0.289,0.0,0.322,-11.011,0.0333,137.062,0.368,0
+27,Assamese Songs,6,6uiPJUmtNEalswDiOCwpc0,Gabharu Habore Para,spotify:track:6uiPJUmtNEalswDiOCwpc0,0.818,0.578,0.374,0.0,0.336,-11.905,0.0388,82.103,0.859,0
+28,Assamese Songs,7,7EalBDOLyfFDfRRY8dFKWw,Manar Majito,spotify:track:7EalBDOLyfFDfRRY8dFKWw,0.877,0.5,0.369,0.0,0.237,-10.78,0.0521,102.38,0.816,0
+29,Assamese Songs,8,67TgPPwP86yf4mDRRVlsLp,Ujaya Ahile,spotify:track:67TgPPwP86yf4mDRRVlsLp,0.837,0.435,0.375,0.0,0.16,-10.251,0.0444,182.706,0.795,0
+30,Assamese Songs,9,1d0sAWNbf8r42PtpOQzEAo,Shuni Ki Nushuni O,spotify:track:1d0sAWNbf8r42PtpOQzEAo,0.935,0.409,0.372,3.96e-06,0.314,-11.901,0.0405,157.857,0.657,0
+31,Assamese Songs,10,0zRivEY8e6X5Z9iwGVSwmY,Enaka Nokba Jaoga Buli,spotify:track:0zRivEY8e6X5Z9iwGVSwmY,0.85,0.378,0.454,2.89e-06,0.342,-11.367,0.0353,115.921,0.784,0
+32,Assamese Songs,11,41SCPzFr6bCj6eeA10l35R,Chokhur Pahit,spotify:track:41SCPzFr6bCj6eeA10l35R,0.882,0.442,0.446,0.0,0.142,-11.958,0.0327,80.103,0.594,0
+33,Assamese Songs,12,0wpfVufJAjIoGnDKx5vKn1,Tomar Hatera Roba,spotify:track:0wpfVufJAjIoGnDKx5vKn1,0.966,0.492,0.292,0.0376,0.105,-13.481,0.041,133.586,0.466,0
+34,Assamese Songs,13,1ky3MQUVrG4qKuIcNvV3pU,Kiono Hahili Fagun,spotify:track:1ky3MQUVrG4qKuIcNvV3pU,0.989,0.366,0.314,0.0151,0.132,-12.779,0.0438,145.424,0.591,0
+35,Assamese Songs,14,42gqeJgiVG1jkPzwiy3fnu,Tumi Pradip Hoan,spotify:track:42gqeJgiVG1jkPzwiy3fnu,0.799,0.455,0.358,0.0,0.402,-16.019,0.0722,143.529,0.574,0
+36,Assamese Songs,15,5ifcXDhXgZaeN7iQ639ENX,O Pahar O Dawor,spotify:track:5ifcXDhXgZaeN7iQ639ENX,0.744,0.461,0.297,0.0,0.346,-16.194,0.0804,110.86,0.598,0
+37,Assamese Songs,16,3XMgDG86yr5czwaMTLoRjz,Aji Tomake Dekhilo,spotify:track:3XMgDG86yr5czwaMTLoRjz,0.901,0.434,0.219,0.0,0.143,-18.643,0.0479,157.199,0.51,0
+38,Assamese Songs,17,3OBnc6N0gida2e3j82twpP,Noire Bukut Uthe Dhou,spotify:track:3OBnc6N0gida2e3j82twpP,0.873,0.569,0.342,2.75e-06,0.28,-18.855,0.0624,133.435,0.753,0
+39,Assamese Songs,18,0SFadVNSRDZuVqomzSoVrb,Duchakut Kajal Bolai,spotify:track:0SFadVNSRDZuVqomzSoVrb,0.932,0.558,0.412,0.000153,0.424,-16.704,0.0559,92.485,0.899,0
+40,Assamese Songs,19,5xZYlEPJsk9IGQr8FDKacv,Agali Kalapat Labe,spotify:track:5xZYlEPJsk9IGQr8FDKacv,0.748,0.509,0.532,0.0,0.273,-9.546,0.0328,103.505,0.743,0
+41,Assamese Songs,20,4VRzuO8hbElTCILV09IcPB,Aay Ja Mor,spotify:track:4VRzuO8hbElTCILV09IcPB,0.911,0.521,0.242,0.0,0.12,-11.693,0.038,77.936,0.491,0

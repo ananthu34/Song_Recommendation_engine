@@ -1,0 +1,182 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Onam Hits of P. Jayachandran and M. G. Sreekumar,1,20baJMF5Ir98Og5xacuk0T,Ormayilundenikinnum,spotify:track:20baJMF5Ir98Og5xacuk0T,0.252,0.729,0.318,0.000135,0.0908,-13.267,0.0451,75.018,0.752,5
+1,Onam Hits of P. Jayachandran and M. G. Sreekumar,2,58mmu6awzshXMJpJoRpQWJ,Onam Ponnonam,spotify:track:58mmu6awzshXMJpJoRpQWJ,0.597,0.683,0.469,2.67e-06,0.0875,-9.035,0.0493,134.931,0.495,5
+2,Onam Hits of P. Jayachandran and M. G. Sreekumar,3,3SPZMHpJQv15IzqbzjKET5,Thakathimi Thalam,spotify:track:3SPZMHpJQv15IzqbzjKET5,0.438,0.771,0.581,0.0,0.101,-10.536,0.084,92.007,0.856,4
+3,Onam Hits of P. Jayachandran and M. G. Sreekumar,4,4UE7TXTmINxeyMnVDtkZMU,Ethramel,spotify:track:4UE7TXTmINxeyMnVDtkZMU,0.821,0.576,0.41,0.0,0.0981,-9.115,0.0333,81.489,0.457,3
+4,Onam Hits of P. Jayachandran and M. G. Sreekumar,5,51xJjxyMgzfaV4i86mt9d0,Vadasseri Chanthayile,spotify:track:51xJjxyMgzfaV4i86mt9d0,0.53,0.765,0.579,2.73e-06,0.102,-9.883,0.0647,124.945,0.563,3
+5,Onam Hits of P. Jayachandran and M. G. Sreekumar,6,56DiFvoD2Rlr3oE0h6BvIe,Kudukude Chirikkana,spotify:track:56DiFvoD2Rlr3oE0h6BvIe,0.0432,0.927,0.856,3.91e-06,0.082,-7.925,0.118,109.926,0.691,3
+6,Onam Hits of P. Jayachandran and M. G. Sreekumar,7,4tP33rxxJ5TDlo8nkzSW4x,Anuraga Sheele,spotify:track:4tP33rxxJ5TDlo8nkzSW4x,0.191,0.681,0.618,0.0,0.178,-11.485,0.0376,91.989,0.863,3
+7,Karpoora Aarathy,1,0HPu1351PInhuFSm1hZH07,Pambayude Pulinam,spotify:track:0HPu1351PInhuFSm1hZH07,0.302,0.512,0.656,0.0,0.353,-7.207,0.101,160.055,0.87,0
+8,Karpoora Aarathy,2,4aaUzznz7LAj45kwWkD0AA,Mazhavil Kaavadi,spotify:track:4aaUzznz7LAj45kwWkD0AA,0.547,0.731,0.566,0.0,0.108,-7.996,0.043,102.8,0.851,0
+9,Karpoora Aarathy,3,51vjOENmPx7hiqLCJnQnKy,Mohangale Yoga,spotify:track:51vjOENmPx7hiqLCJnQnKy,0.413,0.558,0.545,0.0,0.0485,-7.221,0.0767,152.46,0.888,0
+10,Karpoora Aarathy,4,3wGwByDYLiKMqLZhEng9rE,Amme Maalikappurathamme,spotify:track:3wGwByDYLiKMqLZhEng9rE,0.49,0.642,0.413,0.0,0.117,-7.348,0.052,93.091,0.611,0
+11,Karpoora Aarathy,5,0gEl5p5vOrXe4BnE945x27,Malayude Mounathe,spotify:track:0gEl5p5vOrXe4BnE945x27,0.624,0.51,0.537,0.0,0.332,-6.848,0.0567,152.416,0.724,0
+12,Karpoora Aarathy,6,3Kc4iZSfCIGbp7XG8NNBiY,Manassenna Kannadi,spotify:track:3Kc4iZSfCIGbp7XG8NNBiY,0.557,0.603,0.484,0.0,0.0493,-9.169,0.0933,89.219,0.779,0
+13,Karpoora Aarathy,7,2OFYKVG8IXWTW5YDIjRAeV,Sharana Geetham,spotify:track:2OFYKVG8IXWTW5YDIjRAeV,0.482,0.702,0.427,0.0,0.0771,-8.696,0.0354,108.843,0.825,0
+14,Karpoora Aarathy,8,1cIuXUnSlc5ANg7rjyfPbX,Thathwathin Kathir,spotify:track:1cIuXUnSlc5ANg7rjyfPbX,0.413,0.59,0.423,0.0,0.0527,-9.716,0.0766,91.681,0.848,0
+15,Karpoora Aarathy,9,3DQTlPxIOgGSix8hQBOj5h,Makarathil Manjuputhakkum,spotify:track:3DQTlPxIOgGSix8hQBOj5h,0.728,0.587,0.515,0.0,0.0781,-9.695,0.0568,84.589,0.897,0
+16,Karpoora Aarathy,10,15sz5tg9cjyQrAb5gb3icc,Ambalapuzha Swamimarum,spotify:track:15sz5tg9cjyQrAb5gb3icc,0.444,0.599,0.532,5.92e-06,0.0859,-9.069,0.112,86.685,0.947,0
+17,Karpoora Deepam,1,0PPborjjiC9iA45e0iCKrG,Eka Dantha Vigna,spotify:track:0PPborjjiC9iA45e0iCKrG,0.853,0.623,0.457,3.35e-05,0.222,-9.835,0.0505,83.358,0.674,0
+18,Karpoora Deepam,2,5wcJMJQGfXWVzcSuEFkSea,Padi Pooja Seith,spotify:track:5wcJMJQGfXWVzcSuEFkSea,0.893,0.438,0.404,5.77e-05,0.358,-9.639,0.0506,167.95,0.77,0
+19,Karpoora Deepam,3,4DITYBPSl22sVUApDb3YsW,Maragatha Manjula,spotify:track:4DITYBPSl22sVUApDb3YsW,0.84,0.688,0.598,0.0,0.696,-7.143,0.049,94.83,0.652,0
+20,Karpoora Deepam,4,2WfHrWZvDYqQ81yGNwKFr8,Aayiram Sthuthikalal,spotify:track:2WfHrWZvDYqQ81yGNwKFr8,0.696,0.466,0.464,0.0,0.309,-8.062,0.0606,154.299,0.645,0
+21,Karpoora Deepam,5,1oRifgEMLu0lKGpnumjuzp,Suvarnna Malaraay,spotify:track:1oRifgEMLu0lKGpnumjuzp,0.799,0.672,0.66,0.0,0.304,-7.309,0.0447,91.157,0.733,0
+22,Karpoora Deepam,6,1xOVEXrSse3sImjiXEQa2n,Sabarimala Vaasane,spotify:track:1xOVEXrSse3sImjiXEQa2n,0.767,0.421,0.465,0.0,0.809,-7.682,0.0405,162.313,0.673,0
+23,Karpoora Deepam,7,3oKpcbuuRCynKLvksreUqI,Paandi Sevam,spotify:track:3oKpcbuuRCynKLvksreUqI,0.408,0.604,0.742,7.22e-06,0.11,-7.693,0.0618,137.169,0.804,0
+24,Karpooraazhi,1,0PPLq5mLfUZNfEMf9Cjm5e,Swami Nirayum,spotify:track:0PPLq5mLfUZNfEMf9Cjm5e,0.609,0.572,0.769,0.0,0.211,-7.044,0.0478,78.79,0.909,0
+25,Karpooraazhi,2,4CZixBix2fyIDSIFkMa6OI,Neyyadi Nilkkunna,spotify:track:4CZixBix2fyIDSIFkMa6OI,0.662,0.696,0.544,0.0,0.128,-7.41,0.0349,140.204,0.718,0
+26,Karpooraazhi,3,5IsjbAhm5Pw4zvnJZalXiV,Poozhi Nilathu,spotify:track:5IsjbAhm5Pw4zvnJZalXiV,0.684,0.427,0.498,0.0,0.337,-8.372,0.0529,82.932,0.669,0
+27,Karpooraazhi,4,4BCMN5kOBa6ZynEdgYlb5S,Mammiyoorappane,spotify:track:4BCMN5kOBa6ZynEdgYlb5S,0.749,0.708,0.525,2.4e-05,0.107,-7.854,0.0338,118.908,0.56,0
+28,Karpooraazhi,5,5HqwV2PCDxe0SOaTn4MFO3,Ayyappa Bhikshuvay,spotify:track:5HqwV2PCDxe0SOaTn4MFO3,0.606,0.636,0.537,0.0,0.158,-8.121,0.0407,92.103,0.755,0
+29,Karpooraazhi,6,0NDwJtuF35opCsH95gugOk,Anubhavangal,spotify:track:0NDwJtuF35opCsH95gugOk,0.746,0.394,0.521,2.9e-06,0.3,-7.169,0.0496,171.358,0.565,0
+30,Karpooraazhi,7,7gjSWUhc0Kskg7gW2rSWOR,Naalppathonnu Noyambu,spotify:track:7gjSWUhc0Kskg7gW2rSWOR,0.648,0.668,0.462,0.0,0.165,-6.46,0.0302,90.227,0.67,0
+31,Karpooraazhi,8,61zc0SH9tVEZxhlywxR9Ls,Thathwamasi Dhalam,spotify:track:61zc0SH9tVEZxhlywxR9Ls,0.631,0.526,0.531,0.0,0.344,-5.645,0.0463,86.932,0.6,0
+32,Karpooraazhi,9,2so3x0W8RzzawtXI5Py8x9,Soubhagyam Nalkane,spotify:track:2so3x0W8RzzawtXI5Py8x9,0.776,0.404,0.551,0.0,0.0822,-5.768,0.0433,176.469,0.483,0
+33,Karpooraazhi,10,1vsG5NrKjmy4sKemysWWhz,Thanjavoor Thakilinmel,spotify:track:1vsG5NrKjmy4sKemysWWhz,0.641,0.729,0.874,2.41e-06,0.072,-5.074,0.0664,105.341,0.939,0
+34,Karpura Nalam,1,6RMwl8AI6N8PUJwRYIhuSe,Pamba Ganapathi,spotify:track:6RMwl8AI6N8PUJwRYIhuSe,0.318,0.675,0.682,0.000204,0.326,-7.857,0.0477,90.084,0.827,0
+35,Karpura Nalam,2,4GXv9oQSB3A6PrWnqbdsXl,Karthika Maasam,spotify:track:4GXv9oQSB3A6PrWnqbdsXl,0.498,0.752,0.669,1.34e-05,0.159,-8.609,0.0423,111.361,0.884,0
+36,Karpura Nalam,3,2XNnTevkMC9XBWpf7ZHKsj,Panthala Rajakumara,spotify:track:2XNnTevkMC9XBWpf7ZHKsj,0.624,0.63,0.562,0.000201,0.179,-8.218,0.0371,87.915,0.846,0
+37,Karpura Nalam,4,6jHbfFhiDWRWUDRAS7tov2,Neyyil Kulich Nilkkum,spotify:track:6jHbfFhiDWRWUDRAS7tov2,0.518,0.609,0.543,0.0,0.377,-7.948,0.0447,86.195,0.659,0
+38,Karpura Nalam,5,05KPp531gubAHZDUluxAPC,Neeli Maamala,spotify:track:05KPp531gubAHZDUluxAPC,0.535,0.427,0.532,0.00265,0.167,-9.05,0.0459,174.903,0.594,0
+39,Karpura Nalam,6,2agS72oJ4KTETl4i75kM8R,Saranam Saranam,spotify:track:2agS72oJ4KTETl4i75kM8R,0.46,0.566,0.693,0.00049,0.226,-8.756,0.0386,109.732,0.93,0
+40,Karpura Nalam,7,0SHwP7Kb7WbQfTUPu3Sy5G,Swami Naamam,spotify:track:0SHwP7Kb7WbQfTUPu3Sy5G,0.414,0.548,0.575,0.000143,0.383,-7.427,0.0345,73.045,0.595,0
+41,Karpura Nalam,8,38h3gd4dpxSM158dS0l2YH,Shani Dhosham,spotify:track:38h3gd4dpxSM158dS0l2YH,0.601,0.448,0.622,0.0,0.0839,-7.698,0.0509,200.826,0.776,0
+42,Karpura Nalam,9,7jFj7gWxR7A20n5VMUnDnY,Erumeliyil Petta Thullunnu,spotify:track:7jFj7gWxR7A20n5VMUnDnY,0.235,0.53,0.848,8.49e-05,0.777,-7.234,0.0555,99.911,0.953,0
+43,Karpur Deepam,1,0RwzVzsVeTCYliMAkBu2H6,Eka Dhantha,spotify:track:0RwzVzsVeTCYliMAkBu2H6,0.735,0.565,0.503,0.0,0.321,-10.06,0.0427,82.575,0.695,0
+44,Karpur Deepam,2,7eI53ZXEadzCGM4i0FWSJi,Padipooja Cheyyunna,spotify:track:7eI53ZXEadzCGM4i0FWSJi,0.596,0.609,0.458,0.0,0.264,-9.901,0.049,83.159,0.711,0
+45,Karpur Deepam,3,3tv4fDAk1mfyYanzqyD22O,Ayyappan Vilakkin,spotify:track:3tv4fDAk1mfyYanzqyD22O,0.197,0.649,0.591,0.0,0.319,-9.808,0.0751,143.628,0.869,0
+46,Karpur Deepam,4,5kBsC5Bd9clTNt7EiABrpB,Manjalin Manjimayil,spotify:track:5kBsC5Bd9clTNt7EiABrpB,0.557,0.716,0.517,5.04e-06,0.0305,-9.867,0.0422,132.468,0.881,0
+47,Karpur Deepam,5,2kBCfePVgkrgTWTBoJMnSv,Karunya Sagara Nidhe,spotify:track:2kBCfePVgkrgTWTBoJMnSv,0.815,0.488,0.326,2.93e-06,0.0695,-10.55,0.0421,143.77,0.281,0
+48,Karpur Deepam,6,7nP1LkUXx6bA3op77Gvbur,Marathaka Manjula,spotify:track:7nP1LkUXx6bA3op77Gvbur,0.655,0.696,0.64,0.0,0.184,-10.201,0.0506,93.943,0.668,0
+49,Karpur Deepam,7,3GJNPxltbGqKCnrysOqWzB,Aayiram Upamayaal,spotify:track:3GJNPxltbGqKCnrysOqWzB,0.479,0.543,0.438,0.0,0.348,-10.319,0.0452,154.773,0.581,0
+50,Karpur Deepam,8,3EoGV38lmCSTBzJkEIs5sz,Suvarna Malaraayi,spotify:track:3EoGV38lmCSTBzJkEIs5sz,0.63,0.69,0.495,0.0,0.138,-10.767,0.0468,92.112,0.706,0
+51,Karpur Deepam,9,4cXquXnEvLQa4rx1zJytZu,Sabarimaamala Vaasane,spotify:track:4cXquXnEvLQa4rx1zJytZu,0.458,0.433,0.435,0.0,0.161,-10.662,0.0609,161.027,0.687,0
+52,Karpur Deepam,10,0Tx2ISbHTRYmMMMLPKiDzx,Paandishevam Panthalashevam,spotify:track:0Tx2ISbHTRYmMMMLPKiDzx,0.171,0.596,0.696,5.61e-06,0.343,-9.624,0.0589,135.884,0.763,0
+53,Karpur Deepam,11,5KYkDCNrZc8mgOE7GJ2wZN,Vandhithe Surapoojithe,spotify:track:5KYkDCNrZc8mgOE7GJ2wZN,0.866,0.37,0.446,0.0,0.231,-9.463,0.0528,165.129,0.479,0
+54,Karpur Deepam,12,6tKYv8RkpF0onAvYv5WyGC,Pranaya Sathyakam,spotify:track:6tKYv8RkpF0onAvYv5WyGC,0.742,0.471,0.302,0.0,0.094,-9.272,0.029,113.032,0.351,0
+55,Karpur Deepam,13,5LbkNQc1PI894QvN5ix43X,Oottumanikal,spotify:track:5LbkNQc1PI894QvN5ix43X,0.917,0.599,0.359,1.17e-06,0.469,-9.716,0.0372,132.461,0.293,0
+56,Karpur Deepam,14,3gP5tYA2turP6fD2MCDQpD,Ullin Ullil Ponnambalathil,spotify:track:3gP5tYA2turP6fD2MCDQpD,0.949,0.458,0.283,5.39e-06,0.117,-11.423,0.036,137.915,0.301,0
+57,Karpur Deepam,15,7g2qaFMmkkWaH2stASW68w,Ambalappuzha Krishnaswami,spotify:track:7g2qaFMmkkWaH2stASW68w,0.757,0.578,0.618,2.95e-06,0.0713,-8.888,0.193,166.534,0.81,0
+58,"Aabharanam Thiruvabharanam, Devotional Hits of S. Ramesan Nair",1,4UlCq5oKHTjdUipie6f2IT,Aabharanam Thiruvabharanam,spotify:track:4UlCq5oKHTjdUipie6f2IT,0.439,0.713,0.488,0.0,0.17,-7.63,0.0333,91.983,0.841,0
+60,"Aabharanam Thiruvabharanam, Devotional Hits of S. Ramesan Nair",3,3BVrvjg8uVbQiqiC2Y3Wwj,Makaravilakay Varuvay,spotify:track:3BVrvjg8uVbQiqiC2Y3Wwj,0.394,0.708,0.472,9.02e-06,0.251,-11.741,0.0294,100.066,0.695,0
+61,"Aabharanam Thiruvabharanam, Devotional Hits of S. Ramesan Nair",4,5iQ0MMRTwPFeGtRw6iaFo7,Malayittu Malai Sellum,spotify:track:5iQ0MMRTwPFeGtRw6iaFo7,0.639,0.781,0.664,0.000208,0.0752,-9.298,0.049,80.009,0.78,0
+62,"Aabharanam Thiruvabharanam, Devotional Hits of S. Ramesan Nair",5,5P8nRgnXWP33Jj9MRSAGt8,Swamisaranam Swamisaranam,spotify:track:5P8nRgnXWP33Jj9MRSAGt8,0.161,0.798,0.818,0.0,0.269,-6.714,0.05,103.03,0.958,0
+63,"Aabharanam Thiruvabharanam, Devotional Hits of S. Ramesan Nair",6,6tX8EDZR8tUbEKfCFN5pEe,Azhuthayum Pambayum,spotify:track:6tX8EDZR8tUbEKfCFN5pEe,0.802,0.7,0.363,0.0,0.352,-9.918,0.0334,90.076,0.476,0
+64,"Aabharanam Thiruvabharanam, Devotional Hits of S. Ramesan Nair",7,43sPS1jmCeeAFcqu8MsYmj,Namamendral Oru Namam,spotify:track:43sPS1jmCeeAFcqu8MsYmj,0.546,0.661,0.527,2.15e-06,0.104,-10.478,0.0537,161.888,0.802,0
+66,"Manthramennal Orumanthram, Swamisaranam Devotional Hits of S. Ramesan Nair",2,7cPPhmDmqIxDOD8YuBXUB0,Sidhivinayakam,spotify:track:7cPPhmDmqIxDOD8YuBXUB0,0.78,0.574,0.548,0.0,0.801,-9.667,0.0411,90.419,0.681,0
+67,"Manthramennal Orumanthram, Swamisaranam Devotional Hits of S. Ramesan Nair",3,1U2WnBgqT1a4SQD4pAUvgt,Udayasthamayangal,spotify:track:1U2WnBgqT1a4SQD4pAUvgt,0.312,0.739,0.428,0.0,0.15,-8.689,0.0484,91.999,0.77,0
+68,"Manthramennal Orumanthram, Swamisaranam Devotional Hits of S. Ramesan Nair",4,3fTfz9j0dNXAPeQEdy5R0Z,Malayittu Malakayarum,spotify:track:3fTfz9j0dNXAPeQEdy5R0Z,0.522,0.659,0.567,0.0,0.0762,-7.256,0.0598,159.897,0.68,0
+70,"Manthramennal Orumanthram, Swamisaranam Devotional Hits of S. Ramesan Nair",6,3vX3T0saHuqh5xzfbzDFJz,Oru Katham,spotify:track:3vX3T0saHuqh5xzfbzDFJz,0.438,0.664,0.81,1.51e-05,0.601,-6.152,0.0683,101.9,0.934,0
+71,"Manthramennal Orumanthram, Swamisaranam Devotional Hits of S. Ramesan Nair",7,5FaJmpS06OtuuOzIIWrhXT,Saranam Saranam Ennum,spotify:track:5FaJmpS06OtuuOzIIWrhXT,0.451,0.49,0.762,0.000114,0.242,-5.472,0.154,141.985,0.5,0
+73,"Iru Meyyum Oru Manassum, Evergreen Film Hits by S. Ramesan Nair",1,55Yj8IkKOlxu86UgToLEfD,Iru Meyyum (From “Njangal Santhushtaranu”),spotify:track:55Yj8IkKOlxu86UgToLEfD,0.614,0.444,0.477,1.12e-05,0.168,-13.334,0.171,102.869,0.542,5
+74,"Iru Meyyum Oru Manassum, Evergreen Film Hits by S. Ramesan Nair",2,7kRGVQgRkZB2GAxHGY06W1,Oru Muthum Thedi (From “Independence”),spotify:track:7kRGVQgRkZB2GAxHGY06W1,0.0878,0.822,0.477,5.17e-05,0.0718,-14.708,0.0425,119.993,0.484,4
+75,"Iru Meyyum Oru Manassum, Evergreen Film Hits by S. Ramesan Nair",3,6zHcDHysUKm1XJlRA8kach,Aravindanayana Nin (From “Kaiyethum Doorath”),spotify:track:6zHcDHysUKm1XJlRA8kach,0.571,0.669,0.247,0.000741,0.0721,-14.885,0.0402,117.973,0.228,2
+76,"Iru Meyyum Oru Manassum, Evergreen Film Hits by S. Ramesan Nair",4,6MntKcuD7fZQPatVNcKFL3,"Valakilukkana (From ""Kanmashi"")",spotify:track:6MntKcuD7fZQPatVNcKFL3,0.108,0.822,0.723,5.08e-05,0.075,-11.77,0.0385,102.515,0.899,3
+77,"Iru Meyyum Oru Manassum, Evergreen Film Hits by S. Ramesan Nair",5,6ysZzHjagI1bO1u11ZBxI0,Ilam Khalbile (From “Malsaram”),spotify:track:6ysZzHjagI1bO1u11ZBxI0,0.117,0.451,0.756,0.0,0.123,-4.969,0.0683,83.266,0.672,1
+78,"Iru Meyyum Oru Manassum, Evergreen Film Hits by S. Ramesan Nair",6,6E8a9scCt5v23EgDK11Zqk,Aadyamayonnu (From “Kaiyethum Doorathu”),spotify:track:6E8a9scCt5v23EgDK11Zqk,0.214,0.336,0.428,0.117,0.11,-13.428,0.127,83.007,0.204,2
+79,"Iru Meyyum Oru Manassum, Evergreen Film Hits by S. Ramesan Nair",7,6jTprT8tiILuFwuNHU9o0i,Udayam Valkannezhuthi (From “Njangal Santhushtaranu”),spotify:track:6jTprT8tiILuFwuNHU9o0i,0.367,0.719,0.602,2.28e-06,0.3,-13.237,0.0522,99.95,0.931,1
+80,"Iru Meyyum Oru Manassum, Evergreen Film Hits by S. Ramesan Nair",8,2xI0q4OXGXX0wwSgBuQSBi,"Nandalala Hey Nandalala (From ""Independence"")",spotify:track:2xI0q4OXGXX0wwSgBuQSBi,0.195,0.847,0.488,1.83e-06,0.125,-12.386,0.194,139.995,0.849,22
+81,Sreekrishna Devotional Songs,1,4uFTmx4GE2Kw1ehZ5GyY7R,Thuyilunaru,spotify:track:4uFTmx4GE2Kw1ehZ5GyY7R,0.5,0.613,0.516,0.0,0.24,-7.27,0.042,152.997,0.785,2
+82,Sreekrishna Devotional Songs,2,2WUgzWJ6iW2stQHXAbgqbp,Kamaladala Nayanangalil,spotify:track:2WUgzWJ6iW2stQHXAbgqbp,0.163,0.649,0.722,1.47e-05,0.24,-4.35,0.0288,151.91,0.889,3
+83,Sreekrishna Devotional Songs,3,3NBxDu4pJHFSvh7D6GT25N,Guruvayoorappa Ninne,spotify:track:3NBxDu4pJHFSvh7D6GT25N,0.773,0.488,0.541,2.86e-05,0.068,-10.481,0.0509,83.607,0.833,3
+84,Sreekrishna Devotional Songs,4,3no22aJY5p7ytqV6hx8s2R,Chembai Sangeetholsavam,spotify:track:3no22aJY5p7ytqV6hx8s2R,0.548,0.608,0.854,0.000754,0.427,-8.9,0.0695,92.114,0.866,2
+85,Sreekrishna Devotional Songs,5,3RkPXukxWloL6kXOimBlyU,Rasakeli,spotify:track:3RkPXukxWloL6kXOimBlyU,0.447,0.663,0.49,0.0,0.202,-7.627,0.04,112.114,0.61,2
+86,Sreekrishna Devotional Songs,6,0wga3dRm2CfHQE3u4Cwwzb,Guruvayoor Kanikandu,spotify:track:0wga3dRm2CfHQE3u4Cwwzb,0.813,0.529,0.575,0.0135,0.126,-11.109,0.0406,87.615,0.6,2
+87,Sreekrishna Devotional Songs,7,356IGkH07mDcdoMNtkqOIl,Kaliyamardana,spotify:track:356IGkH07mDcdoMNtkqOIl,0.187,0.706,0.623,0.0,0.156,-7.865,0.0428,171.935,0.94,2
+88,Sreekrishna Devotional Songs,8,79U6Xn95PXbbBc6KNnU889,Vrindavanathil Nin,spotify:track:79U6Xn95PXbbBc6KNnU889,0.626,0.34,0.554,0.0,0.703,-9.329,0.0455,176.39,0.661,2
+89,Sarppam Paattu,1,2ApibbKN21JE0IynXjnt4s,Ashtta Naagangalkken,spotify:track:2ApibbKN21JE0IynXjnt4s,0.41,0.532,0.584,0.0,0.527,-5.547,0.0387,168.108,0.652,0
+90,Sarppam Paattu,2,6nj3V4IlQ7z2BcUjNefe7v,Mannarassala Vaazhum,spotify:track:6nj3V4IlQ7z2BcUjNefe7v,0.132,0.664,0.679,0.000726,0.135,-5.997,0.0434,170.013,0.65,0
+91,Sarppam Paattu,3,55WfDEpFpagCHsr2P4cFTM,Aayillyam Pulari Vannu,spotify:track:55WfDEpFpagCHsr2P4cFTM,0.439,0.678,0.566,5.69e-05,0.276,-6.24,0.0373,170.065,0.765,0
+92,Sarppam Paattu,4,0qXIvgWttvblqkNCVzcvo1,Kivalya Lakshmi,spotify:track:0qXIvgWttvblqkNCVzcvo1,0.754,0.506,0.497,0.0,0.18,-6.255,0.0407,169.921,0.567,0
+93,Sarppam Paattu,5,2n7ULBU23QRcPxvqL0yBmQ,Polika Bhagavane,spotify:track:2n7ULBU23QRcPxvqL0yBmQ,0.246,0.754,0.625,9.33e-05,0.115,-6.097,0.029,140.09,0.671,0
+94,Sarppam Paattu,6,77S3utIuji6erbBouZquKX,Nombaram Kond,spotify:track:77S3utIuji6erbBouZquKX,0.487,0.657,0.501,5.17e-06,0.111,-6.023,0.036,82.994,0.543,0
+95,Sarppam Paattu,7,0QC6WjVf8Bxu0nBr1ENVdI,Sarppam Pattu Kettu Thozhan,spotify:track:0QC6WjVf8Bxu0nBr1ENVdI,0.06,0.805,0.543,0.0322,0.0722,-6.029,0.0366,140.097,0.878,1
+96,P. Jayachandran Birthday Special Songs,1,1qt9TDqeJ9W0NkxoW6Zdfr,"Urangan Nee (From ""Aadyamai"")",spotify:track:1qt9TDqeJ9W0NkxoW6Zdfr,0.734,0.64,0.221,1.26e-06,0.142,-13.074,0.0393,140.138,0.42,0
+97,P. Jayachandran Birthday Special Songs,2,1qZ0Ycuys8y6eU4UAiOIXU,"Jeevante Jeevanam (From ""Ormakkai"")",spotify:track:1qZ0Ycuys8y6eU4UAiOIXU,0.431,0.662,0.463,2.8e-06,0.108,-12.916,0.041,133.002,0.619,0
+98,P. Jayachandran Birthday Special Songs,3,2oFBHg3rmXu5YCT54qUyqq,"Aadyamai (From ""Aadyamai"")",spotify:track:2oFBHg3rmXu5YCT54qUyqq,0.518,0.553,0.356,1.15e-06,0.331,-10.57,0.0614,74.952,0.445,1
+99,P. Jayachandran Birthday Special Songs,4,6WYkfnmexuso7lPk1A6Ra1,"Innale Njan Kanda (From ""Ormakkai"")",spotify:track:6WYkfnmexuso7lPk1A6Ra1,0.169,0.66,0.556,0.000347,0.082,-11.594,0.0342,79.99,0.847,3
+100,P. Jayachandran Birthday Special Songs,5,42jz0Oqs6I6ri0sJgfTXhq,"Poonkuyile Poonkuyile (From ""Swantham"")",spotify:track:42jz0Oqs6I6ri0sJgfTXhq,0.444,0.547,0.382,0.075,0.125,-14.131,0.0361,156.012,0.369,0
+101,P. Jayachandran Birthday Special Songs,6,6dvWOJXGGsuuiIT8Fi6qWp,Enthinennariyilla (From “Swantham”),spotify:track:6dvWOJXGGsuuiIT8Fi6qWp,0.296,0.591,0.415,0.00303,0.163,-14.907,0.0474,159.991,0.596,9
+102,P. Jayachandran Birthday Special Songs,7,3pNk3KwN60l84SIjKBNWGd,Kadhayurangunnoru (From “Ennennum”),spotify:track:3pNk3KwN60l84SIjKBNWGd,0.497,0.677,0.674,0.0,0.169,-5.556,0.0326,135.075,0.61,0
+103,P. Jayachandran Birthday Special Songs,8,6otOGdXJOJRW9C724mHYFv,"Njanoru Malayali (From ""Jilebi"")",spotify:track:6otOGdXJOJRW9C724mHYFv,0.67,0.78,0.367,1.07e-06,0.128,-9.84,0.0384,99.967,0.711,0
+104,P. Jayachandran Birthday Special Songs,9,4U2DHIDykPRGPCXNfkZJUf,Mannappam Chuttu (From “Marubhoomiyile Aana”),spotify:track:4U2DHIDykPRGPCXNfkZJUf,0.311,0.864,0.791,1.91e-06,0.08,-6.812,0.124,142.471,0.96,0
+105,P. Jayachandran Birthday Special Songs,10,67gGB0BJWJE2AbjamqMjvv,Aval (From “Chila NewGen Naatuvisheshangal”),spotify:track:67gGB0BJWJE2AbjamqMjvv,0.439,0.684,0.326,2.52e-05,0.0906,-11.44,0.0458,96.567,0.36,0
+106,P. Jayachandran Birthday Special Songs,11,3bxg5zHm6mr8W7VtYMw3Jo,"Koottirikkan Pattukalundu (From ""Ammaykkoru Tharattu"")",spotify:track:3bxg5zHm6mr8W7VtYMw3Jo,0.44,0.686,0.428,4.02e-06,0.305,-7.856,0.0308,105.035,0.504,0
+108,P. Jayachandran Birthday Special Songs,13,5jKc0nWp2ORZy1tRAsBOVB,"Puzhayora Kadavathe (From ""Noolpalam"")",spotify:track:5jKc0nWp2ORZy1tRAsBOVB,0.285,0.363,0.525,0.0,0.373,-4.99,0.0375,158.055,0.342,0
+109,P. Jayachandran Birthday Special Songs,14,7C48YZYum4BUTslPd10QcM,"Mandanila Parilalithe (From ""Poppins"")",spotify:track:7C48YZYum4BUTslPd10QcM,0.0393,0.593,0.597,0.0,0.0908,-8.814,0.0407,139.956,0.327,0
+110,Dhaivam,1,7Cd91q2j7TcMDaTQqchPi2,Harinarayana Geetham,spotify:track:7Cd91q2j7TcMDaTQqchPi2,0.709,0.63,0.451,0.0,0.461,-8.411,0.0365,143.827,0.489,0
+111,Dhaivam,2,5F7pcBefwFbS1WbcrAyqwo,Vighna Nivarana,spotify:track:5F7pcBefwFbS1WbcrAyqwo,0.728,0.593,0.722,0.0,0.127,-5.893,0.0408,174.174,0.882,0
+112,Dhaivam,3,38Vy2WjjTseSDSJHAQrpOZ,Aalthoorile Hanumaane,spotify:track:38Vy2WjjTseSDSJHAQrpOZ,0.715,0.422,0.449,0.0,0.0751,-8.169,0.0531,154.442,0.669,0
+113,Dhaivam,4,7M2JPkGHAdqM2n58vSKTjm,Naalambala Sukha Darshanam,spotify:track:7M2JPkGHAdqM2n58vSKTjm,0.761,0.713,0.491,0.0,0.0674,-6.621,0.0505,128.509,0.651,0
+114,Dhaivam,5,7n2TvdAPt3i1VXtf3fGG1P,Adiyan Ee Paattil,spotify:track:7n2TvdAPt3i1VXtf3fGG1P,0.785,0.486,0.656,2.02e-06,0.714,-7.047,0.0569,76.115,0.743,0
+115,Dhaivam,6,6pcJCn4zQBHkYIs6Ii84bA,Dharmam Hanukkovore,spotify:track:6pcJCn4zQBHkYIs6Ii84bA,0.762,0.625,0.551,0.0,0.471,-7.72,0.0434,150.239,0.692,0
+116,Dhaivam,7,7q9zRgo242wORsIHwErb6j,Aalathooramarunna,spotify:track:7q9zRgo242wORsIHwErb6j,0.719,0.56,0.533,4.08e-05,0.6,-7.9,0.0441,171.988,0.711,0
+117,Ponmalavasan,1,3fyU0RXfGApeAz9hQi7hUS,Gambeeranattaye,spotify:track:3fyU0RXfGApeAz9hQi7hUS,0.74,0.608,0.64,0.0,0.114,-6.15,0.0585,98.128,0.368,0
+118,Ponmalavasan,2,74P3XT2KzvZon4DNPHxvZ3,Ayyanare,spotify:track:74P3XT2KzvZon4DNPHxvZ3,0.779,0.555,0.417,0.0,0.117,-5.913,0.0298,145.344,0.552,0
+119,Ponmalavasan,3,7pyZjBuHBiYqsWdNgGpd4U,Medasamkramam,spotify:track:7pyZjBuHBiYqsWdNgGpd4U,0.84,0.602,0.503,0.0,0.359,-6.131,0.0466,118.875,0.558,0
+120,Ponmalavasan,4,4hl8n9SkoiT2JcUEF5BHte,Sooryodayathinu,spotify:track:4hl8n9SkoiT2JcUEF5BHte,0.8,0.456,0.469,1.7e-06,0.139,-6.156,0.0382,92.198,0.3,0
+121,Ponmalavasan,5,0XjVjdkqXecIz7Hy9ix1sK,Swamisaranam,spotify:track:0XjVjdkqXecIz7Hy9ix1sK,0.718,0.532,0.481,0.0,0.267,-6.243,0.0301,105.82,0.645,0
+122,Ponmalavasan,6,0M7qDQhTpwC4zP2hKtGOm2,Sree Sabarimalaykk,spotify:track:0M7qDQhTpwC4zP2hKtGOm2,0.777,0.488,0.617,0.0,0.0794,-4.16,0.0454,95.732,0.396,0
+123,Ponmalavasan,7,1esscjL5GyrxgRuaNKrgSR,Karpooram Pookunna,spotify:track:1esscjL5GyrxgRuaNKrgSR,0.824,0.711,0.638,0.0,0.404,-4.558,0.0391,115.419,0.816,0
+124,Ponmalavasan,8,5Gva8mYUjcybKsrbv936sQ,Swami Saranam Saranam,spotify:track:5Gva8mYUjcybKsrbv936sQ,0.706,0.498,0.469,0.0,0.294,-9.275,0.21,164.711,0.761,0
+125,Ponmalavasan,9,3TD5FVJw6igW6mxq1lijX3,Ente Manassoru,spotify:track:3TD5FVJw6igW6mxq1lijX3,0.744,0.49,0.466,0.0,0.262,-3.479,0.0361,95.205,0.495,0
+126,Ponmalavasan,10,4xHWfIOXaDW1RpwX5M796y,Swami Thindakathom,spotify:track:4xHWfIOXaDW1RpwX5M796y,0.497,0.647,0.834,6.42e-06,0.0636,-4.61,0.0729,118.138,0.879,0
+127,Ponnambalathin Sreekovil Nadathurannu,1,7sYkgFDjf3qBkMG2MHdmp5,Sreekovil Nada Thurannu,spotify:track:7sYkgFDjf3qBkMG2MHdmp5,0.551,0.52,0.85,0.017,0.273,-6.761,0.0457,95.325,0.935,0
+128,Ponnambalathin Sreekovil Nadathurannu,2,2PxAqKzlc5mfsxDnzSEzH9,Varunnayyappa Njangal,spotify:track:2PxAqKzlc5mfsxDnzSEzH9,0.792,0.465,0.848,2.28e-05,0.324,-6.255,0.0548,139.737,0.668,0
+129,Ponnambalathin Sreekovil Nadathurannu,3,3fdQuhxhbOXdpcX4yLxNJh,Aadyam Ayyappane,spotify:track:3fdQuhxhbOXdpcX4yLxNJh,0.784,0.717,0.35,6.53e-05,0.111,-9.949,0.0339,143.996,0.612,0
+130,Ponnambalathin Sreekovil Nadathurannu,4,1GnEYywft3gZfuypItyPZQ,Pathinettu Padikeri,spotify:track:1GnEYywft3gZfuypItyPZQ,0.58,0.478,0.55,0.0,0.0869,-10.669,0.117,170.088,0.869,0
+131,Ponnambalathin Sreekovil Nadathurannu,5,0reoHOIz3jolBCoRZEeMDm,Enthu Cholli Ninne,spotify:track:0reoHOIz3jolBCoRZEeMDm,0.353,0.707,0.685,0.00679,0.0805,-8.84,0.0451,82.97,0.947,0
+132,Ponnambalathin Sreekovil Nadathurannu,6,1cawMvbwVc1xZ5mpLTlklp,Manthramennal Oru Manthram,spotify:track:1cawMvbwVc1xZ5mpLTlklp,0.578,0.683,0.513,9.29e-05,0.158,-9.083,0.0383,162.059,0.748,0
+133,Ponnambalathin Sreekovil Nadathurannu,7,5EoThkVdOaI4ofp79Y0fi7,Swami Paadam,spotify:track:5EoThkVdOaI4ofp79Y0fi7,0.887,0.693,0.295,0.0,0.225,-12.786,0.039,130.623,0.797,0
+134,Ponnambalathin Sreekovil Nadathurannu,8,6gynnyB67GgSjtFXPZ49uW,Malamelamarum Manikanda,spotify:track:6gynnyB67GgSjtFXPZ49uW,0.276,0.783,0.51,0.0,0.062,-9.543,0.0381,144.005,0.962,0
+135,Ponnambalathin Sreekovil Nadathurannu,9,4xLjLEzA1bq9BWGYilTdLA,Malikapurathamma,spotify:track:4xLjLEzA1bq9BWGYilTdLA,0.402,0.651,0.547,0.0,0.093,-8.932,0.121,95.12,0.523,0
+136,Palkkavadi,1,2VUwRJDrvtSXU4uh9wUZ8F,Kumkuma Mekhangal,spotify:track:2VUwRJDrvtSXU4uh9wUZ8F,0.848,0.614,0.549,0.0021,0.41,-6.856,0.0402,88.654,0.83,0
+137,Palkkavadi,2,5D3VBM2Cd3h3uVkPdq5EoG,Azhaginteyazhage,spotify:track:5D3VBM2Cd3h3uVkPdq5EoG,0.93,0.588,0.528,0.0,0.443,-6.938,0.0341,145.393,0.725,0
+138,Palkkavadi,3,6AA1WMVCX8chZeD1uaEnZA,Payyanur Perumale,spotify:track:6AA1WMVCX8chZeD1uaEnZA,0.912,0.457,0.436,2.72e-06,0.288,-7.592,0.0675,175.791,0.732,0
+139,Palkkavadi,4,1rLI6CeLoFczLcmmULsUxG,Sooryan,spotify:track:1rLI6CeLoFczLcmmULsUxG,0.864,0.537,0.467,0.0,0.205,-8.105,0.0502,90.328,0.772,0
+140,Palkkavadi,5,29Btrvt4TSfcMw7ceTVxrE,Vallikkum,spotify:track:29Btrvt4TSfcMw7ceTVxrE,0.765,0.563,0.783,3.96e-05,0.162,-6.533,0.053,137.413,0.891,0
+141,Palkkavadi,6,7umQschFzWRfDK6JCS1KDP,Thiruchendurilum,spotify:track:7umQschFzWRfDK6JCS1KDP,0.917,0.465,0.472,2.86e-05,0.242,-7.177,0.0385,153.496,0.479,0
+142,Palkkavadi,7,4VbgoxhvjGrO8EdtihLnMm,Harippattum,spotify:track:4VbgoxhvjGrO8EdtihLnMm,0.839,0.561,0.594,3.39e-06,0.296,-6.658,0.0508,152.891,0.924,0
+143,Palkkavadi,8,4X4fcNKpyIei7K5wqeEgFE,Payyannurambalathil,spotify:track:4X4fcNKpyIei7K5wqeEgFE,0.878,0.732,0.475,2.82e-05,0.087,-7.732,0.0482,125.639,0.753,0
+144,Palkkavadi,9,64rPhWmyDcGu8JnRgELl6H,Velenthi Vilaiyadum,spotify:track:64rPhWmyDcGu8JnRgELl6H,0.875,0.637,0.499,9.55e-05,0.158,-6.396,0.0389,83.395,0.734,0
+145,Palkkavadi,10,1eSEC2C9FdDfpsHvU4p23n,Kavadi Malarkkavadi,spotify:track:1eSEC2C9FdDfpsHvU4p23n,0.675,0.537,0.657,0.000431,0.0853,-7.043,0.0723,155.623,0.826,1
+146,Palkkavadi,11,7gyMv8vUosxAcySv4tPgPb,Veladuthu Vilayadum,spotify:track:7gyMv8vUosxAcySv4tPgPb,0.853,0.702,0.62,1.67e-05,0.109,-7.266,0.0862,123.146,0.911,0
+147,Palkkavadi,12,1ngB2363z0fWVMF7Kt86Bh,Dhanavare Nigrahikkan,spotify:track:1ngB2363z0fWVMF7Kt86Bh,0.855,0.696,0.414,0.00117,0.345,-9.256,0.0349,82.068,0.594,0
+148,Palkkavadi,13,1S8TdJTRNxwoEbQhBnAdOv,Sri Kodumbilambidum,spotify:track:1S8TdJTRNxwoEbQhBnAdOv,0.856,0.772,0.367,2.67e-06,0.0847,-8.641,0.0397,103.293,0.584,0
+149,Palkkavadi,14,5Gt89342YBOLx3MWw9ouzk,Perunnayilamarum,spotify:track:5Gt89342YBOLx3MWw9ouzk,0.793,0.638,0.403,2e-06,0.358,-8.61,0.0428,85.968,0.578,0
+150,Palkkavadi,15,7cswrEFXPuzhwRT6gA7FTN,Haripadu Vilayadum Vela,spotify:track:7cswrEFXPuzhwRT6gA7FTN,0.867,0.687,0.342,2.63e-05,0.294,-9.034,0.044,153.434,0.739,0
+151,Palkkavadi,16,5as7hDhq9nZ68nt18LrWoo,Hruthadam Vaanidum,spotify:track:5as7hDhq9nZ68nt18LrWoo,0.84,0.698,0.445,1.05e-05,0.0866,-9.927,0.0594,136.488,0.8,0
+152,Palkkavadi,17,440syVAF4esFKfUEu5fGGI,Payyannurin,spotify:track:440syVAF4esFKfUEu5fGGI,0.744,0.64,0.418,6.62e-05,0.34,-8.77,0.031,108.379,0.609,0
+153,Palkkavadi,18,5TUuVbAmZA35H5wPtUP0bV,Enguthanne Poyalum,spotify:track:5TUuVbAmZA35H5wPtUP0bV,0.782,0.677,0.466,0.0,0.223,-7.169,0.0379,87.497,0.737,0
+154,Palkkavadi,19,6X1lHdLPYYjMtR29yqVqHR,Palkavadi,spotify:track:6X1lHdLPYYjMtR29yqVqHR,0.811,0.567,0.388,0.0,0.105,-7.892,0.221,164.487,0.845,0
+155,"Evergreen Devotional Songs, Vol. 2",1,6TwY7zWy8oT00QHXJnRvtB,Thozhuthalum,spotify:track:6TwY7zWy8oT00QHXJnRvtB,0.716,0.57,0.438,2.29e-06,0.215,-10.192,0.0317,86.999,0.663,0
+156,"Evergreen Devotional Songs, Vol. 2",2,1VME3sFo80zTbBbQxBmIhB,Manassile,spotify:track:1VME3sFo80zTbBbQxBmIhB,0.681,0.582,0.502,6.1e-06,0.113,-8.862,0.0396,174.046,0.783,0
+158,"Evergreen Devotional Songs, Vol. 2",4,5K24VOPmu4ipMt4X67K4A0,Chottanikarayile,spotify:track:5K24VOPmu4ipMt4X67K4A0,0.464,0.581,0.47,0.0,0.211,-14.062,0.042,98.615,0.643,0
+159,"Evergreen Devotional Songs, Vol. 2",5,5CInF6pp1dX01J35qH7pZs,Modamodennum,spotify:track:5CInF6pp1dX01J35qH7pZs,0.494,0.527,0.45,1.88e-06,0.262,-14.521,0.0322,93.035,0.803,0
+160,"Evergreen Devotional Songs, Vol. 2",6,5IBTtiZxzWjTa0he9oGaER,Japamanimalayumay,spotify:track:5IBTtiZxzWjTa0he9oGaER,0.262,0.707,0.424,0.0,0.0895,-12.456,0.0399,88.927,0.722,0
+161,"Evergreen Devotional Songs, Vol. 2",7,2tV0mRqFxTW4KYigFjsmMT,Thinkal Thidambil,spotify:track:2tV0mRqFxTW4KYigFjsmMT,0.669,0.716,0.342,4.03e-06,0.137,-13.524,0.0323,148.059,0.823,0
+162,K. J. Yesudas And P. Jayachandran Evergreen Hits,1,3rzzG5i0LR9gUYjciTkSLq,Ambili Poovettam (From “Ennu Swantham Janakikutty”),spotify:track:3rzzG5i0LR9gUYjciTkSLq,0.351,0.732,0.441,4.33e-06,0.131,-10.229,0.0428,87.506,0.815,1
+163,K. J. Yesudas And P. Jayachandran Evergreen Hits,2,7r7Y86ywuSxB9KKxr8GiJ9,"Thenthulumbum Orma (From ""Ennu Swantham Janakikutty"")",spotify:track:7r7Y86ywuSxB9KKxr8GiJ9,0.44,0.641,0.505,7.46e-05,0.189,-9.95,0.0322,147.043,0.737,0
+164,K. J. Yesudas And P. Jayachandran Evergreen Hits,3,6wtH52iHRfWczXJlSSM6oY,"Dahaveenjin (From ""Independence"")",spotify:track:6wtH52iHRfWczXJlSSM6oY,0.0143,0.546,0.465,0.000297,0.237,-16.255,0.039,80.033,0.332,0
+165,K. J. Yesudas And P. Jayachandran Evergreen Hits,4,65px4yGUeeryhj6tRdEccq,"Akkayilikayile (From ""Kaiyethum Doorathu"")",spotify:track:65px4yGUeeryhj6tRdEccq,0.095,0.856,0.484,1.77e-06,0.128,-11.286,0.0615,113.848,0.545,0
+166,K. J. Yesudas And P. Jayachandran Evergreen Hits,5,4G6vDa1JZIYRjRl1P4g7DZ,Chakkaramavin Munthiri (From “Kanmashi”),spotify:track:4G6vDa1JZIYRjRl1P4g7DZ,0.124,0.731,0.479,0.0,0.142,-13.271,0.0334,100.015,0.802,0
+167,K. J. Yesudas And P. Jayachandran Evergreen Hits,6,6H5r56180my3QsAaJaBagO,"Ponkoodu (From ""Ammakilikoodu"")",spotify:track:6H5r56180my3QsAaJaBagO,0.101,0.596,0.593,0.00191,0.715,-8.916,0.0312,96.981,0.45,0
+168,K. J. Yesudas And P. Jayachandran Evergreen Hits,7,14pFsVmz1mkZqaIjr3D7bE,Thirudevikinne Neerattu (From “Nagarakavadam”),spotify:track:14pFsVmz1mkZqaIjr3D7bE,0.64,0.553,0.0141,0.0,0.171,-9.285,0.287,213.825,0.207,0
+169,K. J. Yesudas And P. Jayachandran Evergreen Hits,8,5rIk2vsNAkqhtkQMfl6HAH,"Kannante Karalile (From ""Ithu Manthramo Thanthramo Kuthanthramo"")",spotify:track:5rIk2vsNAkqhtkQMfl6HAH,0.654,0.614,0.476,0.0,0.0988,-7.743,0.0402,90.002,0.43,0
+171,K. J. Yesudas And P. Jayachandran Evergreen Hits,10,1qNXjzxkSxHYqhDGq3LUMI,"Aval (From ""Chila NewGen Nattuvisheshangal"")",spotify:track:1qNXjzxkSxHYqhDGq3LUMI,0.439,0.684,0.326,2.52e-05,0.0906,-11.44,0.0458,96.567,0.36,0
+172,P. Jayachandran Devotional Hits,1,1qxvEay0zHjk3mPTxkLvLS,Kanyakumariyil,spotify:track:1qxvEay0zHjk3mPTxkLvLS,0.822,0.54,0.354,3.41e-05,0.138,-17.712,0.0749,180.336,0.47,3
+173,P. Jayachandran Devotional Hits,2,6vIh49r98iDyY2P9G0t0Yg,Arikil Anayu,spotify:track:6vIh49r98iDyY2P9G0t0Yg,0.573,0.551,0.469,2.82e-06,0.373,-14.17,0.0365,126.852,0.653,3
+174,P. Jayachandran Devotional Hits,3,67HhvfFf31kkJCi3zd58lh,Thumpikaiyyal Onnu Thodu,spotify:track:67HhvfFf31kkJCi3zd58lh,0.708,0.688,0.406,1.8e-05,0.137,-9.834,0.0279,88.0,0.743,3
+175,P. Jayachandran Devotional Hits,4,2KLStt98rfxaA5XEndAM9z,Makaravilakku Kazhinjoo,spotify:track:2KLStt98rfxaA5XEndAM9z,0.382,0.633,0.522,0.0,0.417,-7.497,0.0253,100.008,0.662,3
+176,P. Jayachandran Devotional Hits,5,2UEWsMTBP5s1BLQ7dCNshb,Varumoro Ethirum Nee,spotify:track:2UEWsMTBP5s1BLQ7dCNshb,0.596,0.719,0.375,0.0,0.183,-8.653,0.0301,140.004,0.662,3
+177,P. Jayachandran Devotional Hits,6,76etsO5o9bO789ead9M0FM,Vishweshwaraya Nara,spotify:track:76etsO5o9bO789ead9M0FM,0.459,0.674,0.378,1.69e-05,0.139,-13.483,0.0298,139.884,0.589,2
+178,P. Jayachandran Devotional Hits,7,5rPesfWLEsr7oYxnkFrmOs,Idayanaay Neeyennum,spotify:track:5rPesfWLEsr7oYxnkFrmOs,0.85,0.685,0.429,6.14e-06,0.194,-8.832,0.0435,129.926,0.667,1
+179,P. Jayachandran Devotional Hits,8,7zyDFI7uyB3WeLUIiqA35l,Irukaikalum Neetti,spotify:track:7zyDFI7uyB3WeLUIiqA35l,0.698,0.7,0.521,0.0,0.181,-5.668,0.0301,140.097,0.859,1
+180,P. Jayachandran M. G. Sreekumar Album Hits,1,3CZVU6hWfsZJjuhL5XXgRm,Aadiyevide,spotify:track:3CZVU6hWfsZJjuhL5XXgRm,0.0624,0.64,0.594,0.0,0.138,-6.81,0.0277,115.105,0.72,0
+181,P. Jayachandran M. G. Sreekumar Album Hits,2,58xaZPY7Puxd4vhFwO0GVn,Padarnnadum Panathin,spotify:track:58xaZPY7Puxd4vhFwO0GVn,0.732,0.611,0.355,0.0,0.222,-10.609,0.0345,82.881,0.272,0
+182,P. Jayachandran M. G. Sreekumar Album Hits,3,5wSkmBJOUeqKavaxlJtnnT,Vazhiyethu Dishayethu,spotify:track:5wSkmBJOUeqKavaxlJtnnT,0.728,0.456,0.374,3.61e-05,0.283,-10.638,0.0443,179.253,0.499,0
+183,P. Jayachandran M. G. Sreekumar Album Hits,4,7q3pv5DlQ2qXZXw6lmlvqI,Mannasoru Vayanasala,spotify:track:7q3pv5DlQ2qXZXw6lmlvqI,0.726,0.604,0.521,0.000213,0.233,-10.195,0.0423,179.984,0.856,0
+184,P. Jayachandran M. G. Sreekumar Album Hits,5,1zorRefVfqHLIlGiJcW9et,Pathirakattu Veesi,spotify:track:1zorRefVfqHLIlGiJcW9et,0.377,0.647,0.524,0.0,0.161,-9.869,0.0418,87.004,0.652,0
+185,P. Jayachandran M. G. Sreekumar Album Hits,6,1SbBZmPj5flcw0KeIE9uAn,Santhwanamarulunna,spotify:track:1SbBZmPj5flcw0KeIE9uAn,0.421,0.6,0.456,0.0,0.197,-12.421,0.0529,79.934,0.452,0
+186,P. Jayachandran M. G. Sreekumar Album Hits,7,73mXDLvTzNOzVqRiedPXOD,Manassum Manassum,spotify:track:73mXDLvTzNOzVqRiedPXOD,0.527,0.625,0.385,0.0,0.145,-11.965,0.0373,135.053,0.393,0
+187,P. Jayachandran M. G. Sreekumar Album Hits,8,5hYX56c1isvoqK2j7awIzA,Arijirunnilla Njan,spotify:track:5hYX56c1isvoqK2j7awIzA,0.606,0.399,0.416,0.00161,0.113,-13.018,0.0349,75.316,0.313,0

@@ -1,0 +1,467 @@
+album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+Bhakti Rasaamrit,1,50EPCBTfBf5bLED35mfL1o,Pranam Mantra & Yaad Guru,spotify:track:50EPCBTfBf5bLED35mfL1o,0.89,0.546,0.447,0,0.623,-10.43,0.0508,84.756,0.611,12
+Bhakti Rasaamrit,2,0rEieVP93wWQArxyThjDnX,Radharas Bihari,spotify:track:0rEieVP93wWQArxyThjDnX,0.917,0.601,0.499,0.00012,0.159,-8.843,0.0322,141.04,0.647,12
+Bhakti Rasaamrit,3,4Nz9znlUbBG5VwJBCUE8uh,Mohe Lagi Lagan,spotify:track:4Nz9znlUbBG5VwJBCUE8uh,0.864,0.51,0.493,2.48E-06,0.236,-9.948,0.0658,80.475,0.596,11
+Bhakti Rasaamrit,4,5sLyxsnPvm5TscnMuZb7zH,Krishna Bhakti Ki Jyoti,spotify:track:5sLyxsnPvm5TscnMuZb7zH,0.882,0.698,0.504,0,0.0714,-9.195,0.0573,139.417,0.747,10
+Bhakti Rasaamrit,5,0nUCDzetV7s8hCyPojkPKV,Bhakti Rasamrit (Doha),spotify:track:0nUCDzetV7s8hCyPojkPKV,0.812,0.551,0.29,0,0.0653,-12.02,0.0313,82.62,0.627,10
+Bhakti Rasaamrit,6,12YuT4CcKRCDBpx5pWlT9q,Hey Govind Hey Gopal,spotify:track:12YuT4CcKRCDBpx5pWlT9q,0.925,0.455,0.534,0.000131,0.168,-9.391,0.034,129.923,0.774,10
+Bhakti Rasaamrit,7,2VqsB94IweQUW07sinmZJR,Jaya Gopala Shyam Lala,spotify:track:2VqsB94IweQUW07sinmZJR,0.875,0.591,0.605,4.62E-06,0.538,-9.085,0.038,80.373,0.822,9
+Bhakti Rasaamrit,8,0mJqPK8FbovudapRJ6ZdJN,Shlok & Maha Mantra,spotify:track:0mJqPK8FbovudapRJ6ZdJN,0.611,0.438,0.666,0,0.209,-8.191,0.0599,120.435,0.61,11
+Bhakti Rasaamrit,9,4HJiHFCwdlSgNBNGoBhdnS,Samapti Shlok,spotify:track:4HJiHFCwdlSgNBNGoBhdnS,0.958,0.229,0.238,0,0.0833,-11.277,0.0384,79.458,0.103,8
+Prabhupada Kripa,1,3TcuMowjV7jz6DdTvtGzHH,Srila Prabhupad Pranam,spotify:track:3TcuMowjV7jz6DdTvtGzHH,0.733,0.525,0.514,0,0.152,-9.793,0.0419,86.895,0.857,12
+Prabhupada Kripa,2,7wV9EdQZX0oTmaWBOx4Dwm,Srila Prabhupada Vandana,spotify:track:7wV9EdQZX0oTmaWBOx4Dwm,0.692,0.499,0.517,0,0.143,-9.545,0.0402,86.679,0.579,12
+Prabhupada Kripa,3,0BIha7GHxXryREUggnQyac,Sri Pancha Tattva Pranam,spotify:track:0BIha7GHxXryREUggnQyac,0.99,0.412,0.131,1.18E-05,0.105,-11.901,0.0326,70.198,0.176,11
+Prabhupada Kripa,4,4nsTZcEBvIluJO8TorCxSp,Hare Krishna Kirtan,spotify:track:4nsTZcEBvIluJO8TorCxSp,0.592,0.45,0.564,0,0.161,-9.407,0.0534,78.093,0.898,17
+Prabhupada Kripa,5,3rhnxdMLH2nQa1ir8XLmrg,Kirtan Karke Tihara,spotify:track:3rhnxdMLH2nQa1ir8XLmrg,0.836,0.632,0.44,1.08E-06,0.27,-10.973,0.0414,71.842,0.65,11
+Prabhupada Kripa,6,4rJkmeOq04WS8DBL4uVAUs,Girdhari Re,spotify:track:4rJkmeOq04WS8DBL4uVAUs,0.796,0.498,0.462,0,0.207,-10.004,0.0352,149.112,0.787,11
+Prabhupada Kripa,7,0s6FmpVFS7ggzLJmxIb1Yy,Sri Sri Radha Rasbihari Aarti,spotify:track:0s6FmpVFS7ggzLJmxIb1Yy,0.784,0.628,0.663,0,0.0364,-8.173,0.0276,98.968,0.922,16
+Prabhupada Kripa,8,31oT5BD4SAuPId86dJoGkt,Jaiy Radha Madhav,spotify:track:31oT5BD4SAuPId86dJoGkt,0.811,0.602,0.557,0,0.0802,-9.674,0.0411,81.947,0.606,9
+Prabhupada Kripa,9,05O2KRxPPlXroMdjCHGURT,Radhe Radhe Shyamal Pyari,spotify:track:05O2KRxPPlXroMdjCHGURT,0.821,0.54,0.439,0,0.311,-9.098,0.0325,143.231,0.635,11
+Prabhupada Kripa,10,6GCedIPixcd3XB5Fx16OhL,Harer Nama Eva Kevalam,spotify:track:6GCedIPixcd3XB5Fx16OhL,0.896,0.302,0.189,0,0.107,-9.563,0.0442,78.947,0.181,9
+Prabhupada Kripa,11,4a3q6SgtQOY7Yp3DQrKGBx,Hare Krishna Krishna Kirtan,spotify:track:4a3q6SgtQOY7Yp3DQrKGBx,0.509,0.354,0.607,0,0.616,-9.468,0.0325,92.185,0.903,10
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,1,2dpMVY3LuASYIcM9anyXMZ,Aarti Kije Hanuman Lala Ki (Aarti Bajrang Bali Ki),spotify:track:2dpMVY3LuASYIcM9anyXMZ,0.605,0.512,0.704,0,0.315,-7.693,0.0301,88.607,0.847,4
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,2,6H6ZbLYNqE55XU4dyZEMZb,Aarti Kije Shri Raghuvar Ki (Aarti Shri Ram Ji Ki),spotify:track:6H6ZbLYNqE55XU4dyZEMZb,0.724,0.429,0.484,0,0.101,-14.998,0.0691,131.17,0.781,16
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,3,3a7fBwZE3qNZrjqXocNLOh,Aarti Kunjbihari Ki Shri Girdhar Krishna Murari Ki,spotify:track:3a7fBwZE3qNZrjqXocNLOh,0.804,0.61,0.651,0,0.236,-7.874,0.0734,126.09,0.854,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,4,77t7qpj3nWUPteZvhxuxfq,Aarti Sai Baba Saukhyadatara Jeeva - Shirdi Original Aarti,spotify:track:77t7qpj3nWUPteZvhxuxfq,0.435,0.592,0.831,0,0.235,-5.364,0.124,180.193,0.799,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,5,6mS0MhYstIqT5yfTLgwr60,Aisi Laagi Lagan - Krishna Meera Bhajan,spotify:track:6mS0MhYstIqT5yfTLgwr60,0.174,0.735,0.591,0,0.057,-10.284,0.129,147.968,0.856,4
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,6,5Vav4V9xivMGNyLnAx7V2D,Ambe Tu Hai Jagdambe Kaali - Maa Durga Aarti,spotify:track:5Vav4V9xivMGNyLnAx7V2D,0.595,0.63,0.76,0,0.241,-5.735,0.0387,89.006,0.929,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,7,0mZ7bXkctW8YIk18ZuDtzC,Barsane Wali Radhe,spotify:track:0mZ7bXkctW8YIk18ZuDtzC,0.238,0.687,0.872,0,0.356,-6.762,0.046,104.997,0.848,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,8,5lPpcxBbeXXbFn4lTlNbgX,Bhor Bhayi Din Chadh Gaya (Maa Amba Ki Aarti),spotify:track:5lPpcxBbeXXbFn4lTlNbgX,0.304,0.691,0.959,0,0.12,-3.478,0.128,87.038,0.671,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,9,00pee038E0VpyDWkt4YzY6,Daampatya Sukhapraptarthya Mantra (For Happy Married Life),spotify:track:00pee038E0VpyDWkt4YzY6,0.828,0.354,0.357,9.12E-05,0.339,-9.574,0.0315,110.135,0.133,4
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,10,1DcdaEr3Uy0ENf3WVjE7xj,Deerghaayu Praapti Mantra (For Long and Healthy Life),spotify:track:1DcdaEr3Uy0ENf3WVjE7xj,0.89,0.393,0.25,4.92E-06,0.231,-8.749,0.0326,82.288,0.38,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,11,5wZAXZNGHMkTYuHEjNuQBD,Duniya Chale Na Shri Ram Ke Bina,spotify:track:5wZAXZNGHMkTYuHEjNuQBD,0.606,0.766,0.894,0,0.091,-3.126,0.0959,145.956,0.929,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,12,2KwhvDmd1pfAUl52QUETDo,Gayatri Mantra (Om Bhur Bhuvah Swaha),spotify:track:2KwhvDmd1pfAUl52QUETDo,0.898,0.439,0.239,3.67E-06,0.0871,-10.885,0.0321,91.004,0.206,6
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,13,6K7AscdOoUKPpZ62kuHAqi,Govind Bolo Hari Gopal Bolo - Krishna Dhuni,spotify:track:6K7AscdOoUKPpZ62kuHAqi,0.5,0.489,0.687,1.27E-05,0.0978,-8.73,0.0453,87.137,0.828,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,14,2nNSCNXQLKE7VxbHhMcMc4,Govind Jai Jai Gopal Jai Jai - Krishna Dhuni,spotify:track:2nNSCNXQLKE7VxbHhMcMc4,0.121,0.693,0.795,0,0.141,-9.284,0.158,120.086,0.706,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,15,69aGn7YOzJdn6LWzPC6L00,Graha Sampatti Praapti Mantra(To Gain Property and Wealth),spotify:track:69aGn7YOzJdn6LWzPC6L00,0.963,0.279,0.138,1.35E-05,0.294,-10.492,0.0398,81.457,0.353,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,16,1XC2kryNgKqQT92xYnFg2V,Hare Krishna Hare Krishna Krishna Mantra,spotify:track:1XC2kryNgKqQT92xYnFg2V,0.216,0.62,0.638,0,0.116,-8.837,0.0324,94.013,0.831,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,17,5X3Ujeavxu0fDCVmzoLPOh,Hey Ram Hey Ram - Shree Ram Dhun - Tribute to Jagjit Singh,spotify:track:5X3Ujeavxu0fDCVmzoLPOh,0.562,0.607,0.55,0,0.0624,-10.364,0.0282,90.002,0.7,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,18,1bQzh5Di6QspWZSkdZBnjL,Jag Mein Sunder Hain Do Naam - Rama Krishna Bhajan,spotify:track:1bQzh5Di6QspWZSkdZBnjL,0.335,0.548,0.591,0,0.106,-10.291,0.0515,87.139,0.81,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,19,6WjqvaDnNB9ko9mBX6eNhB,Jai Hanuman Gyan Gun Saagar (Hanumanji Chalis),spotify:track:6WjqvaDnNB9ko9mBX6eNhB,0.448,0.35,0.827,0,0.235,-9.206,0.0762,108.124,0.726,17
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,20,2vS54dpHDpiKA0FVUDtDhT,Jai Jai Shanideva Bhaktan Hitkari (Aarti Shani Dev Ki),spotify:track:2vS54dpHDpiKA0FVUDtDhT,0.491,0.77,0.498,0,0.0824,-8.298,0.0312,152.004,0.539,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,21,6ZPJC01V9xyAs6ac2x7adK,Jaise Suraj Ki Garmi Se - Nirgun Bhajan,spotify:track:6ZPJC01V9xyAs6ac2x7adK,0.151,0.754,0.533,0,0.0572,-11.19,0.033,94.984,0.81,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,22,6U3QDR47UkyVsUVqavRsO0,Lakshmi Prasannaarth Mantra (To Please Goddess Laxmi),spotify:track:6U3QDR47UkyVsUVqavRsO0,0.609,0.676,0.482,0.000268,0.214,-8.928,0.0314,132.788,0.547,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,23,2SC93JdCwyynIjwnGiWa13,Maha Mrityunjaya Mantra (Om Tryambakam Yajamahe Shiv Mantra),spotify:track:2SC93JdCwyynIjwnGiWa13,0.885,0.487,0.398,0.00302,0.0847,-10.331,0.0425,159.332,0.39,7
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,24,5FReFqyHagElDWokIq46rY,Mahalakshmi Namastubhyam (Maha Laxmi Mantra),spotify:track:5FReFqyHagElDWokIq46rY,0.983,0.488,0.308,0,0.0811,-9.6,0.0392,139.529,0.411,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,25,2DZprciftcyiu34nRd6sRQ,Maiya Mori Main Nahi Makhan - Bal Krishna Yashoda Bhajan,spotify:track:2DZprciftcyiu34nRd6sRQ,0.191,0.66,0.679,0,0.0876,-8.257,0.0556,85.381,0.797,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,26,56C00dwiF7CVcoY1SDAWg5,Mangalam Bhagwan Vishnu Mangalam Garudadhwaja - Narayana Mantra,spotify:track:56C00dwiF7CVcoY1SDAWg5,0.679,0.756,0.748,0,0.0363,-5.526,0.0353,136.083,0.806,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,27,6bMp95EdaDZ5e0Ui2yDgdK,Namo Ari Hantanam (Namokar Mantra Bhagwan Mahavir Jain),spotify:track:6bMp95EdaDZ5e0Ui2yDgdK,0.862,0.563,0.624,0,0.0778,-5.888,0.039,153.919,0.778,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,28,1aqx3NDSywTu5hjI4N8512,Nand Ke Anand Bhayo Jai Kanhaiya Lal Ki - Janamashtami Matki Fod Bhajan,spotify:track:1aqx3NDSywTu5hjI4N8512,0.213,0.454,0.827,0,0.0699,-5.609,0.0952,142.599,0.691,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,29,5XlHOzTy3BsnTNTXS5BmZq,Nish Din Namoon Ganpati Charan (Ganesh Ji Bhajan),spotify:track:5XlHOzTy3BsnTNTXS5BmZq,0.627,0.702,0.435,0,0.185,-11.997,0.0371,143.015,0.845,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,30,7cnP2qjq79c6ODYrJU1giW,Om Gan Ganpatye Namo Namah (Ganesh Mantra),spotify:track:7cnP2qjq79c6ODYrJU1giW,0.685,0.792,0.774,0,0.0351,-5.961,0.034,136.013,0.961,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,31,7u0j2irj5UqmerUTzoWz0y,Om Jai Ambe Gauri (Aarti Maa Durga Ji,spotify:track:7u0j2irj5UqmerUTzoWz0y,0.78,0.639,0.58,0,0.165,-9.089,0.0395,87.369,0.843,21
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,32,5rT1tSeb5TSgasnL2r1UAc,Om Jai Gange Mata (Aarti Ganga Maiya Ki),spotify:track:5rT1tSeb5TSgasnL2r1UAc,0.816,0.435,0.352,0,0.376,-17.373,0.0473,163.99,0.864,6
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,33,2f7YqqcH6PTO5QwF7g1rTB,Om Jai Jagdish Hare (Aarti Vishnu Ji Ki),spotify:track:2f7YqqcH6PTO5QwF7g1rTB,0.828,0.589,0.657,0,0.342,-6.381,0.0341,93.08,0.862,13
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,34,6EsgDaM3rpBYvbJhRYNtgp,Om Jai Lakshmi Mata (Aarti Laxmi Ji Ki),spotify:track:6EsgDaM3rpBYvbJhRYNtgp,0.721,0.388,0.329,0,0.186,-18.279,0.0524,167.818,0.798,11
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,35,00vU0XLuUHD8aSYiDxyGoe,Om Jai Santoshi Mata (Aarti Santoshi Mata Ki),spotify:track:00vU0XLuUHD8aSYiDxyGoe,0.764,0.693,0.46,0,0.251,-12.662,0.0367,93.57,0.888,7
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,36,03nT7JhLAtKCjWQXDbwd5o,Om Jai Shiv Onkara (Aarti Shivji Ki),spotify:track:03nT7JhLAtKCjWQXDbwd5o,0.739,0.593,0.512,0,0.18,-12.974,0.0316,90.944,0.828,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,37,7fOMifE8JOVjTipSS92ZPz,Om Jai Shiv Shakti Hare (Aarti Mahadev Shankar Ji Ki),spotify:track:7fOMifE8JOVjTipSS92ZPz,0.828,0.684,0.517,0,0.377,-9.525,0.0352,105.356,0.794,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,38,55W7FRtlyEkhVPR9mBiqwg,Om Namo Bhagwate Vasudevaye Namah (Vishnu Mantra),spotify:track:55W7FRtlyEkhVPR9mBiqwg,0.985,0.37,0.433,0,0.134,-10.541,0.0395,50.639,0.294,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,39,5iI6ftQVd5y9l3qmKfC73p,Om Sai Namo Namah - Shirdi Waley Baba Mantra,spotify:track:5iI6ftQVd5y9l3qmKfC73p,0.676,0.746,0.755,0,0.0364,-6.839,0.0337,136.006,0.958,3
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,40,6deK06MN9ZQVUUEGnJtXzj,Payoji Maine Ram Ratan Dhan - Rama Bhajan by Meera,spotify:track:6deK06MN9ZQVUUEGnJtXzj,0.196,0.392,0.643,0,0.436,-8.859,0.0515,85.882,0.856,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,41,0ZMJdJfNJBo2IKru5FzZpR,Radhe Krishna Radhe Krishna - Radhe Krishan Dhuni,spotify:track:0ZMJdJfNJBo2IKru5FzZpR,0.806,0.451,0.607,0,0.117,-5.737,0.0467,199.82,0.841,0
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,42,7LAvxoMWfNwg6fon02J76I,Raghupati Raghav Raja Ram - Rama Mantra by Mahatma Gandhi,spotify:track:7LAvxoMWfNwg6fon02J76I,0.796,0.486,0.489,0,0.118,-14.709,0.0391,85.485,0.748,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,43,51gpaZV7Vwl2Xuu7JsygEF,Rang De Chunariya Shyam Piya Mori - Radha Krishna Holi Bhajan,spotify:track:51gpaZV7Vwl2Xuu7JsygEF,0.164,0.551,0.67,0,0.0461,-10.999,0.104,170.167,0.891,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,44,60O6ACGrOZRCaEAFKDHPH1,Sai Ram Sai Ram (Shirdi Wale Baba Ki Dhuni),spotify:track:60O6ACGrOZRCaEAFKDHPH1,0.42,0.6,0.655,1.93E-06,0.0752,-7.356,0.0359,208.055,0.812,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,45,3OtFG8WQNvTu6M9CswRQ9y,Shaanti Mantra (For Inner Peace),spotify:track:3OtFG8WQNvTu6M9CswRQ9y,0.75,0.546,0.475,0,0.163,-8.141,0.0293,131.143,0.447,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,46,1KU3sOxgyR5rnS6gkAudZ1,Shri Krishna Govind Hare Murari - Krishan Narayan Dhuni,spotify:track:1KU3sOxgyR5rnS6gkAudZ1,0.129,0.642,0.493,0,0.0986,-9.228,0.0337,93.981,0.695,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,47,5vkz47YyRLyckEkITC1VKw,Shri Ramchandra Kripalu Bhajuman - Rama Stuti,spotify:track:5vkz47YyRLyckEkITC1VKw,0.523,0.638,0.436,3.89E-06,0.0891,-12.657,0.0359,149.936,0.807,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,48,63OCfmDeq9aJl9aUoDbvSc,Shriman Narayan Narayan Narayan - Vishnu Dhuni,spotify:track:63OCfmDeq9aJl9aUoDbvSc,0.295,0.637,0.53,0,0.0997,-9.995,0.0472,90.001,0.681,2
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,49,5l5gWon7rc6q1c9ksJ1Enm,Sukhkarta Dukhharta - Ganesh Siddhivinayak Ji Ki Aarti,spotify:track:5l5gWon7rc6q1c9ksJ1Enm,0.822,0.79,0.744,0,0.103,-6.265,0.028,98.011,0.966,1
+Prarthana 51 Best of Divine Spiritual Aartis Bhajans Mantras Shloka and Dhuni,50,0J1GiYvd1gt2FbgCVmGCDS,Vakratunda Mahakaay Suryakoti Samaprabha - Shri Ganesh Mantra,spotify:track:0J1GiYvd1gt2FbgCVmGCDS,0.643,0.734,0.688,0,0.0355,-6.522,0.0408,135.994,0.878,2
+Pavitra Saicharitra Padavali,1,395mVri3FgxlJ13D5F0jFu,Tum To Nayan Ki Jyot Ho,spotify:track:395mVri3FgxlJ13D5F0jFu,0.52,0.535,0.631,0,0.0525,-7.346,0.0341,80.114,0.689,5
+Pavitra Saicharitra Padavali,2,0fJB4u3iNV4R87d85A3pvf,Do Akshar Ka Naam Sai Ka,spotify:track:0fJB4u3iNV4R87d85A3pvf,0.366,0.588,0.603,0,0.0709,-7.453,0.0361,86.664,0.664,5
+Pavitra Saicharitra Padavali,3,2U8rWzsdWXOwHWlno7TYFh,Sai Hai Shraddha,spotify:track:2U8rWzsdWXOwHWlno7TYFh,0.327,0.546,0.625,0,0.298,-8.36,0.0447,100.2,0.751,5
+Pavitra Saicharitra Padavali,4,5EjIqj0Eqz1ym7RD1TJZfE,Tumhi Adi Ho Tumhi Ant Ho,spotify:track:5EjIqj0Eqz1ym7RD1TJZfE,0.564,0.338,0.674,0,0.289,-7.268,0.0375,177.491,0.873,4
+Pavitra Saicharitra Padavali,5,7hrfKJLYQZMFTbEvZW9RrQ,Jag Mein Sancha Hai,spotify:track:7hrfKJLYQZMFTbEvZW9RrQ,0.421,0.63,0.532,0.000141,0.129,-7.485,0.0318,92.503,0.764,4
+Pavitra Saicharitra Padavali,6,14CEeqJr8y9gXr2d4BxNP2,Kehle Manwa Sai Sai,spotify:track:14CEeqJr8y9gXr2d4BxNP2,0.506,0.561,0.619,1.43E-06,0.231,-8.768,0.0352,83.983,0.904,4
+Pavitra Saicharitra Padavali,7,1Uniyd3PdA4MMpgheEtN6Y,Sheetal Jal Barsao Sai,spotify:track:1Uniyd3PdA4MMpgheEtN6Y,0.509,0.643,0.516,0,0.0748,-6.78,0.0301,134.956,0.752,4
+Pavitra Saicharitra Padavali,8,3bGX4uNoNRPMkMbZ3IhnFm,Tan To Sai Ko Arpan Hai,spotify:track:3bGX4uNoNRPMkMbZ3IhnFm,0.489,0.424,0.589,1.19E-06,0.107,-6.986,0.0352,149.973,0.787,3
+"Bhor Bhaye, Vol. 1",1,0wEcRJdb1Wl2HV8WSWKEVd,Gaiye Ganpati Gungan,spotify:track:0wEcRJdb1Wl2HV8WSWKEVd,0.414,0.393,0.588,8.67E-05,0.444,-12.563,0.0386,171.015,0.734,3
+"Bhor Bhaye, Vol. 1",2,4HwDZDyCeYQbJ8Q5cMq7nD,Jagdambe Bhavani,spotify:track:4HwDZDyCeYQbJ8Q5cMq7nD,0.357,0.549,0.575,2.56E-05,0.485,-12.255,0.0371,108.381,0.658,3
+"Bhor Bhaye, Vol. 1",3,06n2fGrZmeSCIkoPlytmRf,Chalo Chalo Shivji Ke Dwar,spotify:track:06n2fGrZmeSCIkoPlytmRf,0.453,0.618,0.652,1.19E-06,0.587,-12.671,0.0486,118.217,0.797,3
+"Bhor Bhaye, Vol. 1",4,1nxqXUFMrGRvGjCpAvOu8T,Ishwar Ke Gun Gaata Nhi,spotify:track:1nxqXUFMrGRvGjCpAvOu8T,0.281,0.522,0.588,3.64E-06,0.186,-12.666,0.0389,106.39,0.709,2
+"Bhor Bhaye, Vol. 1",5,2Jp1epcJhcnCjNOuWL7D31,Tere Poojan Ko Bhagwan,spotify:track:2Jp1epcJhcnCjNOuWL7D31,0.579,0.525,0.563,0.00101,0.361,-12.737,0.0785,120.561,0.705,2
+"Bhor Bhaye, Vol. 1",6,3OVpZ0RCdULuX1CkrPVyYS,Jako Raakhe Saaiyan,spotify:track:3OVpZ0RCdULuX1CkrPVyYS,0.414,0.458,0.533,0.00799,0.664,-12.403,0.0584,88.274,0.655,2
+"Bhor Bhaye, Vol. 1",7,7sqAZibtp73YTauj3p3HHS,Jhini Jhini Re,spotify:track:7sqAZibtp73YTauj3p3HHS,0.452,0.628,0.642,0.000666,0.389,-11.886,0.0459,88.783,0.884,2
+"Bhor Bhaye, Vol. 1",8,7lHjeXVal3ZtgBWzNmctzI,Ajhoon Nikashe Pran,spotify:track:7lHjeXVal3ZtgBWzNmctzI,0.598,0.459,0.559,0.000523,0.368,-12.851,0.0618,146.908,0.711,2
+"Bhor Bhaye, Vol. 1",9,40ihEEAVY6opPy088c8Ao4,Samajh Boojh Dil,spotify:track:40ihEEAVY6opPy088c8Ao4,0.43,0.477,0.436,2.59E-05,0.815,-13.227,0.0403,79.294,0.544,2
+"Bhor Bhaye, Vol. 1",10,4UtuySPfcGoY5r2gvYXi6k,Jaag Surati Ab Kahe,spotify:track:4UtuySPfcGoY5r2gvYXi6k,0.763,0.536,0.477,4.70E-05,0.483,-13.462,0.055,79.201,0.644,2
+"Bhor Bhaye, Vol. 1",11,5eSGodZdqR1DLuBM3wcIEU,Ab Kaise Choote,spotify:track:5eSGodZdqR1DLuBM3wcIEU,0.762,0.543,0.475,0.000205,0.4,-13.548,0.198,83.658,0.581,2
+"Bhor Bhaye, Vol. 1",12,20tSlICCiVMsLnN0P39xZq,Bhaj Le Re Man Ram Ram,spotify:track:20tSlICCiVMsLnN0P39xZq,0.589,0.617,0.683,0.000127,0.401,-12.32,0.0498,89.549,0.88,2
+Shree Hanuman Chalisa,1,5hb4S1G39QY2NOKfRNrAqL,Mangal Moorti Nandan,spotify:track:5hb4S1G39QY2NOKfRNrAqL,0.706,0.414,0.509,0,0.0914,-10.268,0.028,91.245,0.757,11
+Shree Hanuman Chalisa,2,2HDoLUUwTGLDOYf8YJbGFW,He Bajrang Bali Hanuman,spotify:track:2HDoLUUwTGLDOYf8YJbGFW,0.758,0.477,0.479,0,0.222,-10.447,0.0286,94.783,0.655,2
+Shree Hanuman Chalisa,3,6lJXmIakihjWSQHo7egTFQ,Pawansut Hanuman Barambaar,spotify:track:6lJXmIakihjWSQHo7egTFQ,0.715,0.44,0.728,0,0.0786,-8.494,0.0429,90.24,0.666,3
+Shree Hanuman Chalisa,4,0meMzFiNFQoCmjA6cJR7Fx,Jai Jai Hanuman Gosain,spotify:track:0meMzFiNFQoCmjA6cJR7Fx,0.851,0.404,0.282,0,0.0809,-12.29,0.0335,84.046,0.557,11
+Shree Hanuman Chalisa,6,5qruT9HL1Jme6hhcAxjMsb,Sankatmochan Hanumanashtak,spotify:track:5qruT9HL1Jme6hhcAxjMsb,0.728,0.475,0.382,0,0.162,-11.098,0.0422,95.105,0.645,3
+Shree Hanuman Chalisa,7,3Wua0UbrrqoBQbrqFR7odk,Hanumanji Ki Aarti,spotify:track:3Wua0UbrrqoBQbrqFR7odk,0.564,0.444,0.38,0,0.563,-10.759,0.0294,92.703,0.691,8
+Shree Hanuman Chalisa,8,4ar8jSFzoZgv3wnCE97WOG,Sampati Vandana,spotify:track:4ar8jSFzoZgv3wnCE97WOG,0.934,0.339,0.297,0,0.0732,-11.984,0.0386,168.466,0.426,3
+Daata Ek Ram,3,5ToSsQX3kxNMZozcozWmgQ,Ram Sumir Ke Rehm,spotify:track:5ToSsQX3kxNMZozcozWmgQ,0.569,0.302,0.492,0,0.133,-13.058,0.0449,83.022,0.69,1
+Daata Ek Ram,5,1exAS09UsmjaTGtrXx1d3Z,Jinke Hriday Ram Ramey,spotify:track:1exAS09UsmjaTGtrXx1d3Z,0.337,0.616,0.442,0,0.04,-14.418,0.11,86.64,0.821,0
+Daata Ek Ram,6,4WYkPo46uKD8LXHsfXy8qA,Tere Dar Ko Chod,spotify:track:4WYkPo46uKD8LXHsfXy8qA,0.938,0.356,0.418,9.48E-05,0.159,-13.435,0.0394,173.098,0.47,1
+Daata Ek Ram,7,0PrCK3fy8bhBXV9bUcKThz,Ram Ramaiya,spotify:track:0PrCK3fy8bhBXV9bUcKThz,0.608,0.497,0.487,0,0.375,-13.997,0.0514,110.363,0.577,0
+Daata Ek Ram,8,25M0uJGVZEmeqBuJl997dI,Sab Ka Bhala,spotify:track:25M0uJGVZEmeqBuJl997dI,0.403,0.52,0.466,0,0.0543,-15.947,0.0541,112.051,0.742,0
+Daata Ek Ram,9,4J7kKAGtbfIeslVlnEBfwJ,Ram Rahim Ram Ram,spotify:track:4J7kKAGtbfIeslVlnEBfwJ,0.667,0.419,0.338,0,0.085,-14.356,0.0279,83.992,0.296,1
+Daata Ek Ram,10,4IH08K4hliobBoMBH4h1Hb,Aarti Kije Sri Raghuvar Ki,spotify:track:4IH08K4hliobBoMBH4h1Hb,0.489,0.436,0.498,0,0.0461,-13.678,0.082,126.371,0.739,0
+Sampooran Sundar Kand,1,4drQyRLhBGKykMQ9nCk3MC,"Sampoorna Sundar Kand, Pt. 1",spotify:track:4drQyRLhBGKykMQ9nCk3MC,0.775,0.408,0.444,0,0.137,-12.598,0.041,95.03,0.495,18
+Sampooran Sundar Kand,2,7pNk7Rbyn2xtF8PD3q9BlO,"Sampoorna Sundar Kand, Pt. 2",spotify:track:7pNk7Rbyn2xtF8PD3q9BlO,0.878,0.445,0.311,1.63E-06,0.0806,-14.801,0.0554,92.611,0.489,9
+Sampooran Sundar Kand,3,0ssaTkOe2Zk8BMJF10rlvw,"Sampoorna Sundar Kand, Pt. 3",spotify:track:0ssaTkOe2Zk8BMJF10rlvw,0.87,0.421,0.362,4.69E-05,0.118,-13.97,0.0532,84.22,0.422,7
+Sampooran Sundar Kand,4,2dtK9tuNktvYL8gHVE1q3q,"Sampoorna Sundar Kand, Pt. 4",spotify:track:2dtK9tuNktvYL8gHVE1q3q,0.852,0.456,0.178,0,0.348,-22.939,0.0544,92.664,0.413,9
+Shyam Teri Yaad Mein,1,3fB7ChBH83P7wLN3gnRBES,Ek Aag Lagi Seene Mein,spotify:track:3fB7ChBH83P7wLN3gnRBES,0.774,0.517,0.435,2.87E-05,0.131,-13.297,0.0482,165.482,0.646,1
+Shyam Teri Yaad Mein,2,7kMqDLU0hKdxyjXAd0K3vL,Koun Milabe Mohe Jogiya,spotify:track:7kMqDLU0hKdxyjXAd0K3vL,0.85,0.443,0.478,6.33E-05,0.311,-12.721,0.0442,153.765,0.816,1
+Shyam Teri Yaad Mein,3,4kTHCxZHJQdhKhcHlNETtX,Prabhu Teri Raza,spotify:track:4kTHCxZHJQdhKhcHlNETtX,0.636,0.473,0.394,2.61E-06,0.0564,-14.227,0.0844,81.309,0.689,5
+Shyam Teri Yaad Mein,4,0pI0FC2qCrC2Bns40KVpnv,Tune Kaisi Yeh Preet,spotify:track:0pI0FC2qCrC2Bns40KVpnv,0.916,0.388,0.631,1.48E-06,0.111,-11.311,0.118,174.814,0.637,1
+Shyam Teri Yaad Mein,5,6woATMImik9aOiJAh5yUvx,Koi Kahe Ram,spotify:track:6woATMImik9aOiJAh5yUvx,0.651,0.449,0.547,0,0.0662,-11.81,0.0365,87.653,0.834,20
+Shyam Teri Yaad Mein,6,6YH3cJjXuOqP9pikVYsjFR,Antaryami Ek Tum,spotify:track:6YH3cJjXuOqP9pikVYsjFR,0.835,0.583,0.396,3.63E-06,0.0895,-12.876,0.0299,98.747,0.691,3
+Shyam Teri Yaad Mein,7,3pg1E1qrAWKs1tLCpvSgSr,Ye Tan Man Jeevan,spotify:track:3pg1E1qrAWKs1tLCpvSgSr,0.731,0.535,0.575,1.55E-06,0.12,-11.721,0.0374,87.68,0.765,1
+Shyam Teri Yaad Mein,8,7CuZ704wuP5uve5O0F053P,Om Shri Ram,spotify:track:7CuZ704wuP5uve5O0F053P,0.691,0.288,0.643,0,0.426,-9.812,0.0481,111.598,0.627,6
+Arti Archan,1,7GhPpFpNU5m108PfIysZIu,He Parmeshwar,spotify:track:7GhPpFpNU5m108PfIysZIu,0.291,0.633,0.547,0,0.309,-9.434,0.038,96.844,0.831,0
+Arti Archan,2,1zh6Zjp5pb8CXa7FWE3C6v,Nish Din Namoon Ganpati,spotify:track:1zh6Zjp5pb8CXa7FWE3C6v,0.615,0.699,0.442,0,0.424,-9.784,0.0386,143.009,0.711,0
+Arti Archan,3,1M2WfrJMdTwk2GkiSchDC1,Jai Jai Aarti Sab Mil,spotify:track:1M2WfrJMdTwk2GkiSchDC1,0.572,0.605,0.456,0,0.076,-10.086,0.0477,101.416,0.718,0
+Arti Archan,4,1Qc4fMnzfbA4lCGKLQNE0P,Jinke Hriday Shriram Rame,spotify:track:1Qc4fMnzfbA4lCGKLQNE0P,0.459,0.588,0.54,0,0.0416,-10.487,0.0695,86.314,0.822,0
+Arti Archan,5,1yzKwD36J7sNeCZJgdIzph,Aarti Kije Raghuveer,spotify:track:1yzKwD36J7sNeCZJgdIzph,0.555,0.402,0.603,0,0.0551,-9.649,0.0693,137,0.735,0
+Arti Archan,6,75hWn5oqtFo2whPz6sWVAk,Jai Ambe Durga,spotify:track:75hWn5oqtFo2whPz6sWVAk,0.708,0.606,0.464,0,0.216,-9.925,0.0269,100.722,0.826,1
+Arti Archan,7,67OOTE5U9A1U2ZR5koXF4M,Shiv Bhola Bhandari,spotify:track:67OOTE5U9A1U2ZR5koXF4M,0.504,0.619,0.462,0,0.0831,-10.567,0.0318,90.247,0.768,1
+Arti Archan,8,20o1Er2K1dopYyUJHypAQO,Om Jai Shiv Shakti,spotify:track:20o1Er2K1dopYyUJHypAQO,0.79,0.65,0.59,0,0.0712,-9.918,0.0342,105.319,0.906,0
+Bhakti Vandan,1,7yngbJTGgbeRmQLUlfwyj0,Ram Ji Ke Naam,spotify:track:7yngbJTGgbeRmQLUlfwyj0,0.789,0.515,0.417,0.00153,0.102,-12.949,0.04,81.124,0.853,10
+Bhakti Vandan,2,1l6PsgOZYZJbcls25lUHgN,Main To Shyamal Ki,spotify:track:1l6PsgOZYZJbcls25lUHgN,0.939,0.401,0.309,5.02E-05,0.242,-13.379,0.064,171.066,0.67,0
+Bhakti Vandan,3,6lLCC6iDHAWiilWUxCYKEJ,Le Le Tera Naam Hari,spotify:track:6lLCC6iDHAWiilWUxCYKEJ,0.804,0.492,0.447,3.48E-06,0.0816,-12.287,0.033,95.252,0.649,0
+Bhakti Vandan,4,5EkfCz9VSOBHp9d5OLwN96,Kya Shukh Paaya Tune,spotify:track:5EkfCz9VSOBHp9d5OLwN96,0.905,0.54,0.316,0,0.243,-12.457,0.0487,78.629,0.809,0
+Bhakti Vandan,5,3hYXZhSUlCe3xdnA2QYi6W,Itni Hi Kripa,spotify:track:3hYXZhSUlCe3xdnA2QYi6W,0.819,0.44,0.372,0,0.258,-12.178,0.0352,78.783,0.761,0
+Bhakti Vandan,7,5Rj5EBeXUPJzugnrpmi7eD,He Sai Tera Kaise,spotify:track:5Rj5EBeXUPJzugnrpmi7eD,0.897,0.477,0.303,0,0.127,-13.487,0.0342,133.555,0.549,0
+Bhakti Vandan,8,7oNWWAsWeKgEhyARHZVtaU,Maalik Sove,spotify:track:7oNWWAsWeKgEhyARHZVtaU,0.781,0.444,0.459,0,0.196,-12.57,0.0375,80.454,0.577,0
+Govind Ke Gun Ga Re,1,7AXVb74JnK4eMmDJ2O4dch,Ab Na Bani To Phir Na Banegi,spotify:track:7AXVb74JnK4eMmDJ2O4dch,0.596,0.426,0.563,0,0.0788,-11.139,0.0366,82.502,0.565,0
+Govind Ke Gun Ga Re,2,4xAPz9TK88O9IZuC3afvBY,Laagi Kaisi Lagan,spotify:track:4xAPz9TK88O9IZuC3afvBY,0.727,0.373,0.498,0,0.0773,-10.671,0.0484,182.073,0.776,0
+Govind Ke Gun Ga Re,3,7m2qxBCvpvjVmIlVTq5VOb,Govind Ke Gun Ga Le,spotify:track:7m2qxBCvpvjVmIlVTq5VOb,0.629,0.489,0.506,0,0.135,-11.268,0.0286,104.054,0.798,0
+Govind Ke Gun Ga Re,4,60prsF4qP5bf3eTWieFtRM,Mose Neha Lagake,spotify:track:60prsF4qP5bf3eTWieFtRM,0.826,0.385,0.595,3.49E-06,0.0922,-10.924,0.0398,83.322,0.679,0
+Govind Ke Gun Ga Re,5,1OStpAjZeTo1xS9OEcPNvO,Sanware Kanhaiya,spotify:track:1OStpAjZeTo1xS9OEcPNvO,0.622,0.539,0.515,0,0.141,-10.049,0.0338,82.992,0.823,0
+Govind Ke Gun Ga Re,6,1M1MAbDpLASNbEdgEC3yQx,More Man Base Girdhari,spotify:track:1M1MAbDpLASNbEdgEC3yQx,0.929,0.545,0.427,1.69E-06,0.154,-11.116,0.0462,89.241,0.514,0
+Govind Ke Gun Ga Re,7,2S6HdASbWzhSweIbRns0pU,Jogi Mohe Darash,spotify:track:2S6HdASbWzhSweIbRns0pU,0.878,0.413,0.451,0.081,0.206,-11.472,0.0362,73.552,0.762,0
+Govind Ke Gun Ga Re,8,0PMbQhHiVZw4KVTSefDf5Q,Jiske Sir Par Haath,spotify:track:0PMbQhHiVZw4KVTSefDf5Q,0.849,0.463,0.521,0,0.428,-11.466,0.0274,92.029,0.63,0
+Shree Hanuman Chalisa,1,6CdOO8rdnz9JYA64Kr74rQ,Hey Bajrangbali Hanuman,spotify:track:6CdOO8rdnz9JYA64Kr74rQ,0.79,0.499,0.491,0,0.424,-11.069,0.0371,83.177,0.77,44
+Shree Hanuman Chalisa,2,3qHRD5owUGsQXFAgWJQ2Lk,Mangal Murti Maruti Nandan,spotify:track:3qHRD5owUGsQXFAgWJQ2Lk,0.73,0.512,0.626,0,0.117,-9.251,0.0329,95.601,0.786,43
+Shree Hanuman Chalisa,3,5vNyKD3Ae8IJtzWHq7FfLo,Jay Jay Hanuman Gusaiee,spotify:track:5vNyKD3Ae8IJtzWHq7FfLo,0.747,0.604,0.495,0,0.127,-10.908,0.0482,89.307,0.783,38
+Shree Hanuman Chalisa,4,7GAZRFjq1qk8YPONYiMyty,Hey Dukhbhanjan Maruti Nandan,spotify:track:7GAZRFjq1qk8YPONYiMyty,0.623,0.57,0.532,0,0.366,-10.193,0.0409,89.116,0.669,0
+Shree Hanuman Chalisa,5,2oQ6F5SvMHpSkwZnyQ9abu,Shri Hanuman Chalisa,spotify:track:2oQ6F5SvMHpSkwZnyQ9abu,0.781,0.44,0.603,0,0.258,-10.421,0.0404,93.965,0.78,44
+Shree Hanuman Chalisa,6,0PV4RiS7QbyaBemPQi3dHP,Sankat Mochan,spotify:track:0PV4RiS7QbyaBemPQi3dHP,0.859,0.461,0.448,0,0.173,-11.219,0.0525,94.266,0.788,41
+Shree Hanuman Chalisa,7,7enBPHIr9Bf3MGkCv4IAQH,Aarti Kije Hanuman,spotify:track:7enBPHIr9Bf3MGkCv4IAQH,0.678,0.62,0.517,0,0.0663,-10.959,0.0459,103.431,0.57,35
+"Hari Om Sharan Best of, Vol. 1",1,4qEL0SU9GV5pquFtMtknDT,Sri Radhe Govind,spotify:track:4qEL0SU9GV5pquFtMtknDT,0.84,0.639,0.537,0,0.344,-8.896,0.0385,91.178,0.798,20
+"Hari Om Sharan Best of, Vol. 1",2,6jWM51s4scm55LtoqRVu7z,Maili Chaadar Odhe,spotify:track:6jWM51s4scm55LtoqRVu7z,0.818,0.287,0.408,0,0.114,-9.101,0.0371,175.813,0.549,22
+"Hari Om Sharan Best of, Vol. 1",3,5yrDCHpA70gqze5xZLeVL4,Daata Ek Ram,spotify:track:5yrDCHpA70gqze5xZLeVL4,0.677,0.424,0.446,0,0.137,-8.248,0.0376,81.391,0.689,21
+"Hari Om Sharan Best of, Vol. 1",4,5c2nCpFIgRjpGReVtx3Goc,Aisa Pyar Bahade,spotify:track:5c2nCpFIgRjpGReVtx3Goc,0.814,0.407,0.468,0,0.071,-9.287,0.034,95.558,0.524,14
+"Hari Om Sharan Best of, Vol. 1",5,7G0rveArlW9jM8487qlwDQ,Tera Ramji Karenge,spotify:track:7G0rveArlW9jM8487qlwDQ,0.796,0.472,0.513,0,0.348,-9.827,0.0313,92.322,0.637,14
+"Hari Om Sharan Best of, Vol. 1",6,4j18mRLvNaKNZjwcMtOqgZ,Swikaro Mere Pranam,spotify:track:4j18mRLvNaKNZjwcMtOqgZ,0.934,0.25,0.391,0,0.33,-11.134,0.0376,169.229,0.422,11
+"Hari Om Sharan Best of, Vol. 1",7,6ouTpx7tulHDMmF1jAsNzB,Ram Sumir Ke Rahim,spotify:track:6ouTpx7tulHDMmF1jAsNzB,0.93,0.311,0.52,4.06E-06,0.259,-11.319,0.0483,81.917,0.679,15
+"Hari Om Sharan Best of, Vol. 1",8,1bSyYQoziD1iJvaX1X0IqG,Prabhu Hum Pe Kripa,spotify:track:1bSyYQoziD1iJvaX1X0IqG,0.978,0.502,0.384,0.0012,0.152,-12.441,0.036,108.992,0.491,15
+"Hari Om Sharan Best of, Vol. 1",9,5R5aQnauF0YkzRyT9HqQM2,Man Maila Aur Tan,spotify:track:5R5aQnauF0YkzRyT9HqQM2,0.905,0.305,0.461,1.73E-06,0.127,-10.847,0.0422,86.746,0.548,13
+"Hari Om Sharan Best of, Vol. 1",10,3Ec959Ihs3VyOlo1Vai0zF,Yeh Garv Bhara,spotify:track:3Ec959Ihs3VyOlo1Vai0zF,0.928,0.424,0.522,0,0.0914,-10.349,0.0362,78.393,0.515,12
+"Hari Om Sharan Best of, Vol. 3",1,6buBp3JpLmhGBA1m5KM2Eb,He Naath Ab To,spotify:track:6buBp3JpLmhGBA1m5KM2Eb,0.709,0.767,0.513,0.000132,0.143,-8.801,0.0414,125.464,0.946,0
+"Hari Om Sharan Best of, Vol. 3",2,2nOmMlxJcVbEr5342mlZfB,Patit Paawan,spotify:track:2nOmMlxJcVbEr5342mlZfB,0.555,0.775,0.641,0,0.0684,-8.109,0.0342,85.985,0.947,0
+"Hari Om Sharan Best of, Vol. 3",3,6hcPCwoEbh6oihmohXFM2X,Tere Tat Par,spotify:track:6hcPCwoEbh6oihmohXFM2X,0.569,0.865,0.413,0,0.0941,-7.981,0.0469,110.016,0.627,0
+"Hari Om Sharan Best of, Vol. 3",4,4gGrBVfxwPTH851qM8e6i9,Saana Paan Aur Dhyan,spotify:track:4gGrBVfxwPTH851qM8e6i9,0.728,0.763,0.614,7.43E-06,0.0929,-9.117,0.0425,152.971,0.945,0
+"Hari Om Sharan Best of, Vol. 3",5,6dnOKt14v1p5L2sGnHdHup,Gangaji Ki Aarti,spotify:track:6dnOKt14v1p5L2sGnHdHup,0.348,0.753,0.735,2.33E-06,0.0822,-7.841,0.0348,88.003,0.964,0
+"Hari Om Sharan Best of, Vol. 3",6,6wVSrQ7Ja4TTrcBlSZCxFe,Ghor Tapaswi,spotify:track:6wVSrQ7Ja4TTrcBlSZCxFe,0.434,0.711,0.624,0,0.079,-8.302,0.0899,84.875,0.854,0
+"Hari Om Sharan Best of, Vol. 3",7,2bgz1tOt9D77DsoHr5EE3R,Hai Gangadhar,spotify:track:2bgz1tOt9D77DsoHr5EE3R,0.283,0.741,0.476,0,0.0645,-8.416,0.0678,100.154,0.494,0
+"Hari Om Sharan Best of, Vol. 3",8,1TsGS6QWJbmTIGWtNDFQXj,Ganga Ke Tat,spotify:track:1TsGS6QWJbmTIGWtNDFQXj,0.368,0.727,0.649,3.07E-06,0.0505,-8.29,0.0464,89.827,0.774,0
+"Hari Om Sharan Best of, Vol. 3",9,0uliqs3MkO4R0R5ZSMEPkv,Om Jai Ganga Mata,spotify:track:0uliqs3MkO4R0R5ZSMEPkv,0.552,0.682,0.52,0,0.0943,-10.013,0.0535,95.049,0.841,1
+"Hari Om Sharan Best of, Vol. 3",10,0SHTfgAlhvK9InA8JEEpY2,Ganpati Vandana,spotify:track:0SHTfgAlhvK9InA8JEEpY2,0.995,0.29,0.303,0.868,0.357,-12.885,0.0346,66.173,0.128,0
+"Hari Om Sharan Best of, Vol. 8",1,0g79CYijtfrYJCg2FD6zmx,Sabka Bhala Mere Ramji,spotify:track:0g79CYijtfrYJCg2FD6zmx,0.668,0.406,0.56,0,0.153,-11.116,0.052,110.345,0.686,0
+"Hari Om Sharan Best of, Vol. 8",2,1sfSxUxLi7B7TfPVPRHK55,Tere Dware,spotify:track:1sfSxUxLi7B7TfPVPRHK55,0.619,0.369,0.631,0,0.161,-9.946,0.0409,80.306,0.731,0
+"Hari Om Sharan Best of, Vol. 8",3,6iWsHX2gF4GySRMhIZwPNJ,Aaradhe Man Shyam Radhey,spotify:track:6iWsHX2gF4GySRMhIZwPNJ,0.757,0.502,0.607,0,0.158,-10.036,0.0325,133.034,0.521,0
+"Hari Om Sharan Best of, Vol. 8",4,3YWjUxRhZzWBangJkOmpUV,Ram Ramaiya Jag,spotify:track:3YWjUxRhZzWBangJkOmpUV,0.661,0.464,0.673,0,0.169,-8.387,0.0487,110.344,0.446,0
+"Hari Om Sharan Best of, Vol. 8",5,6OA7YSynPB6OdY48oXZtvk,Ab Naa Bani To Phir,spotify:track:6OA7YSynPB6OdY48oXZtvk,0.595,0.411,0.59,0,0.105,-10.068,0.0382,82.248,0.554,0
+"Hari Om Sharan Best of, Vol. 8",6,5SXXipCJv65Htj244GlGgM,Jiske Sir Par Haath Hai,spotify:track:5SXXipCJv65Htj244GlGgM,0.82,0.473,0.541,0,0.462,-10.407,0.0281,91.925,0.636,0
+"Hari Om Sharan Best of, Vol. 8",7,1rer0mR86ocYs7FJ23jPbs,Chaadar Maili,spotify:track:1rer0mR86ocYs7FJ23jPbs,0.824,0.46,0.455,0,0.195,-9.174,0.0297,97.397,0.62,0
+"Hari Om Sharan Best of, Vol. 8",8,0B8q3kITmFN8cyYbIHvFAB,Maalik Jage Banda Sowey,spotify:track:0B8q3kITmFN8cyYbIHvFAB,0.773,0.44,0.575,1.29E-06,0.143,-8.324,0.0349,81.076,0.586,0
+"Hari Om Sharan Best of, Vol. 8",9,4JExlHqOvDgGfJGZGneTln,Sampati Doha,spotify:track:4JExlHqOvDgGfJGZGneTln,0.962,0.337,0.223,0,0.0869,-9.774,0.0333,115.277,0.31,0
+"Hari Om Sharan Best of, Vol. 8",10,3rFfj1MGkzjseVYvMKVtyi,Om Jai Jagdish Hare,spotify:track:3rFfj1MGkzjseVYvMKVtyi,0.829,0.576,0.474,0,0.0897,-10.135,0.0315,87.52,0.638,1
+"Bhajan Sangam, Vol. 1",2,4CvH8YVGXG2HBXXkTZVW31,Jagdambe Bhawani,spotify:track:4CvH8YVGXG2HBXXkTZVW31,0.357,0.549,0.575,2.56E-05,0.485,-12.255,0.0371,108.381,0.658,1
+"Bhajan Sangam, Vol. 1",4,7pvOA4GG9KHI4HudlUBV5W,Ishwar Ke Gun Gaata Nahin,spotify:track:7pvOA4GG9KHI4HudlUBV5W,0.281,0.522,0.588,3.64E-06,0.186,-12.666,0.0389,106.39,0.709,1
+"Bhajan Sangam, Vol. 1",6,1QyzZ0H8dTHximD4mmgTTs,Jaako Rakhe Saaiyan,spotify:track:1QyzZ0H8dTHximD4mmgTTs,0.414,0.458,0.533,0.00799,0.664,-12.403,0.0584,88.274,0.655,1
+"Bhajan Sangam, Vol. 1",7,6EGWjOhAGl5P3E5Fy0ooaC,Jhini Jhini Re Bini Chadhriya,spotify:track:6EGWjOhAGl5P3E5Fy0ooaC,0.452,0.628,0.642,0.000666,0.389,-11.886,0.0459,88.783,0.884,1
+"Bhajan Sangam, Vol. 1",8,65aUrphT0LFQjjEGhydkSp,Ajahu Na Nikase Pran,spotify:track:65aUrphT0LFQjjEGhydkSp,0.598,0.459,0.559,0.000523,0.368,-12.851,0.0618,146.908,0.711,0
+"Bhajan Sangam, Vol. 1",9,09JieZKOvgp1GWcYAdX5Ne,Samajh Bujh Dil,spotify:track:09JieZKOvgp1GWcYAdX5Ne,0.43,0.477,0.436,2.59E-05,0.815,-13.227,0.0403,79.294,0.544,0
+"Bhajan Sangam, Vol. 1",10,39L2njYW5RoGIoI8Bt8KCz,Jaag Surati Ab Kaahe,spotify:track:39L2njYW5RoGIoI8Bt8KCz,0.763,0.536,0.477,4.70E-05,0.483,-13.462,0.055,79.201,0.644,1
+"Bhajan Sangam, Vol. 1",11,42Xrq0B7ZrQFtFKnDBYNU4,Ab Kaise Chutey,spotify:track:42Xrq0B7ZrQFtFKnDBYNU4,0.762,0.543,0.475,0.000205,0.4,-13.548,0.198,83.658,0.581,1
+"Bhajan Sangam, Vol. 1",12,3Nqzyi4rjRJb8Q3t3Y6zTA,Bhaj Le Re Man Ram Ram Shyam,spotify:track:3Nqzyi4rjRJb8Q3t3Y6zTA,0.589,0.617,0.683,0.000127,0.401,-12.32,0.0498,89.549,0.88,0
+"Aartiya, Vol. 1",1,2M0xtyamzh3c1kSVmOvQx4,Jai Ganesh Deva,spotify:track:2M0xtyamzh3c1kSVmOvQx4,0.641,0.678,0.754,0,0.481,-7.084,0.0987,145.22,0.807,23
+"Aartiya, Vol. 1",2,6kzq2HG0w0MeUb3YJKun6U,Om Jai Shiv Omkara,spotify:track:6kzq2HG0w0MeUb3YJKun6U,0.565,0.598,0.835,0,0.112,-5.887,0.0655,97.06,0.761,12
+"Aartiya, Vol. 1",3,4SaPWbhpmpVSm5K6BzAZvE,Ambe Tu Hai Jagdambe Kali,spotify:track:4SaPWbhpmpVSm5K6BzAZvE,0.601,0.653,0.792,0,0.0976,-5.536,0.0421,89.23,0.661,31
+"Aartiya, Vol. 1",4,3xdcgRfjFFvsoYqDw9DWdP,Aarti Kunj Bihari Ki,spotify:track:3xdcgRfjFFvsoYqDw9DWdP,0.494,0.788,0.898,0,0.144,-4.196,0.0595,126.148,0.962,16
+"Aartiya, Vol. 1",5,1xM52B69Y8YA44hQpjZR0d,Aarti Ramayan Ji Ki,spotify:track:1xM52B69Y8YA44hQpjZR0d,0.591,0.674,0.839,0,0.19,-4.235,0.0671,81.488,0.814,12
+"Aartiya, Vol. 1",6,34xs9RXxl5Yy1z3tAvkEO4,Aarti Ki Jay Hanuman,spotify:track:34xs9RXxl5Yy1z3tAvkEO4,0.596,0.696,0.689,0,0.203,-4.77,0.0396,88.287,0.681,30
+"Aartiya, Vol. 1",7,0pKD4snAMYSANuFLT2oujy,Aarti Gayatri Mata Ki,spotify:track:0pKD4snAMYSANuFLT2oujy,0.485,0.688,0.865,0,0.111,-4.416,0.0585,84.408,0.639,10
+"Aartiya, Vol. 1",8,3w26NtvEPg8LZZzRMBgOqZ,Om Jai Lakshmi Ramna,spotify:track:3w26NtvEPg8LZZzRMBgOqZ,0.649,0.669,0.869,0,0.317,-6.635,0.0475,100.014,0.896,6
+Omkar Ganesh,1,54U8PW2MS2BY9uBBRffFAV,Om Gananam Twam - Aavahan,spotify:track:54U8PW2MS2BY9uBBRffFAV,0.858,0.657,0.395,0.0061,0.369,-10.569,0.0349,108.025,0.552,2
+Omkar Ganesh,2,3gJu1hT9sJPfyVua2velaf,Vakratunda Mahakay Aadipujya Ganadhyaksh - Prarthana,spotify:track:3gJu1hT9sJPfyVua2velaf,0.706,0.708,0.568,0,0.316,-7.519,0.0412,74.975,0.937,2
+Omkar Ganesh,3,5tkb1I4ebR0VfPYEj5yZzh,Om Omkar Rupam - Stuti,spotify:track:5tkb1I4ebR0VfPYEj5yZzh,0.654,0.6,0.476,0,0.349,-8.136,0.0289,168.329,0.881,2
+Omkar Ganesh,4,6o9fOTumLVOUBDVypXSnFC,Pranamya Shirsa Devam - Sankat Nashak Stotra,spotify:track:6o9fOTumLVOUBDVypXSnFC,0.59,0.701,0.649,0,0.307,-7.46,0.0444,153.158,0.813,2
+Omkar Ganesh,5,5ufx8LV6F6VcbXeLIqWc5P,Om Gan Ganpataye Namah - Ganesh Mahamantra,spotify:track:5ufx8LV6F6VcbXeLIqWc5P,0.637,0.451,0.555,0,0.281,-5.866,0.0354,174.32,0.417,5
+Omkar Ganesh,6,47olj4niAdsf7TyxnusxMV,Atharvashirsha,spotify:track:47olj4niAdsf7TyxnusxMV,0.75,0.461,0.6,0,0.0873,-5.374,0.0363,81.237,0.184,29
+Omkar Ganesh,7,4llE2A30Fn3dcOpTGRtLXF,Sukhakarta Dukhaharta - Aarti,spotify:track:4llE2A30Fn3dcOpTGRtLXF,0.136,0.569,0.538,0,0.176,-8.333,0.0613,156.177,0.489,5
+Omkar Ganesh,8,1RZOm4weDV7oJZofSkzgD6,Ganesh Gayatri Mantra,spotify:track:1RZOm4weDV7oJZofSkzgD6,0.515,0.819,0.426,0,0.083,-9.398,0.0363,119.896,0.841,5
+Omkar Ganesh,9,1SHQ2ilsuApS1vZUbs9vHG,Jai Ganesh Deva - Aarti,spotify:track:1SHQ2ilsuApS1vZUbs9vHG,0.634,0.677,0.757,0,0.437,-7.24,0.082,145.22,0.819,5
+Kaho Ram Kaho Shyam,1,6lA1sMhwTCBpO5aKpaExyS,Bhagwan Ke Sacche,spotify:track:6lA1sMhwTCBpO5aKpaExyS,0.599,0.523,0.632,0.000287,0.226,-10.226,0.0359,84.934,0.778,0
+Kaho Ram Kaho Shyam,2,5R03AOVxBuOit2W6agkV9C,Hari Se Preet Laga Le,spotify:track:5R03AOVxBuOit2W6agkV9C,0.37,0.531,0.532,6.47E-06,0.0938,-15.348,0.0456,90.126,0.745,0
+Kaho Ram Kaho Shyam,3,3DmqzHSHG5N0OzgY2T7ohB,He Mangal Mai,spotify:track:3DmqzHSHG5N0OzgY2T7ohB,0.253,0.485,0.588,1.02E-06,0.0633,-9.246,0.0306,87.788,0.775,0
+Kaho Ram Kaho Shyam,4,3UQCfJ3ckjH5t31tN2PsZS,Jab Man Mera Gabraye,spotify:track:3UQCfJ3ckjH5t31tN2PsZS,0.437,0.462,0.641,1.50E-06,0.0582,-14.841,0.0429,88.456,0.805,0
+Kaho Ram Kaho Shyam,5,6iJwoL0tlTaWBuYtA57ayS,Kaise Aau,spotify:track:6iJwoL0tlTaWBuYtA57ayS,0.603,0.467,0.732,0.000264,0.815,-6.009,0.0356,84.855,0.9,0
+Kaho Ram Kaho Shyam,6,27qIrEqVLVcBntx9UEQoHV,Kar Le Uska Sumiran,spotify:track:27qIrEqVLVcBntx9UEQoHV,0.551,0.559,0.518,0,0.199,-12.271,0.0324,87.913,0.877,0
+Kaho Ram Kaho Shyam,7,1gscEzg8vKTDakmxQPsjbP,Ram Rahima,spotify:track:1gscEzg8vKTDakmxQPsjbP,0.166,0.45,0.454,4.37E-06,0.312,-14.573,0.0355,91.924,0.574,0
+Kaho Ram Kaho Shyam,8,7mDeIir0ujfSx0q0HoMqVr,Ud Jayega,spotify:track:7mDeIir0ujfSx0q0HoMqVr,0.5,0.371,0.588,0,0.309,-14.662,0.0429,92.963,0.865,0
+Hits of Lakhbir Singh Lakkha Vol.1,1,3DCY3JPyV5slPMS8v0OfvJ,Bole Shri Krishna Arjun Se ( Geeta Ka Gyan),spotify:track:3DCY3JPyV5slPMS8v0OfvJ,0.952,0.46,0.878,0.0169,0.41,-4.704,0.149,101.121,0.709,15
+Hits of Lakhbir Singh Lakkha Vol.1,2,2TQX9WDma3MMZifWzlr3Es,Gopal Soona Soona,spotify:track:2TQX9WDma3MMZifWzlr3Es,0.909,0.567,0.763,0.000653,0.197,-5.456,0.0447,97.91,0.589,11
+Hits of Lakhbir Singh Lakkha Vol.1,3,45FPNDoEzlXFpqkrFyHOVC,Girdhar Mere Mausam Aaya,spotify:track:45FPNDoEzlXFpqkrFyHOVC,0.787,0.406,0.92,2.00E-06,0.463,-3.447,0.121,180.843,0.923,9
+Hits of Lakhbir Singh Lakkha Vol.1,4,1b3639ejeOz4iajJd1lJQK,Jhoole Radha Nand Kishor,spotify:track:1b3639ejeOz4iajJd1lJQK,0.893,0.439,0.922,0.000102,0.484,-2.16,0.0734,84.338,0.913,9
+Hits of Lakhbir Singh Lakkha Vol.1,5,4UIzQmrNzct5OZHgZwk8g6,Baji Shyam Ki Bansuriya,spotify:track:4UIzQmrNzct5OZHgZwk8g6,0.945,0.367,0.768,0.000345,0.694,-5.621,0.0626,161.364,0.915,8
+Hits of Lakhbir Singh Lakkha Vol.1,6,2buxikgIUV66ZHFJeRHHA8,Bada Zulam Dhaye Re,spotify:track:2buxikgIUV66ZHFJeRHHA8,0.969,0.447,0.851,0.0471,0.167,-5.048,0.178,173.665,0.924,7
+Hits of Lakhbir Singh Lakkha Vol.1,7,1jDeoCgoYuBIwTLl9LvHBE,Hai Kaun Bada Tumse Maiya,spotify:track:1jDeoCgoYuBIwTLl9LvHBE,0.818,0.433,0.868,1.58E-06,0.27,-3.751,0.0456,142.129,0.622,6
+Hits of Lakhbir Singh Lakkha Vol.1,8,3aWrJUVoqVc1DwEA8Z2Ujx,Maiya Meri Laaj Rakh Le,spotify:track:3aWrJUVoqVc1DwEA8Z2Ujx,0.854,0.638,0.836,0.00015,0.265,-3.286,0.0385,158.594,0.83,6
+Hits of Lakhbir Singh Lakkha Vol.1,9,5kI04F6N1xWYcIU4sOY6FW,Sherowali Ambe Bhawani,spotify:track:5kI04F6N1xWYcIU4sOY6FW,0.724,0.655,0.932,4.08E-06,0.868,-1.064,0.0419,106.476,0.861,8
+Hits of Lakhbir Singh Lakkha Vol.1,10,4UvVWd9OJXxCkbAxwBVsDN,Ambe Maiya Teri Meherbani Rahe,spotify:track:4UvVWd9OJXxCkbAxwBVsDN,0.755,0.493,0.847,3.38E-05,0.738,-3.131,0.0559,100.856,0.838,5
+Hits of Lakhbir Singh Lakkha Vol.1,11,3gjC6Fhx5lijxEpbiDjFYX,De De Thoda Pyar,spotify:track:3gjC6Fhx5lijxEpbiDjFYX,0.908,0.548,0.747,0.000169,0.456,-3.682,0.0414,82.205,0.755,6
+Hits of Lakhbir Singh Lakkha Vol.1,12,5Ez91Ur5zPjDcqQtYhLVjE,Kashmir Ki Vaadi Mein,spotify:track:5Ez91Ur5zPjDcqQtYhLVjE,0.937,0.469,0.622,2.44E-06,0.456,-3.878,0.0332,100.151,0.504,5
+Hits of Lakhbir Singh Lakkha Vol.1,13,2PbCXWqJATOkBsc0a3OXd0,Dhool Maa Ke Charno Ki,spotify:track:2PbCXWqJATOkBsc0a3OXd0,0.752,0.587,0.873,0.00288,0.227,-1.91,0.041,94.487,0.592,4
+Hits of Lakhbir Singh Lakkha Vol.1,14,64F2W9dK0SetjzalofpjrW,Mharo Peer Bado Balwan,spotify:track:64F2W9dK0SetjzalofpjrW,0.789,0.458,0.759,2.31E-05,0.853,-7.825,0.0917,134.706,0.878,4
+Hits of Lakhbir Singh Lakkha Vol.1,15,5SDN5GZaztTnxwQXRrfiA1,Runiche Wala Khamma Khamma,spotify:track:5SDN5GZaztTnxwQXRrfiA1,0.746,0.559,0.716,0,0.832,-7.119,0.0514,98.611,0.908,4
+Hits of Lakhbir Singh Lakkha Vol.1,16,2JvmaeQU9GhWnBkFYvWAb7,Sunle Baba Ramdev Ji,spotify:track:2JvmaeQU9GhWnBkFYvWAb7,0.693,0.439,0.805,0,0.882,-6.359,0.128,158.316,0.864,4
+Hits of Lakhbir Singh Lakkha Vol.1,17,5myUBoxopbCOhmXtNUMEVT,Mainade Ra Lal,spotify:track:5myUBoxopbCOhmXtNUMEVT,0.825,0.509,0.742,2.18E-06,0.194,-6.672,0.0344,115.212,0.807,4
+Hits of Lakhbir Singh Lakkha Vol.1,18,799fhTcEhdbfWPiu2qA4GA,Baba Dham Runicho Tharo,spotify:track:799fhTcEhdbfWPiu2qA4GA,0.78,0.464,0.8,2.98E-05,0.497,-6.506,0.169,157.395,0.923,4
+Hits of Lakhbir Singh Lakkha Vol.1,19,3DThQGfrb5OYZQBdXpTFmK,Bulave Baba Ram Sa Peer,spotify:track:3DThQGfrb5OYZQBdXpTFmK,0.736,0.669,0.845,1.21E-05,0.663,-7.001,0.111,116.996,0.934,3
+Hits of Lakhbir Singh Lakkha Vol.1,20,432COxhKylYsQtr50RdEbJ,Runicha Ro Dev,spotify:track:432COxhKylYsQtr50RdEbJ,0.773,0.572,0.83,0.000175,0.871,-7.188,0.0829,122.487,0.854,3
+Yogini Ekadashi Special Bhajans,1,3PltQqSxh7O454okPchi8G,"Siddhi Vinayak Jai Ganpati (From ""Ganpati Padharo"")",spotify:track:3PltQqSxh7O454okPchi8G,0.672,0.762,0.915,0,0.0408,-1.276,0.0811,111.055,0.914,10
+Yogini Ekadashi Special Bhajans,2,1N97ZNxp0493V1uaIxKe3i,"Shree Vishnu Amritwani (From ""Shree Vishnu Amritwani"")",spotify:track:1N97ZNxp0493V1uaIxKe3i,0.667,0.621,0.52,0,0.0414,-11.479,0.12,144.677,0.964,2
+Yogini Ekadashi Special Bhajans,3,1f6xayNa9npdIrH6sYdh3C,"Jai Lakshmi Ramna (From ""Om Jai Jagdish Hare (Aarti Sangrah)"")",spotify:track:1f6xayNa9npdIrH6sYdh3C,0.803,0.632,0.75,0,0.365,-3.353,0.0333,96.499,0.81,6
+Yogini Ekadashi Special Bhajans,4,1dZpo6bNmUrTAkzhdP2LXa,"Dhun (Hari Bol Hari Bol) [From ""Bhajan Sandhya""]",spotify:track:1dZpo6bNmUrTAkzhdP2LXa,0.939,0.461,0.527,0.149,0.126,-6.431,0.0355,147.837,0.614,1
+Yogini Ekadashi Special Bhajans,5,07keF8MNst5f4S4f0Rl7IE,"Hari Naam Bin Kaun Tare (From ""Radha Govind Boliye"")",spotify:track:07keF8MNst5f4S4f0Rl7IE,0.169,0.458,0.427,1.33E-06,0.138,-15.449,0.0322,83.998,0.665,1
+Sawariyo Baitho Hain,1,20uD6X4ukQPH43HjJdPTs4,Are Dwarpalo Kaniya Se,spotify:track:20uD6X4ukQPH43HjJdPTs4,0.425,0.372,0.633,0,0.284,-8.572,0.0827,82.83,0.802,35
+Sawariyo Baitho Hain,2,15GH6mmxSygZzMKejDPQYW,Main Nikla Jab Gharse,spotify:track:15GH6mmxSygZzMKejDPQYW,0.533,0.396,0.875,0,0.359,-5.503,0.23,74.819,0.664,5
+Sawariyo Baitho Hain,3,7AsjVM0GEVCquGcE4aZCfk,Mil Gaya Sawariye Ka Dwara,spotify:track:7AsjVM0GEVCquGcE4aZCfk,0.565,0.47,0.897,0,0.444,-5.445,0.28,82.581,0.742,1
+Sawariyo Baitho Hain,4,5KmuxvRql8YFxacyunP3R3,Saudo Tol De,spotify:track:5KmuxvRql8YFxacyunP3R3,0.684,0.386,0.586,0,0.77,-8.122,0.0955,94.23,0.402,1
+Sawariyo Baitho Hain,5,5f85xltTSax6l2zW0ueU4k,Sawariyo Baitho Hai,spotify:track:5f85xltTSax6l2zW0ueU4k,0.601,0.5,0.829,3.39E-06,0.339,-5.451,0.196,93.235,0.897,6
+Sawariyo Baitho Hain,6,6VV7QxkJOUoJeeJnMDnYf3,Thadi Bhar Kar Lai Khichdo,spotify:track:6VV7QxkJOUoJeeJnMDnYf3,0.559,0.426,0.65,0,0.885,-7.72,0.0501,136.253,0.883,6
+Sai Ek Farishta,1,0hOwRQqWWSyfKapp8iunt4,Sai Ek Farishta,spotify:track:0hOwRQqWWSyfKapp8iunt4,0.0564,0.696,0.845,0,0.111,-3.53,0.0646,118.015,0.893,2
+Sai Ek Farishta,2,5c4b1WqiLwLmO4bD1bl4pj,Gaura Ke Laal,spotify:track:5c4b1WqiLwLmO4bD1bl4pj,0.37,0.645,0.883,9.52E-06,0.116,-4.462,0.0419,150.12,0.899,0
+Sai Ek Farishta,3,3c6uaotucDLaaJ1VuZeuif,Sai Baba Ko,spotify:track:3c6uaotucDLaaJ1VuZeuif,0.321,0.538,0.764,4.11E-06,0.0585,-4.283,0.0412,176.007,0.934,0
+Sai Ek Farishta,4,6URpA93TFkhpe1yUkIgOrX,Sai Teri Judaai,spotify:track:6URpA93TFkhpe1yUkIgOrX,0.467,0.621,0.704,0,0.0811,-5.701,0.0316,146.014,0.71,0
+Sai Ek Farishta,5,2VulxFoIYDS4Rvj723Kvv7,Sai Tere Naam Ke,spotify:track:2VulxFoIYDS4Rvj723Kvv7,0.189,0.64,0.915,0,0.109,-5.243,0.16,150.008,0.789,0
+Sai Ek Farishta,6,27KyxJvW05A79Gs3BIPH9c,Sai Da Darbar,spotify:track:27KyxJvW05A79Gs3BIPH9c,0.19,0.649,0.856,0,0.0557,-5.717,0.0667,139.895,0.932,0
+Sai Ek Farishta,7,0QcqEpUanB0quZZUTUZzv7,Sai Maula Mere,spotify:track:0QcqEpUanB0quZZUTUZzv7,0.274,0.523,0.86,0,0.106,-5.374,0.0441,167.877,0.972,0
+Sai Ek Farishta,8,1TOhWphcdwtgycNAmpRBS0,Sai Kya Karun,spotify:track:1TOhWphcdwtgycNAmpRBS0,0.261,0.636,0.861,0,0.167,-4.345,0.0559,82.009,0.827,0
+Sai Ek Farishta,9,4sQ0pxVNL6c3bJLkvcgAUL,Koi Aaya Hai,spotify:track:4sQ0pxVNL6c3bJLkvcgAUL,0.478,0.598,0.797,4.58E-06,0.0507,-4.748,0.0424,155.992,0.879,0
+Joy Joy Joy Maa,1,4khMg4MHa2Lkn0HCYj5usa,Mor Babul Mon,spotify:track:4khMg4MHa2Lkn0HCYj5usa,0.677,0.763,0.718,0,0.158,-5.653,0.0551,129.962,0.953,0
+Joy Joy Joy Maa,2,1MpMmmY9SKve5MwMHYNf8d,Jopo Mann Jopo Mann,spotify:track:1MpMmmY9SKve5MwMHYNf8d,0.764,0.568,0.589,1.16E-05,0.15,-6.488,0.0336,74.932,0.69,2
+Joy Joy Joy Maa,3,2AEauZJGTKIVzDPhZ2em9o,Keu Daake Shyama Bole,spotify:track:2AEauZJGTKIVzDPhZ2em9o,0.693,0.493,0.472,0,0.0891,-7.098,0.0431,155.037,0.681,0
+Joy Joy Joy Maa,4,777TbgVSou0Iiw9IbZGIKq,Clanto Jeevan,spotify:track:777TbgVSou0Iiw9IbZGIKq,0.888,0.533,0.534,0,0.105,-7.779,0.0472,151.971,0.73,0
+Joy Joy Joy Maa,5,4PR8mtjnsNP3bCn0YYgCtF,Ae Sukher Dehe,spotify:track:4PR8mtjnsNP3bCn0YYgCtF,0.715,0.662,0.571,0,0.0771,-6.503,0.0324,92.055,0.873,0
+Joy Joy Joy Maa,6,41is7bQLHghPY2RmTUv7ZU,Aami Mayer Paye,spotify:track:41is7bQLHghPY2RmTUv7ZU,0.729,0.623,0.616,0,0.0837,-7.265,0.0374,80.034,0.826,0
+Joy Joy Joy Maa,7,1xkPAyGPmxT8oj1hsb5ZP1,Amaar Mon Ja Jaa Boui,spotify:track:1xkPAyGPmxT8oj1hsb5ZP1,0.775,0.539,0.593,2.09E-06,0.13,-6.193,0.0326,173.97,0.846,2
+Joy Joy Joy Maa,8,3qkxhHF8yKqiX6UcIXQf2n,Joy Joy Joy Maa,spotify:track:3qkxhHF8yKqiX6UcIXQf2n,0.689,0.65,0.542,0,0.127,-6.535,0.0396,79.997,0.82,0
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",1,3DrYydJn3V0Vh8nwF64uE5,Sare Tirath Dham,spotify:track:3DrYydJn3V0Vh8nwF64uE5,0.528,0.822,0.579,1.62E-06,0.0761,-7.348,0.0355,120.046,0.803,15
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",2,09h9kG46dM4Af0ufwDGnga,Changa Lagda Ni,spotify:track:09h9kG46dM4Af0ufwDGnga,0.222,0.585,0.76,0,0.131,-5.426,0.0505,89.962,0.669,8
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",3,4OgIwJat7o71A9Z39KVxDg,Teri Kripa Hi Meri Sab Kuch,spotify:track:4OgIwJat7o71A9Z39KVxDg,0.58,0.76,0.533,0,0.319,-6.457,0.0294,100.009,0.783,9
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",4,1qtg6kdzu5IWsSWT8TUDeP,Ye Santo Ka Prem Nagar Hai,spotify:track:1qtg6kdzu5IWsSWT8TUDeP,0.395,0.767,0.514,0,0.315,-4.867,0.0327,119.874,0.482,8
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",5,3C7TrJELkuAMMQqOZfAknq,Mere Jar Jar Hai,spotify:track:3C7TrJELkuAMMQqOZfAknq,0.141,0.734,0.701,2.35E-05,0.0422,-5.225,0.0348,145.955,0.894,10
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",6,3GRdEwqAofZf6xB0eipW3Z,Tereyan Charna,spotify:track:3GRdEwqAofZf6xB0eipW3Z,0.167,0.774,0.549,0,0.061,-4.768,0.0292,125.911,0.743,13
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",7,19Q5PlKcsPULHNqso17d6z,Maiya Ho Ganga Maiya,spotify:track:19Q5PlKcsPULHNqso17d6z,0.439,0.366,0.605,0,0.0946,-4.951,0.0363,79.99,0.64,8
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",8,79gA8bUuvlQqEdcI7oyB30,Main Vari Jau,spotify:track:79gA8bUuvlQqEdcI7oyB30,0.672,0.69,0.696,0,0.114,-7.713,0.0437,87.917,0.964,6
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",9,34sAF4s6yc8Zq8yLGcN8Ym,Aise Shyam Hamare,spotify:track:34sAF4s6yc8Zq8yLGcN8Ym,0.675,0.754,0.655,0,0.0469,-7.997,0.043,90.023,0.941,2
+"Le Baba Ka Naam Amrit Barsega, Vol. 4",10,6rPIo2tVEJm8pzkePvRbTe,Ras Rachaiya,spotify:track:6rPIo2tVEJm8pzkePvRbTe,0.761,0.677,0.601,0,0.257,-8.254,0.048,90.07,0.894,4
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",1,3dLp9706IRoXly1KUDhaZ4,Mare Man Ne Bhayo,spotify:track:3dLp9706IRoXly1KUDhaZ4,0.702,0.739,0.661,0.000195,0.379,-8.473,0.0446,135.987,0.962,2
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",2,2xbOK4WgKOFOXdiQ2ojtEW,Puri Ho Jyasi,spotify:track:2xbOK4WgKOFOXdiQ2ojtEW,0.667,0.831,0.696,0,0.0639,-8.228,0.04,114.022,0.967,2
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",3,0bjgCkHotHp4uZcN2M7cLS,Shri Shyam,spotify:track:0bjgCkHotHp4uZcN2M7cLS,0.489,0.716,0.685,0,0.102,-8.022,0.04,80.013,0.961,2
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",4,47isDilUtYsZ95dpr6pwzs,Baba Shyam Ke Darbar,spotify:track:47isDilUtYsZ95dpr6pwzs,0.521,0.647,0.701,0,0.247,-8.206,0.0728,171.922,0.957,2
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",5,5taazW1WGTL1oY4G4114jT,Meri Apki Daya Se,spotify:track:5taazW1WGTL1oY4G4114jT,0.678,0.623,0.845,6.03E-05,0.47,-5.04,0.0456,106.039,0.803,1
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",6,3bXqTDpmQqxrZPHEhKIzbF,Aap Kya Jano,spotify:track:3bXqTDpmQqxrZPHEhKIzbF,0.47,0.59,0.79,1.05E-06,0.0832,-5.957,0.0887,89.974,0.802,1
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",7,10qxhdXhjFySdCDse9XtCM,Sode Mukhde Da,spotify:track:10qxhdXhjFySdCDse9XtCM,0.586,0.684,0.903,2.73E-05,0.369,-5.38,0.0397,100.035,0.737,1
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",8,5CpRLQF05atuXLLNLJV5SN,Rooth Na Jaavi Mohan Mere,spotify:track:5CpRLQF05atuXLLNLJV5SN,0.171,0.515,0.789,0.000916,0.209,-6.937,0.0442,136.054,0.675,1
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",9,3zhl68HnGpmI5xaUyveg3b,Tamanna Phir Machal Jaye,spotify:track:3zhl68HnGpmI5xaUyveg3b,0.721,0.563,0.66,7.95E-06,0.287,-6.746,0.0262,97.969,0.879,1
+"Le Baba Ka Naam Amrit Barsega, Vol. 5",10,6CpaKq3jS4KhGeXQ5zgkMS,Jadugar Shyam Mere,spotify:track:6CpaKq3jS4KhGeXQ5zgkMS,0.524,0.541,0.874,6.12E-06,0.176,-4.953,0.0707,80.07,0.87,1
+Shirdi Ke Sarkar,1,50pgfbYhZGR5zEKfSkLHpH,Sai Piya Bulaye Chalo Shirdi Chale,spotify:track:50pgfbYhZGR5zEKfSkLHpH,0.486,0.672,0.916,2.40E-06,0.206,-1.685,0.187,89.99,0.78,1
+Shirdi Ke Sarkar,2,5q3voUnA4jCdx6fYrklLMb,Shirdi Ke Sarkaar,spotify:track:5q3voUnA4jCdx6fYrklLMb,0.428,0.682,0.942,2.74E-06,0.752,-2.186,0.0666,100.018,0.796,0
+Shirdi Ke Sarkar,3,0QEegtRgFL6sJgViOk5jYl,Teri Panah Mein Aaya Mujhe Panah To De,spotify:track:0QEegtRgFL6sJgViOk5jYl,0.602,0.603,0.787,0,0.0937,-2.222,0.0397,100.077,0.738,1
+Shirdi Ke Sarkar,4,4DldqldQL2VCClOi35VT3P,Sai - Sai Bol,spotify:track:4DldqldQL2VCClOi35VT3P,0.492,0.569,0.684,0,0.11,-3.986,0.0378,140.095,0.462,0
+Shirdi Ke Sarkar,5,6mdmCuZsYdgInxf1ccagXl,Dil Se Jo Nikli Sada,spotify:track:6mdmCuZsYdgInxf1ccagXl,0.559,0.52,0.768,0,0.0737,-3.833,0.0646,79.459,0.743,0
+Shiv Ki Nagariya Shiv Ke Dhaam,1,6YKfYETDmW8WZZLJ8KEFgZ,Shiv Ki Nagariya Shiv Ke Dhaam,spotify:track:6YKfYETDmW8WZZLJ8KEFgZ,0.203,0.596,0.943,0,0.11,-4.098,0.0686,135.035,0.817,0
+Shiv Ki Nagariya Shiv Ke Dhaam,2,33NPNzoHysRIwS5JBNCZhs,Jai Ho Shiv Bhola Bhandhari,spotify:track:33NPNzoHysRIwS5JBNCZhs,0.536,0.477,0.876,0,0.336,-4.151,0.245,181.976,0.785,0
+Shiv Ki Nagariya Shiv Ke Dhaam,3,5rwvPWlFeYEJZ5oM6tAvyG,Ghat Ghat Ke Vasi Hain,spotify:track:5rwvPWlFeYEJZ5oM6tAvyG,0.513,0.571,0.798,0,0.0532,-4.256,0.0696,183.999,0.923,0
+Shiv Ki Nagariya Shiv Ke Dhaam,4,1PxgOFUUmsbb3kwmK8aD3f,Hey Bholenath Hey Deenanaath,spotify:track:1PxgOFUUmsbb3kwmK8aD3f,0.603,0.448,0.763,0,0.307,-5.14,0.0476,73.178,0.793,0
+Shiv Ki Nagariya Shiv Ke Dhaam,5,4AkIBXSr9i4i8nhAmRHNzj,Bhesh Anokha Shiv Bhole Ka,spotify:track:4AkIBXSr9i4i8nhAmRHNzj,0.489,0.578,0.972,0,0.448,-4.263,0.16,139.937,0.494,0
+Shiv Ki Nagariya Shiv Ke Dhaam,6,7EpXGzHI9gFzrLB7pzdo9A,Jai Ho Baba Amarnath,spotify:track:7EpXGzHI9gFzrLB7pzdo9A,0.548,0.652,0.924,1.88E-06,0.052,-4.282,0.087,113.014,0.826,0
+Shiv Ki Nagariya Shiv Ke Dhaam,7,50qaPwoYORudwhki4z97kh,Dulha Dulha Sunte Rahle,spotify:track:50qaPwoYORudwhki4z97kh,0.306,0.618,0.981,0,0.0911,-3.687,0.219,155.014,0.866,0
+Shiv Ki Nagariya Shiv Ke Dhaam,8,6R2evotcJ4roLg7R7auww9,Khola Kewadiya Hey Bhola,spotify:track:6R2evotcJ4roLg7R7auww9,0.507,0.561,0.976,0,0.625,-4.177,0.234,82.885,0.603,0
+Shiv Ki Nagariya Shiv Ke Dhaam,9,2evlyaq2Ah5VhB9LOjABGS,Ghat Ghat Ke Vasi Hain Remix,spotify:track:2evlyaq2Ah5VhB9LOjABGS,0.0382,0.673,0.936,5.48E-06,0.127,-3.88,0.0702,155.002,0.695,0
+Shiv Ki Nagariya Shiv Ke Dhaam,10,6CwiQAWPaukQhemZrqcHoB,Mela Laga Hai Ambe Ki Duariya,spotify:track:6CwiQAWPaukQhemZrqcHoB,0.61,0.526,0.915,0,0.294,-3.192,0.113,77.792,0.753,0
+Shiv Ki Nagariya Shiv Ke Dhaam,11,0uPKdEdnosRi4DgozagcxU,Bhwnawali Ma Ka Bhawan Nirala,spotify:track:0uPKdEdnosRi4DgozagcxU,0.406,0.704,0.964,0,0.563,-3.979,0.0937,139.978,0.665,0
+Bhagat Dar Chale Chale,1,6OGbmsTofDiUPvYtxT4ujP,Aaye Ji Aaye Navrate,spotify:track:6OGbmsTofDiUPvYtxT4ujP,0.729,0.739,0.918,0,0.266,-4.318,0.0561,109.929,0.939,1
+Bhagat Dar Chale Chale,2,2KaCQ9wZtMaCOxqiVyjbxi,Oonche Se Ooncha,spotify:track:2KaCQ9wZtMaCOxqiVyjbxi,0.624,0.531,0.937,2.80E-05,0.362,-5.021,0.0914,194.855,0.799,1
+Bhagat Dar Chale Chale,3,0KWNQNyZNVELTtpYtkWRqn,Mela Mela,spotify:track:0KWNQNyZNVELTtpYtkWRqn,0.626,0.775,0.917,1.42E-06,0.691,-3.699,0.0502,113.986,0.949,1
+Bhagat Dar Chale Chale,4,4fC0yP5bs1mBYRVIomMZXh,Punya Sadiyo,spotify:track:4fC0yP5bs1mBYRVIomMZXh,0.773,0.653,0.641,0.000236,0.285,-6.917,0.0271,95.017,0.712,0
+Bhagat Dar Chale Chale,5,1O021PMBWhOdjmNWIQMhJg,Baithi Maa Baithi,spotify:track:1O021PMBWhOdjmNWIQMhJg,0.665,0.68,0.88,0,0.138,-5.368,0.049,149.977,0.938,0
+Bhagat Dar Chale Chale,6,7CHSPKJMV7nkDEsUYmGSgB,Bhagat Dar Chale Chale,spotify:track:7CHSPKJMV7nkDEsUYmGSgB,0.754,0.761,0.932,0,0.519,-3.642,0.0849,106.02,0.851,1
+Bhagat Dar Chale Chale,8,5BmkK2b6ks6DfpBzJrIuaF,Kaali Mahakaali,spotify:track:5BmkK2b6ks6DfpBzJrIuaF,0.624,0.787,0.952,0.000147,0.134,-3.676,0.0656,109.995,0.825,1
+Maa Tujhko Naman,1,0Q7QfjwtRoxOJO9rFklIOV,Aaj Tera Jagrata Mata,spotify:track:0Q7QfjwtRoxOJO9rFklIOV,0.47,0.713,0.891,0,0.195,-3.032,0.0641,109.971,0.803,5
+Maa Tujhko Naman,2,0jj0vtxkXdVt5bHUkIdqHj,O Maiyya Baithi Hai Bhandare,spotify:track:0jj0vtxkXdVt5bHUkIdqHj,0.604,0.706,0.974,0,0.077,-1.588,0.112,124.966,0.699,1
+Maa Tujhko Naman,3,7J0Rqb2pEVblB1IfLZXykm,Saari Duiya Kare,spotify:track:7J0Rqb2pEVblB1IfLZXykm,0.572,0.386,0.87,0,0.403,-3.118,0.0797,164.631,0.913,3
+Maa Tujhko Naman,4,47MU5BLYDFv9j8dUBZBbDG,Main Jaungi Karoli,spotify:track:47MU5BLYDFv9j8dUBZBbDG,0.453,0.678,0.914,0,0.236,-2.019,0.0548,117.915,0.851,0
+Maa Tujhko Naman,5,5UnOQXkWkjThx6QxgXODbH,Nav Durge Teri Aarti - Aarti,spotify:track:5UnOQXkWkjThx6QxgXODbH,0.333,0.694,0.952,0,0.145,-2.783,0.0656,98.016,0.463,1
+Chunadi,1,7ttocumi5sAhT0qQ0vdkED,Languriya,spotify:track:7ttocumi5sAhT0qQ0vdkED,0.599,0.777,0.884,0,0.211,-2.24,0.186,116.003,0.928,3
+Chunadi,2,1LR0T6NfXyeIz6S4XyWeqs,Tharo Ke Vichar Hai,spotify:track:1LR0T6NfXyeIz6S4XyWeqs,0.647,0.795,0.839,0,0.409,-4.834,0.0636,116.018,0.96,1
+Chunadi,3,5jds5B7eFP0ZdpM3aiSWrs,Ye Mata Chintapurni Hai,spotify:track:5jds5B7eFP0ZdpM3aiSWrs,0.528,0.785,0.812,0,0.0725,-4.224,0.0406,109.923,0.962,1
+Chunadi,4,1bVM8icLBHQqVCrzxsEEIf,Dekhne Tere Dar Ka Kamaal Aaye Hain,spotify:track:1bVM8icLBHQqVCrzxsEEIf,0.648,0.573,0.859,0,0.409,-2.566,0.101,156.002,0.819,2
+Chunadi,5,0pr3O2yViNapovO8b10QKe,Aaja Aaja Maa,spotify:track:0pr3O2yViNapovO8b10QKe,0.66,0.72,0.825,0,0.0571,-4.425,0.152,112.043,0.922,1
+Chunadi,6,0hYNUy2hkAUCEleOWlXlYw,Aa Meri Maa,spotify:track:0hYNUy2hkAUCEleOWlXlYw,0.693,0.582,0.858,0.000129,0.178,-3.609,0.108,182.821,0.956,1
+Chaliye Shyam Ke Dware,1,4FstGEGkj7i2llshPCFDeP,Mhane Shyam Dhani,spotify:track:4FstGEGkj7i2llshPCFDeP,0.394,0.818,0.78,0,0.0531,-4.936,0.0621,97.022,0.952,2
+Chaliye Shyam Ke Dware,2,1g20DZRN5l1nPvSqBKpx8Q,Intzaam Kar Diya,spotify:track:1g20DZRN5l1nPvSqBKpx8Q,0.575,0.781,0.669,0,0.137,-6.04,0.0783,90.026,0.912,2
+Chaliye Shyam Ke Dware,3,4xuClhzgD3zk4JVrWMBXqA,Hatt Pachhe Ne,spotify:track:4xuClhzgD3zk4JVrWMBXqA,0.585,0.836,0.803,0,0.189,-5.183,0.0757,129.918,0.96,1
+Chaliye Shyam Ke Dware,4,53W6o5QpxGPUtIfUzq9nbO,Haryane Ka Jatt,spotify:track:53W6o5QpxGPUtIfUzq9nbO,0.579,0.655,0.908,0,0.333,-4.801,0.183,161.966,0.941,1
+Chaliye Shyam Ke Dware,5,2PB9Sln804sOYhbak2A5Ze,Haath Pakad Liyo,spotify:track:2PB9Sln804sOYhbak2A5Ze,0.72,0.761,0.779,0,0.0832,-6.272,0.0662,115.872,0.905,2
+Meri Maa Ne Mujhko Bulaya,1,4c0QwmUUwsT7WEQEAgB77m,Meri Maa Ne Mujhko Bulaya,spotify:track:4c0QwmUUwsT7WEQEAgB77m,0.553,0.576,0.842,0,0.34,-5.761,0.22,174.043,0.847,3
+Meri Maa Ne Mujhko Bulaya,2,7AmhjbP8snpq1aFGd0yBur,Mor Bole Tota Bole,spotify:track:7AmhjbP8snpq1aFGd0yBur,0.569,0.781,0.98,0.000183,0.205,-6.246,0.198,145.027,0.717,3
+Meri Maa Ne Mujhko Bulaya,3,5dMF0Tff3vfMVsmVMddALC,Itni Khushiyaan Maa Ne Di,spotify:track:5dMF0Tff3vfMVsmVMddALC,0.714,0.722,0.682,0.00052,0.167,-9.387,0.0406,159.001,0.91,1
+Meri Maa Ne Mujhko Bulaya,4,39Pe33sJ6xxs2tBFy9QTU9,Shaam Savere Maiya Teri,spotify:track:39Pe33sJ6xxs2tBFy9QTU9,0.447,0.808,0.903,3.14E-05,0.408,-5.416,0.0866,108.016,0.954,9
+Meri Maa Ne Mujhko Bulaya,5,2mgsko0AVaQ4hfACPZtw8v,Aaunga Maa,spotify:track:2mgsko0AVaQ4hfACPZtw8v,0.687,0.712,0.746,0.000124,0.14,-6.776,0.0508,77.05,0.828,1
+Meri Maa Ne Mujhko Bulaya,6,65pDQwkIwvMA3AD5BuVSiU,Tujhpe Maiya Main Vaari Vaari Jaun,spotify:track:65pDQwkIwvMA3AD5BuVSiU,0.752,0.613,0.751,0.004,0.183,-7.2,0.0987,109.895,0.942,1
+Meri Maa Ne Mujhko Bulaya,7,0weuDO8fP2hvjD4Ppl2CTi,Jungle Ke Raja,spotify:track:0weuDO8fP2hvjD4Ppl2CTi,0.633,0.756,0.84,1.30E-05,0.16,-7.687,0.168,136.006,0.791,3
+Meri Maa Ne Mujhko Bulaya,8,0Q2tOCSMLOKRtr7W4CMkY2,Naachun Chhama Chham,spotify:track:0Q2tOCSMLOKRtr7W4CMkY2,0.264,0.819,0.875,3.61E-06,0.105,-6.72,0.144,119.958,0.874,3
+Veeron Mein Veer Bajrangbali,1,4Vk88IeCUzkUPFzXMICDqd,Veeron Mein Veer,spotify:track:4Vk88IeCUzkUPFzXMICDqd,0.667,0.763,0.727,0,0.0831,-6.59,0.0403,102.031,0.831,4
+Veeron Mein Veer Bajrangbali,2,5XMBK2PZIxAVvaxxhRnOkm,Koi Karo Tarkeeb,spotify:track:5XMBK2PZIxAVvaxxhRnOkm,0.487,0.739,0.723,0,0.13,-6.59,0.0335,105.978,0.874,2
+Veeron Mein Veer Bajrangbali,3,30OoEOuKANFg65TcRLCDF6,Nagada Bajaa,spotify:track:30OoEOuKANFg65TcRLCDF6,0.616,0.704,0.805,9.33E-05,0.0861,-6.702,0.135,135.738,0.724,2
+Veeron Mein Veer Bajrangbali,4,4vBkP3sBCilLukkwkcqQ8l,Bajrang Bala Salasar Wala,spotify:track:4vBkP3sBCilLukkwkcqQ8l,0.74,0.707,0.582,0,0.143,-8.606,0.0316,96.008,0.753,1
+Veeron Mein Veer Bajrangbali,5,4Ad1Jwk9mX8rrjdJGJ4lJv,Chaalo Salasar,spotify:track:4Ad1Jwk9mX8rrjdJGJ4lJv,0.467,0.733,0.673,0,0.331,-7.254,0.0319,102.022,0.921,1
+Veeron Mein Veer Bajrangbali,6,59JKVuoDO915aUSAYA9jG3,Jeemo Jeemo Salasar Hanuman,spotify:track:59JKVuoDO915aUSAYA9jG3,0.626,0.726,0.685,1.63E-06,0.309,-6.676,0.034,99.986,0.892,2
+Veeron Mein Veer Bajrangbali,7,2bJ5nYhSPolZXop3AjTAK2,Udd Udd Chale,spotify:track:2bJ5nYhSPolZXop3AjTAK2,0.722,0.503,0.703,0,0.125,-6.44,0.073,129.964,0.808,3
+Jai Maa Jai Maa Kahiye,1,2M3oI257idc162HR7vXAlE,Jai Maa Jai Maa Kahiye,spotify:track:2M3oI257idc162HR7vXAlE,0.536,0.594,0.732,0,0.324,-6.726,0.0556,173.925,0.926,2
+Jai Maa Jai Maa Kahiye,2,4qQuybvqLDUthtoUVQDDQB,Changa Lagda Maai Ka Chola,spotify:track:4qQuybvqLDUthtoUVQDDQB,0.637,0.592,0.778,0,0.356,-6.344,0.0739,171.117,0.963,1
+Jai Maa Jai Maa Kahiye,3,01vk8A1q8BB3JJhNmZ2qSR,Haath Jorh Ke Sangta Ne Khadiyan,spotify:track:01vk8A1q8BB3JJhNmZ2qSR,0.58,0.651,0.747,0,0.0561,-6.356,0.0863,150.915,0.908,1
+Jai Maa Jai Maa Kahiye,4,46Cpa8kRLL9uDHHaX3DVgF,Aas Bachcheyan Di Poori Kar,spotify:track:46Cpa8kRLL9uDHHaX3DVgF,0.443,0.62,0.789,0,0.0765,-5.762,0.0554,165.841,0.934,0
+Jai Maa Jai Maa Kahiye,5,36i4BJOIfVICBP7aPKbX4W,Chal Bhagtan Chal Bhagtan Chaliye,spotify:track:36i4BJOIfVICBP7aPKbX4W,0.381,0.719,0.866,0,0.0521,-6.03,0.0506,129.955,0.904,0
+Jai Maa Jai Maa Kahiye,6,7kVoD3NpB53UGIpEMJ7ddP,Aaja Ni Maaye Phera Pa Ja,spotify:track:7kVoD3NpB53UGIpEMJ7ddP,0.479,0.623,0.788,0,0.173,-6.301,0.0705,169.935,0.812,2
+Jai Maa Jai Maa Kahiye,7,2bFik6MXcbgQXW6TYBc0Wc,Navin Gaddi Chali,spotify:track:2bFik6MXcbgQXW6TYBc0Wc,0.447,0.685,0.803,0,0.111,-6.741,0.0935,124.952,0.929,1
+Jai Maa Jai Maa Kahiye,8,0NLBUcNMw7NwhgMfgar9KH,Charh Ja Charhaeeyan,spotify:track:0NLBUcNMw7NwhgMfgar9KH,0.487,0.736,0.921,0,0.2,-6.981,0.0615,129.937,0.772,2
+Parvat Pe Ik Gufa Suhani,1,7JXRAs0hmfVopoxtjTf8Pa,Parvat Pe Ik Gufa Suhani,spotify:track:7JXRAs0hmfVopoxtjTf8Pa,0.626,0.586,0.709,0,0.153,-5.586,0.0368,78.989,0.653,3
+Parvat Pe Ik Gufa Suhani,2,05t8j1XhpnW3WDiSBOsl4P,Maa Jaisa Koi Nahin,spotify:track:05t8j1XhpnW3WDiSBOsl4P,0.7,0.631,0.787,0,0.0727,-5.443,0.1,165.016,0.936,6
+Parvat Pe Ik Gufa Suhani,3,1jJRtZdwRvJh9y1DnWKWCp,Maiya Rani Ke Darbar Mein,spotify:track:1jJRtZdwRvJh9y1DnWKWCp,0.659,0.699,0.736,0,0.062,-4.61,0.0439,107.945,0.737,5
+Parvat Pe Ik Gufa Suhani,4,4iADO4RmSM6fSu9y3AoUSC,Hey Maa Jagdambey Thari Chunri Re,spotify:track:4iADO4RmSM6fSu9y3AoUSC,0.635,0.632,0.682,0,0.225,-5.679,0.0795,172.521,0.797,1
+Parvat Pe Ik Gufa Suhani,5,41Oq2CxAVYZY8SIANxzqOn,Nirdai Sansaar Kuchh Soch Kuchh Vichaar,spotify:track:41Oq2CxAVYZY8SIANxzqOn,0.625,0.624,0.6,8.62E-06,0.112,-6.672,0.036,87.002,0.758,1
+Parvat Pe Ik Gufa Suhani,6,7auaP9QMB59tMkdLMfg86K,Maiyaji Tab Tum Aa Jana,spotify:track:7auaP9QMB59tMkdLMfg86K,0.653,0.723,0.705,0,0.0714,-5.782,0.045,112.991,0.815,2
+Parvat Pe Ik Gufa Suhani,7,5WMaRjLSjDUznM6Ni4rFR1,Maiya Ka Deedaar Karke,spotify:track:5WMaRjLSjDUznM6Ni4rFR1,0.707,0.617,0.572,0,0.132,-7.598,0.038,172.44,0.711,0
+Parvat Pe Ik Gufa Suhani,8,13H4RaS5fXonQ1xwBMMSIe,Maiya Ka Dwar Mil Gaya,spotify:track:13H4RaS5fXonQ1xwBMMSIe,0.572,0.538,0.732,0,0.422,-5.511,0.0464,89.829,0.788,0
+Sundar Saja Hai Dwara,1,4cVeTmUlrDwGvhjP7NmUa1,Sundar Saja Hai Dwara,spotify:track:4cVeTmUlrDwGvhjP7NmUa1,0.53,0.708,0.946,1.54E-05,0.153,-3.675,0.0918,104.022,0.946,3
+Sundar Saja Hai Dwara,2,2PBZ2eyYhPmsBfj7YBFEiE,Jai Ho Teri Mahamaai,spotify:track:2PBZ2eyYhPmsBfj7YBFEiE,0.602,0.758,0.893,0,0.0733,-3.6,0.097,107.991,0.934,2
+Sundar Saja Hai Dwara,3,1AgXf4iP6royFfo09qjmlU,Maa Ki Chunari Lal Lal,spotify:track:1AgXf4iP6royFfo09qjmlU,0.5,0.746,0.9,0,0.213,-3.359,0.0529,116.005,0.964,4
+Sundar Saja Hai Dwara,4,5CdQDASuWOFTleUrmAHLSC,Chunariya Chunariya,spotify:track:5CdQDASuWOFTleUrmAHLSC,0.609,0.626,0.871,0,0.117,-4.938,0.0481,93.74,0.963,0
+Sundar Saja Hai Dwara,5,3H3p1k4P9T9g59PUZfP8Dw,Jaane Wale,spotify:track:3H3p1k4P9T9g59PUZfP8Dw,0.506,0.718,0.783,5.79E-05,0.154,-5.576,0.0408,102.989,0.801,1
+Sundar Saja Hai Dwara,6,3S8sWK6y9xRz604BHbvRU3,Dooja Koi Dwar Na Dikhe,spotify:track:3S8sWK6y9xRz604BHbvRU3,0.68,0.599,0.887,4.27E-06,0.482,-3.245,0.053,94.981,0.863,19
+Sundar Saja Hai Dwara,7,621DIIzoSFX3Sv5hj0vWRN,Raksha Karo,spotify:track:621DIIzoSFX3Sv5hj0vWRN,0.51,0.673,0.838,0,0.178,-4.503,0.0603,103.895,0.689,3
+Sundar Saja Hai Dwara,8,43KEtijbLNUoeyPMWFVVgV,Jaagran Ki Raat,spotify:track:43KEtijbLNUoeyPMWFVVgV,0.568,0.613,0.912,0,0.0632,-3.673,0.0698,109.769,0.934,2
+Bholenath Dear,1,7iLAiYD7uw1Q8sFQMat2uw,Aayi Shivratri,spotify:track:7iLAiYD7uw1Q8sFQMat2uw,0.581,0.73,0.731,0,0.404,-7.432,0.103,110.006,0.893,1
+Bholenath Dear,2,43ZkFtR3TzCKv92PYzx9dc,Tumhara Kya Kehna,spotify:track:43ZkFtR3TzCKv92PYzx9dc,0.582,0.738,0.798,0,0.128,-6.717,0.0867,102.978,0.847,16
+Bholenath Dear,3,1XVo3UYmz8yIBUqTKuIEKQ,Khush Honge Bhoot Nath,spotify:track:1XVo3UYmz8yIBUqTKuIEKQ,0.352,0.749,0.821,0,0.14,-7.945,0.197,140.032,0.814,5
+Bholenath Dear,4,6UUlesrbXHpGbVFTi9eENg,Bhole Baba Hamare Milenge,spotify:track:6UUlesrbXHpGbVFTi9eENg,0.427,0.587,0.678,0,0.168,-7.075,0.0541,98.13,0.772,6
+Bholenath Dear,5,3WWE7hkJG55t6eRZ4pLhuJ,Seekho Seekh Sikhata,spotify:track:3WWE7hkJG55t6eRZ4pLhuJ,0.555,0.737,0.793,0,0.275,-7.316,0.0584,102.054,0.868,2
+Bholenath Dear,6,1k3c8ekEqZYXyBXGfZlAzW,Bholenath Dear,spotify:track:1k3c8ekEqZYXyBXGfZlAzW,0.578,0.735,0.724,0,0.347,-7.039,0.0416,125.957,0.938,3
+Aaja Mor Utte Charhke,1,1ygbwGyG7a3RQMndAciQAy,Aaja Mor Utte Chadke,spotify:track:1ygbwGyG7a3RQMndAciQAy,0.526,0.823,0.718,0,0.0811,-7.329,0.0381,103.999,0.953,1
+Aaja Mor Utte Charhke,2,5QGa6vMACjKNv1gHj3wIxr,Jai Hovai Jai Hovai,spotify:track:5QGa6vMACjKNv1gHj3wIxr,0.603,0.709,0.683,0,0.0624,-8.121,0.104,103.055,0.84,1
+Aaja Mor Utte Charhke,3,4ZQ6juRJiU87j3rk04frR3,Dhann Dhann Dharti Shahatlaai,spotify:track:4ZQ6juRJiU87j3rk04frR3,0.298,0.831,0.648,0,0.32,-6.563,0.0628,118.062,0.964,0
+Aaja Mor Utte Charhke,4,7u5juwtyxQcvLACHtHsdk1,Sun Baba Dhune Waale,spotify:track:7u5juwtyxQcvLACHtHsdk1,0.594,0.718,0.759,0,0.115,-6.192,0.186,146.934,0.945,0
+Aaja Mor Utte Charhke,5,6He4vn6Gt6ISOwQg1I2INW,Teriyan Dhumma Baba,spotify:track:6He4vn6Gt6ISOwQg1I2INW,0.252,0.758,0.713,0,0.141,-7.547,0.107,143.978,0.95,1
+Aaja Mor Utte Charhke,6,5esBfsAkWvjHJfXI9wQZhv,Aaya Ji Aaya,spotify:track:5esBfsAkWvjHJfXI9wQZhv,0.521,0.827,0.725,0,0.101,-8.018,0.0411,99.999,0.961,1
+Aaja Mor Utte Charhke,7,1Dej8rThe7hS11hH3V9bDo,Phera Bachcheyan Garib Wal Paa,spotify:track:1Dej8rThe7hS11hH3V9bDo,0.706,0.76,0.471,0,0.0983,-8.317,0.0514,147.99,0.813,1
+Aaja Mor Utte Charhke,8,4NJaH3CCjRc7XdxUOVCbN4,Baba Balaknath Hum Hain Tere Pujari,spotify:track:4NJaH3CCjRc7XdxUOVCbN4,0.723,0.689,0.822,0,0.258,-6.522,0.154,186.048,0.971,2
+MORNING BLISS,1,7fyF5WX3L5YbT1fQse8iW6,GUJARI TODI VILAMBIT,spotify:track:7fyF5WX3L5YbT1fQse8iW6,0.978,0.282,0.0855,0.86,0.132,-28.078,0.0375,124.094,0.16,0
+MORNING BLISS,2,6kJrlLcl7wSvQtrys96ZF3,GUJARI TODI DRUT,spotify:track:6kJrlLcl7wSvQtrys96ZF3,0.951,0.342,0.328,0.924,0.111,-28.717,0.0377,131.782,0.794,0
+MORNING BLISS,3,2JrROL3PxHrPFPEPvLF1aL,AHIR BHAIRAV DRUT,spotify:track:2JrROL3PxHrPFPEPvLF1aL,0.865,0.509,0.731,0.802,0.131,-9.542,0.0722,119.569,0.802,0
+MORNING BLISS,4,41Ca1qF5BnOvXZZKvJoFMc,BILASKHANI TODI DRUT,spotify:track:41Ca1qF5BnOvXZZKvJoFMc,0.582,0.402,0.585,0.0608,0.365,-17.832,0.0452,109.535,0.817,0
+MORNING BLISS,5,4puhoZAnL3RAT3Hto9Mc2E,HINDOL VILAMBIT,spotify:track:4puhoZAnL3RAT3Hto9Mc2E,0.923,0.345,0.528,0.896,0.12,-12.891,0.0557,84.94,0.393,0
+MORNING BLISS,6,7i1bM3QReBETsK9lHiKqKK,HINDOL DRUT,spotify:track:7i1bM3QReBETsK9lHiKqKK,0.951,0.573,0.751,0.884,0.113,-11.414,0.0652,129.154,0.865,0
+MORNING BLISS,7,4ZlyPdAxpEUOhuqkofWD56,JOGIA BHAJAN: HARIKA BHEDAN PAYO,spotify:track:4ZlyPdAxpEUOhuqkofWD56,0.944,0.331,0.197,0.913,0.115,-18.955,0.0319,106.798,0.26,0
+MORNING BLISS,8,6f2W0weeFMhjJnbH4te7yd,JOGIYA THUMRI: PIYA KE MILAN KI AAS,spotify:track:6f2W0weeFMhjJnbH4te7yd,0.685,0.354,0.482,4.90E-05,0.309,-8.167,0.0294,121.905,0.205,0
+MORNING BLISS,9,0i6YHmFNApk3A1luWkyzUX,BHAIRAVI THUMRI: BAJU BANDE KHUL KHUL JA,spotify:track:0i6YHmFNApk3A1luWkyzUX,0.661,0.389,0.571,0.00217,0.234,-8.757,0.036,125.974,0.414,0
+MORNING BLISS,10,0QypkpYexdlvZYXJmzC39N,JAUNPURI VILAMBIT,spotify:track:0QypkpYexdlvZYXJmzC39N,0.92,0.265,0.453,0.567,0.153,-11.702,0.0369,125.609,0.387,0
+MORNING BLISS,11,0kxtakVTR974FCT4JmRAqJ,JAUNPURI DRUT,spotify:track:0kxtakVTR974FCT4JmRAqJ,0.925,0.382,0.62,0.137,0.269,-11.488,0.0461,129.844,0.808,0
+MORNING BLISS,12,73sxTMKEOTNjAt0I7R6yRb,BILASKHANI TODI VILAMBIT,spotify:track:73sxTMKEOTNjAt0I7R6yRb,0.621,0.399,0.468,0.48,0.524,-18.833,0.0587,116.882,0.191,0
+MORNING BLISS,13,3dHV0uGP30W7MYGiYYtaiy,AHIR BHAIRAV VILAMBIT,spotify:track:3dHV0uGP30W7MYGiYYtaiy,0.835,0.361,0.481,0.078,0.128,-11.362,0.0432,123.378,0.171,0
+RAAG RANG,1,3X08YVZ98gwGV0wEelEY9V,AAJ MANGAL GAVO SAKHI,spotify:track:3X08YVZ98gwGV0wEelEY9V,0.8,0.425,0.405,0.932,0.114,-20.619,0.0463,123.356,0.846,0
+RAAG RANG,2,6QdNNZV3jqDSqyqXMcrO59,LAAJ RAKHO RI MORI,spotify:track:6QdNNZV3jqDSqyqXMcrO59,0.685,0.32,0.499,0.846,0.201,-16.151,0.0689,93.264,0.344,0
+RAAG RANG,3,0Z3kdCktD5KxfHwrS5wAk1,BAGESHREE,spotify:track:0Z3kdCktD5KxfHwrS5wAk1,0.978,0.498,0.386,0.952,0.134,-20.203,0.0504,119.016,0.843,0
+RAAG RANG,4,7IVRX8Lk3TBEk2gAu70ZnE,KALAVATI,spotify:track:7IVRX8Lk3TBEk2gAu70ZnE,0.914,0.418,0.53,0.962,0.13,-16.515,0.0356,129.032,0.812,0
+RAAG RANG,5,18zz7OIrIVnmJftza5CYtS,KAUNSI KANADA,spotify:track:18zz7OIrIVnmJftza5CYtS,0.987,0.361,0.649,0.921,0.356,-13.993,0.391,128.868,0.734,0
+RAAG RANG,6,3c6qZUeY65LXWfpj12nmVS,MALKAUNS,spotify:track:3c6qZUeY65LXWfpj12nmVS,0.614,0.415,0.536,0.869,0.0908,-15.848,0.0402,129.214,0.801,0
+RAAG RANG,7,0sGwehL1UdnvVh6kDCGJDK,MARWA,spotify:track:0sGwehL1UdnvVh6kDCGJDK,0.902,0.419,0.546,0.917,0.12,-16.879,0.0501,121.55,0.618,0
+RAAG RANG,8,2Dxc8aZdRxsDoPc4MHLr3i,MEGH MALHAR,spotify:track:2Dxc8aZdRxsDoPc4MHLr3i,0.966,0.236,0.437,0.89,0.282,-17.565,0.154,69.886,0.4,0
+RAAG RANG,10,6c07UnIKmphRGAX7t4LZkd,NAT MALHAR,spotify:track:6c07UnIKmphRGAX7t4LZkd,0.979,0.28,0.77,0.969,0.689,-10.661,0.0517,126.743,0.49,0
+RAAG RANG,11,3S9IvvkjMUR4imsZTJjyCD,POORVI,spotify:track:3S9IvvkjMUR4imsZTJjyCD,0.883,0.384,0.529,0.893,0.115,-19.909,0.11,127.435,0.679,0
+RAAG RANG,12,7i7izu9o3kI3fM1UpUZ4Be,PURIYA,spotify:track:7i7izu9o3kI3fM1UpUZ4Be,0.981,0.491,0.569,0.929,0.118,-14.03,0.0474,136.074,0.84,0
+RAAG RANG,13,4nWC7yUyx0woC69cKtDO7f,PURIYA DHANASHREE,spotify:track:4nWC7yUyx0woC69cKtDO7f,0.962,0.369,0.269,0.905,0.122,-30.211,0.0465,146.465,0.646,0
+RAAG RANG,14,1F2qdsPkz3dlwTZa2q0Sqa,SARASWATI,spotify:track:1F2qdsPkz3dlwTZa2q0Sqa,0.952,0.413,0.463,0.931,0.361,-18.925,0.0435,115.726,0.803,0
+RAAG RANG,15,2yf7lAQ3s7yFsNCmTKc4y4,SHUDH KALYAN,spotify:track:2yf7lAQ3s7yFsNCmTKc4y4,0.951,0.409,0.358,0.918,0.106,-22.592,0.0429,116.574,0.669,0
+RAAG RANG,16,1YfdHkp0gtmKiZAc7hv0Cz,SOHNI,spotify:track:1YfdHkp0gtmKiZAc7hv0Cz,0.971,0.336,0.69,0.956,0.706,-10.083,0.0453,122.07,0.374,0
+RAAG RANG,17,1Ba1OAtbgPVphmmdAce8ef,YAMAN,spotify:track:1Ba1OAtbgPVphmmdAce8ef,0.965,0.318,0.332,0.952,0.121,-26.855,0.0417,120.138,0.778,0
+RAAG RANG,18,07HNlxA9frL5pdmLb5J1en,BASANT,spotify:track:07HNlxA9frL5pdmLb5J1en,0.971,0.402,0.197,0.934,0.103,-24.179,0.0394,130.938,0.343,0
+RAAG RANG,19,0hEbByKumBVA5Tz7aIZpgf,SHANKARA,spotify:track:0hEbByKumBVA5Tz7aIZpgf,0.919,0.377,0.377,0.85,0.107,-18.089,0.0348,109.357,0.479,0
+RAAG RANG,21,53Prr26RhZiA7L8pONbY0A,JOG,spotify:track:53Prr26RhZiA7L8pONbY0A,0.978,0.363,0.381,0.922,0.142,-23.053,0.109,134.222,0.758,0
+Thumriyan,1,5S7TdLs59fy12noKkxnwhs,Gara Thumri,spotify:track:5S7TdLs59fy12noKkxnwhs,0.555,0.372,0.651,0.00639,0.256,-8.215,0.0396,99.973,0.601,0
+Thumriyan,2,3nLYH3d2KTQCiyIezMMrth,Kafi Thumri,spotify:track:3nLYH3d2KTQCiyIezMMrth,0.608,0.354,0.479,0.000297,0.284,-8.968,0.0325,119.099,0.41,0
+Thumriyan,3,2xfHHCVERy1mc9Hbh4DW2v,Jhinjoti Thumri,spotify:track:2xfHHCVERy1mc9Hbh4DW2v,0.574,0.381,0.452,8.49E-05,0.218,-9.109,0.0359,128.528,0.356,0
+Thumriyan,4,72Rws5tToP4Px0DLV9xf4V,Zila Kafi Thumri,spotify:track:72Rws5tToP4Px0DLV9xf4V,0.685,0.497,0.494,0.00115,0.148,-9.649,0.0352,123.349,0.338,0
+Thumriyan,5,0H15Ianw8Ru8uLJOxPtzSy,Pilu Thumri,spotify:track:0H15Ianw8Ru8uLJOxPtzSy,0.669,0.392,0.52,0.00104,0.114,-9.101,0.0332,128.625,0.222,0
+Thumriyan,6,638nTqk35JFqH6J1sf8iIf,Jogiya Thumri,spotify:track:638nTqk35JFqH6J1sf8iIf,0.685,0.354,0.482,4.90E-05,0.309,-8.167,0.0294,121.905,0.205,0
+Thumriyan,7,1C5MHyeU9DFa8rFMnw1PnP,Bhairavi Thumri,spotify:track:1C5MHyeU9DFa8rFMnw1PnP,0.661,0.364,0.571,0.00217,0.234,-8.757,0.0364,125.934,0.413,0
+Majestic Ragas,1,4X4Tqt1O91rlCRFGxaTd7n,Raga Darbari Kanada,spotify:track:4X4Tqt1O91rlCRFGxaTd7n,0.752,0.36,0.508,0.000198,0.141,-11.335,0.0577,118.41,0.236,0
+Majestic Ragas,2,4CZkV6GNil4uzhqEmdXRi7,Raga Jog,spotify:track:4CZkV6GNil4uzhqEmdXRi7,0.674,0.468,0.733,0.00492,0.0716,-8.595,0.0692,122.285,0.498,0
+Majestic Ragas,3,0ctpFUf8iStoMZY4o8NkeL,Raga Megh Malhar - Live,spotify:track:0ctpFUf8iStoMZY4o8NkeL,0.77,0.338,0.593,0,0.693,-10.834,0.0584,122.952,0.221,0
+AESTHETIC MELODIES,1,5FvAF4RwSqLLPNKkbH9r9h,KAMOD,spotify:track:5FvAF4RwSqLLPNKkbH9r9h,0.907,0.312,0.505,0.0392,0.084,-11.796,0.0403,125.44,0.591,0
+AESTHETIC MELODIES,2,0I4GMVo7HpKYJc343mPbxr,NAND,spotify:track:0I4GMVo7HpKYJc343mPbxr,0.888,0.245,0.537,0.197,0.111,-10.611,0.0372,88.215,0.547,0
+AESTHETIC MELODIES,3,6k9iLXYRmcxnntpowKJroF,NAT BIHAAG,spotify:track:6k9iLXYRmcxnntpowKJroF,0.874,0.398,0.573,0.227,0.132,-10.857,0.032,109.658,0.682,0
+AESTHETIC MELODIES,4,0piX3W6F5B0GQcCgEbPtvy,JAUNPURI,spotify:track:0piX3W6F5B0GQcCgEbPtvy,0.917,0.294,0.526,0.473,0.411,-11.92,0.0482,133.253,0.435,0
+AESTHETIC MELODIES,5,6MV3IOQyiklvQMM7Y1Scx6,ADANA,spotify:track:6MV3IOQyiklvQMM7Y1Scx6,0.886,0.307,0.59,0.189,0.12,-11.625,0.0457,125.715,0.572,0
+AESTHETIC MELODIES,6,2s1JQWgMOB0EO9ZHvN2YOk,BAHAR,spotify:track:2s1JQWgMOB0EO9ZHvN2YOk,0.86,0.391,0.74,0.437,0.101,-7.849,0.0424,127.623,0.705,0
+AESTHETIC MELODIES,7,1blx197VzHJvvK1EaU3TuA,DES,spotify:track:1blx197VzHJvvK1EaU3TuA,0.898,0.313,0.565,0.362,0.177,-12.133,0.0488,115.66,0.454,0
+AESTHETIC MELODIES,8,0ADRcMZ8KnjyIQFOFAZwbe,DURGA,spotify:track:0ADRcMZ8KnjyIQFOFAZwbe,0.877,0.27,0.539,0.0238,0.138,-11.722,0.0444,105.881,0.587,0
+ECLECTIC,1,1nmx2kJdFuVdmi8egYZRmk,PURIYA KALYAN,spotify:track:1nmx2kJdFuVdmi8egYZRmk,0.767,0.373,0.583,0.00167,0.33,-10.274,0.0507,115.407,0.329,0
+ECLECTIC,2,6bteyj47FrUZp47UjU9Y9E,MIYA KI MALHAR,spotify:track:6bteyj47FrUZp47UjU9Y9E,0.714,0.421,0.622,0.00306,0.124,-10.181,0.065,136.881,0.344,0
+ECLECTIC,3,4LVcEcj41q1pT5fsj1sZNk,AHIR BHAIRAV,spotify:track:4LVcEcj41q1pT5fsj1sZNk,0.725,0.398,0.596,0.000289,0.151,-10.17,0.0566,127.266,0.204,0
+ECLECTIC,4,1R0nWxMA4pH933VcxemcbU,HINDOL,spotify:track:1R0nWxMA4pH933VcxemcbU,0.715,0.403,0.706,0.0107,0.286,-9.079,0.0601,89.106,0.484,0
+EVENING MELODIES,1,5YJl9dzIfv8exdD65nHOG5,JAIJAIVANTI,spotify:track:5YJl9dzIfv8exdD65nHOG5,0.878,0.307,0.566,0.32,0.232,-11.228,0.0453,106.671,0.432,0
+EVENING MELODIES,2,1hIAp9ZNPi4o36Y93UA8EH,MARU BIHAAG,spotify:track:1hIAp9ZNPi4o36Y93UA8EH,0.892,0.35,0.518,0.193,0.283,-13.298,0.0478,120.927,0.471,0
+EVENING MELODIES,3,6DIIrH10ApRVnKnGuiBfbY,RAGESHREE,spotify:track:6DIIrH10ApRVnKnGuiBfbY,0.877,0.283,0.55,0.502,0.5,-12.396,0.0477,112.369,0.352,0
+EVENING MELODIES,4,0CkenJDCsSANMqjeZeRfDx,GORAKH KALYAN,spotify:track:0CkenJDCsSANMqjeZeRfDx,0.918,0.275,0.469,0.381,0.118,-12.704,0.0358,106.998,0.328,0
+AT HIS VERY BEST,1,3sZvdCcaYt64W6FbiosaKN,Raga Shankara,spotify:track:3sZvdCcaYt64W6FbiosaKN,0.857,0.327,0.661,0.17,0.148,-10.049,0.0328,110.645,0.44,0
+AT HIS VERY BEST,2,3BU041aBUgUfYuzxrqE8tp,Raga Malkauns,spotify:track:3BU041aBUgUfYuzxrqE8tp,0.385,0.384,0.496,0.514,0.492,-15.735,0.0629,120.057,0.328,0
+AT HIS VERY BEST,3,0AXDwiFf58ujh4ohEuaa6x,Raga Abhogi Kanada,spotify:track:0AXDwiFf58ujh4ohEuaa6x,0.703,0.368,0.313,0.452,0.118,-20.443,0.0473,114.645,0.34,0
+Enchanting Ram Bhajans - In Adoration of Lord Rama,1,5WumFUA4sgLZexBdFbNeF1,Jinake Hiridaya Shri Ram Base,spotify:track:5WumFUA4sgLZexBdFbNeF1,0.727,0.444,0.543,0,0.0848,-6.859,0.0388,85.894,0.581,0
+Enchanting Ram Bhajans - In Adoration of Lord Rama,2,05MYaqJRCr8uNcpSNHGihz,Thumak Chalat Ramchandra,spotify:track:05MYaqJRCr8uNcpSNHGihz,0.734,0.454,0.58,0,0.0934,-4.316,0.0412,178.756,0.855,0
+Enchanting Ram Bhajans - In Adoration of Lord Rama,3,6LRxoQiHZ976wvYJAYuNUh,Janam Safal Hoga Re Bande,spotify:track:6LRxoQiHZ976wvYJAYuNUh,0.738,0.49,0.632,4.07E-05,0.0873,-5.889,0.0334,97.012,0.923,0
+Enchanting Ram Bhajans - In Adoration of Lord Rama,4,2RzTXSQRNx2Kelp46UgIt2,Raghupati Raghav Raja Ram,spotify:track:2RzTXSQRNx2Kelp46UgIt2,0.679,0.404,0.643,0,0.166,-4.694,0.0319,99.256,0.766,0
+Enchanting Ram Bhajans - In Adoration of Lord Rama,5,1GvPfCOlyh1lz5EQEBAVdC,Jai Ram Ramaa Ramanam,spotify:track:1GvPfCOlyh1lz5EQEBAVdC,0.68,0.388,0.611,0,0.137,-6.088,0.0406,90.66,0.751,0
+Enchanting Ram Bhajans - In Adoration of Lord Rama,6,170WPNzFut6l6rRX2kuEU5,Shri Ramchandra Kripalu Bhajman,spotify:track:170WPNzFut6l6rRX2kuEU5,0.799,0.525,0.55,3.54E-06,0.0877,-7.044,0.033,153.502,0.653,0
+Enchanting Ram Bhajans - In Adoration of Lord Rama,7,53BEOS1rJnephcCygr124a,Payoji Maine Ram Ratan Dhan Payo,spotify:track:53BEOS1rJnephcCygr124a,0.826,0.501,0.652,8.36E-05,0.131,-5.507,0.0325,96.829,0.884,0
+Enchanting Ram Bhajans - In Adoration of Lord Rama,8,0xFFXw8UC53LnfOvhny8Pr,Bhajamana Bhajamana Ram,spotify:track:0xFFXw8UC53LnfOvhny8Pr,0.706,0.409,0.62,0,0.193,-4.922,0.0336,92.293,0.796,0
+Thumris of the Kirana Gharana,1,7hkendr9gs0y7rIBjALV3f,Jadoo Bhareli Kaun Albeli Ke Naina Rasile,spotify:track:7hkendr9gs0y7rIBjALV3f,0.502,0.448,0.629,0.00142,0.119,-10.593,0.0437,106.274,0.663,0
+Thumris of the Kirana Gharana,2,0guyA1Jn4z3Apub3Q5gsat,Bavarey Damde Gayo Kanha,spotify:track:0guyA1Jn4z3Apub3Q5gsat,0.595,0.36,0.462,0.0157,0.157,-11.803,0.0461,119.247,0.345,0
+Thumris of the Kirana Gharana,3,2NKWBq392LQsE2HVNff62r,Karunya Kyun Nahi Aave Chain,spotify:track:2NKWBq392LQsE2HVNff62r,0.706,0.506,0.496,0.00112,0.296,-10.622,0.0564,131.297,0.394,0
+Thumris of the Kirana Gharana,4,1i8dKneRU5zETmaeNhwVYa,Piya Bin Naahi Aavat Chain,spotify:track:1i8dKneRU5zETmaeNhwVYa,0.548,0.402,0.431,0.000281,0.0993,-11.523,0.053,118.434,0.447,0
+Thumris of the Kirana Gharana,5,4BZvA0q68Pf2r9NyityIV1,Soch Samaj Naadaan,spotify:track:4BZvA0q68Pf2r9NyityIV1,0.648,0.412,0.453,0.00587,0.155,-11.911,0.0499,126.855,0.309,0
+Thumris of the Kirana Gharana,6,3TSJsckFMUUYPbpulLLcUI,Piya Ke Milan Ki Aas,spotify:track:3TSJsckFMUUYPbpulLLcUI,0.681,0.375,0.447,0.000474,0.108,-11.106,0.0336,122.057,0.351,0
+Thumris of the Kirana Gharana,7,5pfsAqdYrGREAUG3JCj8wv,Baaju Bande Khul Khul,spotify:track:5pfsAqdYrGREAUG3JCj8wv,0.642,0.335,0.507,0.00177,0.146,-11.942,0.0453,127.226,0.457,0
+Embracing Krishna - Classical Krishna Bhajans,1,0v4mLqiDrKvDxMQVrKFnEe,Vidur Ghar Jaye Chalo Tum - Raga Pahadi,spotify:track:0v4mLqiDrKvDxMQVrKFnEe,0.217,0.604,0.484,2.27E-06,0.0924,-14.841,0.0378,106.884,0.666,0
+Embracing Krishna - Classical Krishna Bhajans,2,4GDJBS5khwmEQJBpafLz6Q,Tuma Matha Javo Murari - Raga Jhinjoti,spotify:track:4GDJBS5khwmEQJBpafLz6Q,0.356,0.572,0.509,5.70E-06,0.213,-11.917,0.0475,96.982,0.633,0
+Embracing Krishna - Classical Krishna Bhajans,3,6malWkHaZEH9FfVxuSG59W,Sabse Unchi Prem Sagayi - Raga Khamaj,spotify:track:6malWkHaZEH9FfVxuSG59W,0.139,0.59,0.539,0,0.228,-12.055,0.0423,99.363,0.712,0
+Embracing Krishna - Classical Krishna Bhajans,4,3IAcBhufyENCKopmEhcGml,Tuma Bina Mori Kaun Khabar Le - Raga Piloo,spotify:track:3IAcBhufyENCKopmEhcGml,0.497,0.372,0.538,0.000249,0.0995,-13.04,0.0463,88.029,0.453,0
+Embracing Krishna - Classical Krishna Bhajans,5,4drnp3VJ1V3k80CVe3SZKp,Chalo Mana Ganga Jamuna Teer - Raga Pahadi,spotify:track:4drnp3VJ1V3k80CVe3SZKp,0.201,0.568,0.55,0.000148,0.107,-13.465,0.045,104.107,0.557,0
+Embracing Krishna - Classical Krishna Bhajans,6,6aR3bhrgh59QwKlhUzmtk9,Yeri Jasoda Tose Larongi Larayi - Raga Sohoni,spotify:track:6aR3bhrgh59QwKlhUzmtk9,0.295,0.407,0.508,0,0.221,-12.206,0.0465,99.449,0.404,0
+Embracing Krishna - Classical Krishna Bhajans,7,24HF6LsTCUzOhcIvQv1myS,Jo Bhaje Hari Ko Sada - Raga Bhairavi,spotify:track:24HF6LsTCUzOhcIvQv1myS,0.125,0.474,0.562,9.98E-05,0.205,-12.865,0.0373,105.346,0.562,0
+Thumris Of The Kirana Gharana (Studio),1,7J3JGkAD5W8i5JnCcWBCR7,Jadoo Bhareli Kaun Albeli Ke Naina Rasile - Studio,spotify:track:7J3JGkAD5W8i5JnCcWBCR7,0.528,0.452,0.62,0.00428,0.145,-10.724,0.0424,105.925,0.662,0
+Thumris Of The Kirana Gharana (Studio),2,21Hc0V8QOZFtXVDHKYCAzU,Bavarey Damde Gayo Kanha - Studio,spotify:track:21Hc0V8QOZFtXVDHKYCAzU,0.606,0.357,0.46,0.046,0.111,-12.026,0.0432,119.264,0.351,0
+Thumris Of The Kirana Gharana (Studio),3,3ZG73GIUUaHsY4GSTs554e,Karunya Kyun Nahi Aave Chain - Studio,spotify:track:3ZG73GIUUaHsY4GSTs554e,0.722,0.508,0.488,0.00169,0.34,-10.725,0.0443,131.253,0.406,0
+Thumris Of The Kirana Gharana (Studio),4,2SybNSyG8xCKeP0m3tCUHB,Piya Bin Naahi Aavat Chain - Studio,spotify:track:2SybNSyG8xCKeP0m3tCUHB,0.517,0.403,0.411,0.000689,0.129,-11.642,0.0479,116.545,0.396,0
+Thumris Of The Kirana Gharana (Studio),5,0VALCAFd2UtDgz7tADRzA9,Soch Samaj Naadaan - Studio,spotify:track:0VALCAFd2UtDgz7tADRzA9,0.679,0.43,0.443,0.00647,0.173,-12.064,0.0438,126.884,0.308,0
+Thumris Of The Kirana Gharana (Studio),6,60SBgETylztHvrk4B5bkuQ,Piya Ke Milan Ki Aas - Studio,spotify:track:60SBgETylztHvrk4B5bkuQ,0.66,0.379,0.433,0.00122,0.113,-11.342,0.0333,121.829,0.334,0
+Thumris Of The Kirana Gharana (Studio),7,1rzUqaYETdM9x1kZUsHuwV,Baaju Bande Khul Khul - Studio,spotify:track:1rzUqaYETdM9x1kZUsHuwV,0.631,0.386,0.487,0.00256,0.149,-12.18,0.0399,126.039,0.508,0
+Exuberance,1,55oBajhEi3pH8ICzYXzsm3,Raga Marwa,spotify:track:55oBajhEi3pH8ICzYXzsm3,0.807,0.353,0.348,0.221,0.0571,-17.337,0.0405,122.165,0.193,0
+Exuberance,2,5utIPov52Yr2KvTrsRdCBR,Raga Kalavati,spotify:track:5utIPov52Yr2KvTrsRdCBR,0.832,0.358,0.313,0.215,0.0632,-18.322,0.039,123.769,0.231,0
+Exuberance,3,5jxzQ8S72ThGEISLGkNUCM,Bhajan Jogia,spotify:track:5jxzQ8S72ThGEISLGkNUCM,0.883,0.338,0.234,0.221,0.0767,-18.278,0.0319,107.073,0.302,0
+In A Meditative Mood,1,73NlOqNEQyAPaFQg1W45wo,Raga Marwa - Vilambit Ektal,spotify:track:73NlOqNEQyAPaFQg1W45wo,0.8,0.353,0.354,0.189,0.0572,-17.332,0.0406,117.082,0.192,0
+In A Meditative Mood,2,1VsSP0I4guIiE5jFMElSbG,Raga Kalavati - Vilambit Ektal,spotify:track:1VsSP0I4guIiE5jFMElSbG,0.834,0.358,0.313,0.256,0.063,-18.307,0.0387,124.788,0.224,0
+In A Meditative Mood,3,3INDq9kE1zS3L4Ivdpb0zR,Bhajan Jogiya,spotify:track:3INDq9kE1zS3L4Ivdpb0zR,0.879,0.339,0.231,0.235,0.076,-18.237,0.0315,106.764,0.303,0

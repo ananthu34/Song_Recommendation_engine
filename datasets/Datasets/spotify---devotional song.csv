@@ -1,0 +1,135 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Krishan Bhajan,1,4x4Kex07TZPMbTdaQjSlUN,Radhey Radhey Japa Karo,spotify:track:4x4Kex07TZPMbTdaQjSlUN,0.402,0.591,0.799,2.59E-05,0.294,-7.907,0.0544,132.223,0.919,0
+1,Krishan Bhajan,2,7zM9z8J2xLrcq89rw9Wv6H,Vrindavan Dham Apar Jape,spotify:track:7zM9z8J2xLrcq89rw9Wv6H,0.318,0.495,0.827,0,0.16,-3.477,0.155,143.488,0.672,0
+2,Krishan Bhajan,3,23Z9CEzfpspiXqBfl2j2JR,Mujhe Charno Se Lagale,spotify:track:23Z9CEzfpspiXqBfl2j2JR,0.39,0.511,0.583,0,0.11,-9.615,0.0448,81.367,0.604,0
+3,Krishan Bhajan,4,2cClA8GIQpr9nwJvYOq9gi,Gobind Mero Hai,spotify:track:2cClA8GIQpr9nwJvYOq9gi,0.659,0.343,0.566,0,0.0995,-10.578,0.0389,81.969,0.833,0
+4,Krishan Bhajan,5,4mqRg4rI6dR0GXe7OVl9SL,Dhara To Bah Rahi,spotify:track:4mqRg4rI6dR0GXe7OVl9SL,0.425,0.481,0.887,6.42E-05,0.957,-6.695,0.0668,129.297,0.872,0
+6,Krishan Bhajan,7,1ao5ptPwV7AQRUkkxP3DgA,Murli Bajake Mohana Kyu,spotify:track:1ao5ptPwV7AQRUkkxP3DgA,0.424,0.474,0.621,0,0.644,-12.119,0.0567,146.051,0.881,0
+7,Krishan Bhajan,8,5F2LrqQb2lO7WCdOEKjfqK,Ye To Prem Ki,spotify:track:5F2LrqQb2lO7WCdOEKjfqK,0.673,0.544,0.64,6.80E-06,0.0963,-6.654,0.044,96.874,0.845,0
+8,Krishan Bhajan,9,1gsVU4xyYz7hoVVkJubq4a,Radhe Radhe Japo,spotify:track:1gsVU4xyYz7hoVVkJubq4a,0.478,0.562,0.676,0,0.118,-8.288,0.0609,121.559,0.759,0
+9,Krishan Bhajan,10,10eTE0OyWrL2zynlVkRbi2,Mandir Me Rehte Ho,spotify:track:10eTE0OyWrL2zynlVkRbi2,0.841,0.52,0.336,0,0.105,-14.212,0.0287,94.376,0.453,0
+10,"Mridul Ras Dhara, Vol. 3",1,2VLhVz3EAxBTxeDk6UQUhJ,Murli Manohar Nand Lala,spotify:track:2VLhVz3EAxBTxeDk6UQUhJ,0.577,0.394,0.675,0.000262,0.131,-7.074,0.068,88.613,0.639,15
+11,"Mridul Ras Dhara, Vol. 3",2,2xbSenbFlPCtkWeER5Z6On,Mandir Mein Rahte Ho Bhagwan,spotify:track:2xbSenbFlPCtkWeER5Z6On,0.636,0.408,0.654,0,0.157,-7.502,0.0336,143.357,0.587,8
+12,"Mridul Ras Dhara, Vol. 3",3,7mlXzgQz3nd6zfcaaH5ee2,Radhe Radhe Govind,spotify:track:7mlXzgQz3nd6zfcaaH5ee2,0.324,0.441,0.738,0,0.186,-5.384,0.044,139.151,0.646,12
+13,"Mridul Ras Dhara, Vol. 3",4,4GZchpE5yti5K08PorQ7Qr,Mujhe Raas Aa Gaya Hai,spotify:track:4GZchpE5yti5K08PorQ7Qr,0.705,0.338,0.891,0.000777,0.701,-4.297,0.0402,93.215,0.649,11
+14,"Mridul Ras Dhara, Vol. 3",5,3aIjWjTlw2TpadpbL14K1b,Govind Hare Gopal Hare,spotify:track:3aIjWjTlw2TpadpbL14K1b,0.934,0.512,0.49,0.000111,0.213,-9.661,0.0314,129.031,0.289,10
+15,"Mridul Ras Dhara, Vol. 3",6,56T3Hd1fTHPh86XHQ5Aau7,Tu Sumiran Kar,spotify:track:56T3Hd1fTHPh86XHQ5Aau7,0.748,0.482,0.412,3.73E-05,0.112,-10.877,0.0342,124.996,0.435,3
+16,"Mridul Ras Dhara, Vol. 3",7,3uTHZmS9MgaWnJvz0qusqy,Govind Radhe Madhava,spotify:track:3uTHZmS9MgaWnJvz0qusqy,0.48,0.391,0.7,5.48E-05,0.3,-7.632,0.0509,97.273,0.614,13
+17,"Radhe Radhe Japa Karo, Vol. 4",1,5STpcrL7eckQKazjowf7Su,Bhola Nath Se Nirala,spotify:track:5STpcrL7eckQKazjowf7Su,0.617,0.637,0.716,2.91E-06,0.0692,-6.541,0.0382,135.958,0.833,6
+18,"Radhe Radhe Japa Karo, Vol. 4",2,0idHILayBUJApSQwYHPvhx,Teri Bansi Pe,spotify:track:0idHILayBUJApSQwYHPvhx,0.579,0.694,0.724,0,0.0876,-6.735,0.0378,96.017,0.929,14
+19,"Radhe Radhe Japa Karo, Vol. 4",3,6s8ElWbFFy8D2LgHqeMz1h,Hamaro Dhan Radha,spotify:track:6s8ElWbFFy8D2LgHqeMz1h,0.128,0.414,0.804,0,0.312,-4.815,0.0437,118.958,0.678,16
+20,"Radhe Radhe Japa Karo, Vol. 4",4,6Q3dmwJbzZka4Kil7nOmkA,Ari Nand Yasoda Ke Dwar,spotify:track:6Q3dmwJbzZka4Kil7nOmkA,0.175,0.389,0.844,0,0.384,-5.393,0.133,114.429,0.648,5
+21,"Radhe Radhe Japa Karo, Vol. 4",5,5OLpf1QhUU68n8clJENJXH,Bari Dur Gokul Nagri,spotify:track:5OLpf1QhUU68n8clJENJXH,0.439,0.409,0.71,0,0.139,-5.007,0.0391,154.617,0.806,10
+22,"Radhe Radhe Japa Karo, Vol. 4",6,43UCNVbprGC16nnnT9uqWn,Chali Aeyo Re Shyam,spotify:track:43UCNVbprGC16nnnT9uqWn,0.558,0.408,0.788,0,0.171,-4.278,0.0402,99.938,0.917,10
+23,"Radhe Radhe Japa Karo, Vol. 4",7,5kNSjQGhavsbvNCtzIvbm5,Dar Pe Tumhare Savre,spotify:track:5kNSjQGhavsbvNCtzIvbm5,0.309,0.682,0.636,7.94E-06,0.0372,-10.037,0.0353,110.055,0.901,7
+24,"Radhe Radhe Japa Karo, Vol. 4",8,0Q1CfUDdPG0GnBHfFEdr7U,Darbar Me Radha Rani Ke,spotify:track:0Q1CfUDdPG0GnBHfFEdr7U,0.561,0.643,0.793,0,0.308,-7.103,0.0535,135.938,0.884,17
+25,"Radhe Radhe Japa Karo, Vol. 4",9,760afxoS4v6h3IG0mBE17U,Dukh Me Mat Ghabrana,spotify:track:760afxoS4v6h3IG0mBE17U,0.521,0.664,0.564,0,0.131,-10.098,0.0427,144.077,0.736,11
+26,"Radhe Radhe Japa Karo, Vol. 5",1,2tY8oPewdkleJyHTfn1ydR,Ek Araj Meri Sun Le,spotify:track:2tY8oPewdkleJyHTfn1ydR,0.569,0.599,0.579,2.59E-06,0.731,-7.94,0.0269,102.852,0.575,10
+27,"Radhe Radhe Japa Karo, Vol. 5",2,42Y7gAGOJpXh4hW5GDBWvg,Man Bhool Mat Jayon,spotify:track:42Y7gAGOJpXh4hW5GDBWvg,0.642,0.378,0.731,1.44E-05,0.527,-6.273,0.0936,75.647,0.56,8
+28,"Radhe Radhe Japa Karo, Vol. 5",3,3w4XnvcziEqh0QyHAgscwy,Maiya Mori Mai Nahi,spotify:track:3w4XnvcziEqh0QyHAgscwy,0.387,0.617,0.651,0,0.24,-6.236,0.0518,114.153,0.62,4
+29,"Radhe Radhe Japa Karo, Vol. 5",4,4Je54dSP5QVNRUuEwWGojN,Mandir Mein Rahte Ho,spotify:track:4Je54dSP5QVNRUuEwWGojN,0.675,0.413,0.651,0,0.151,-7.647,0.0342,143.034,0.571,5
+30,"Radhe Radhe Japa Karo, Vol. 5",5,5dD8631vI8HkioxWce5wvu,Tu Sumiran Kar Radhe,spotify:track:5dD8631vI8HkioxWce5wvu,0.743,0.497,0.413,4.89E-05,0.112,-10.934,0.0341,124.085,0.45,7
+31,"Radhe Radhe Japa Karo, Vol. 5",6,5pqdzjIMGFiHHxhXHksxog,Chote Se Mero Madan Gopal,spotify:track:5pqdzjIMGFiHHxhXHksxog,0.529,0.563,0.42,3.21E-05,0.354,-17.55,0.0668,112.231,0.946,9
+32,"Radhe Radhe Japa Karo, Vol. 5",7,1i32WL10AettKQG0xyqljc,Radhe Radhe Japa Karo,spotify:track:1i32WL10AettKQG0xyqljc,0.458,0.61,0.845,7.58E-05,0.111,-6.354,0.0588,132.102,0.901,20
+33,"Radhe Radhe Japa Karo, Vol. 1",1,03BT3e8VbPJip4KMxZvSje,Bhole Nath Se Nirala,spotify:track:03BT3e8VbPJip4KMxZvSje,0.617,0.637,0.716,2.91E-06,0.0663,-6.541,0.0382,135.958,0.833,0
+34,"Radhe Radhe Japa Karo, Vol. 1",2,2FQ6m84bn1T51vZasP2fPO,Choti Choti Gayian,spotify:track:2FQ6m84bn1T51vZasP2fPO,0.525,0.563,0.421,2.88E-05,0.302,-17.548,0.0674,112.237,0.945,4
+35,"Radhe Radhe Japa Karo, Vol. 1",3,6dmEfqX2KnsXto6cff3H2v,Kar Do Beda Paar,spotify:track:6dmEfqX2KnsXto6cff3H2v,0.4,0.68,0.911,0,0.371,-1.811,0.0857,92.08,0.804,3
+36,"Radhe Radhe Japa Karo, Vol. 1",4,1DBEerPjVAfIYbPdrbCCXG,Apani Vadi,spotify:track:1DBEerPjVAfIYbPdrbCCXG,0.571,0.755,0.751,2.93E-06,0.237,-6.826,0.0351,106.018,0.934,4
+37,"Radhe Radhe Japa Karo, Vol. 1",5,2vLeCiHZ7Ym25RjvFSCPuN,Ari Pakdo Ri Barj,spotify:track:2vLeCiHZ7Ym25RjvFSCPuN,0.602,0.647,0.907,1.02E-06,0.352,-5.904,0.0564,140.098,0.902,3
+38,"Radhe Radhe Japa Karo, Vol. 1",6,184ZInLiygBut35132eb08,Shankar Bhole Bhandari,spotify:track:184ZInLiygBut35132eb08,0.535,0.599,0.968,0,0.363,-1.786,0.189,74.781,0.77,2
+39,"Radhe Radhe Japa Karo, Vol. 1",7,1skxjY5SPnjgQ3OwZuAGVZ,Bolo Radhe Radhe,spotify:track:1skxjY5SPnjgQ3OwZuAGVZ,0.675,0.705,0.817,0,0.176,-6.611,0.044,104.215,0.862,4
+40,"Radhe Radhe Japa Karo, Vol. 1",8,4e9zFQPiiGcCdVno3pCDdV,Dar Pe Tumhare Savare,spotify:track:4e9zFQPiiGcCdVno3pCDdV,0.334,0.686,0.624,1.05E-05,0.0365,-10.093,0.0354,110.053,0.899,0
+41,"Radhe Radhe Japa Karo, Vol. 2",1,3fi51VlZpGXvGK7ylEltUf,Hey Madhwa Hey Madhwa,spotify:track:3fi51VlZpGXvGK7ylEltUf,0.434,0.442,0.51,3.59E-06,0.0755,-9.239,0.0348,141.305,0.777,8
+43,"Radhe Radhe Japa Karo, Vol. 2",3,49dGiJmoJpRzyZkvzmR0Ao,Aaj Nand Laal Mein,spotify:track:49dGiJmoJpRzyZkvzmR0Ao,0.107,0.582,0.906,0,0.664,-6.163,0.078,126.045,0.55,8
+44,"Radhe Radhe Japa Karo, Vol. 2",4,3tFmXvbc5vEA7vWYYFgNCP,Aayo Nand Gaon Se,spotify:track:3tFmXvbc5vEA7vWYYFgNCP,0.0195,0.592,0.944,4.21E-06,0.386,-5.585,0.0577,125.954,0.641,1
+45,"Radhe Radhe Japa Karo, Vol. 2",5,6zJbmRECrqHrLi0H9dtQNr,Rang Banko Sawariya,spotify:track:6zJbmRECrqHrLi0H9dtQNr,0.0821,0.566,0.913,0,0.507,-6.254,0.116,126.005,0.615,1
+46,"Radhe Radhe Japa Karo, Vol. 2",6,4EzSs9MipnQEBGt9akO2uy,Ho Lajile Sakuchile,spotify:track:4EzSs9MipnQEBGt9akO2uy,0.00844,0.597,0.93,1.52E-06,0.324,-5.947,0.041,125.949,0.886,1
+47,"Radhe Radhe Japa Karo, Vol. 2",7,2AHDdfxZX7Rt9TF1vSSqnW,Jari Ki Pagdi Bandhey,spotify:track:2AHDdfxZX7Rt9TF1vSSqnW,0.452,0.618,0.75,0,0.583,-6.096,0.0393,88.192,0.859,18
+48,"Radhe Radhe Japa Karo, Vol. 2",8,3dbOWfMperZVxAduHaNPzd,Manmohan Khel Rahe,spotify:track:3dbOWfMperZVxAduHaNPzd,0.0614,0.637,0.902,1.56E-06,0.18,-6.423,0.106,125.94,0.837,1
+50,"Mridul Ras Dhara, Vol. 4",2,1kp8dgOum6E9kfaTzS8gXU,Hari Bol Hari Bol,spotify:track:1kp8dgOum6E9kfaTzS8gXU,0.51,0.574,0.346,0,0.315,-18.374,0.0612,83.1,0.876,1
+52,"Mridul Ras Dhara, Vol. 4",4,0fyR5OGsKKFCV4XHAlVzar,Sri Radha,spotify:track:0fyR5OGsKKFCV4XHAlVzar,0.322,0.267,0.466,0,0.196,-13.996,0.0405,82.655,0.677,0
+53,"Mridul Ras Dhara, Vol. 4",5,1kouZRV0n7slPvtxSB07zd,Hey Ram Hey Shyam,spotify:track:1kouZRV0n7slPvtxSB07zd,0.696,0.476,0.186,0.000191,0.192,-20.474,0.0381,122.115,0.498,1
+54,"Mridul Ras Dhara, Vol. 4",6,3TW7JKCzhmu8QwuwiEHGcN,Sri Radhe Sri Radhe,spotify:track:3TW7JKCzhmu8QwuwiEHGcN,0.563,0.381,0.327,0,0.164,-19.343,0.0501,73.617,0.779,11
+55,"Mridul Ras Dhara, Vol. 4",7,2kcLUNktl7p0Doz4bpFnAM,Govinda Naam Japat,spotify:track:2kcLUNktl7p0Doz4bpFnAM,0.443,0.487,0.886,3.29E-05,0.974,-6.352,0.0705,129.072,0.884,0
+56,"Mridul Ras Dhara, Vol. 4",8,5n0meEvJsMjbxqRoBzC2Gg,Mai Kaise Holi Kelungi,spotify:track:5n0meEvJsMjbxqRoBzC2Gg,0.357,0.471,0.825,6.94E-06,0.0864,-6.955,0.0728,146.766,0.948,0
+57,"Mridul Ras Dhara, Vol. 4",9,7zFUZ0aleUuTx9OrzqjwCN,Hai Matwala,spotify:track:7zFUZ0aleUuTx9OrzqjwCN,0.458,0.412,0.694,0,0.114,-7.488,0.0501,173.454,0.905,1
+58,"Mridul Ras Dhara, Vol. 4",10,5dJXc3Mi04GDZVMlPvGKVB,Shankar Teri Jatao Se,spotify:track:5dJXc3Mi04GDZVMlPvGKVB,0.528,0.583,0.689,0,0.238,-6.948,0.0374,122.833,0.873,2
+59,"Mridul Ras Dhara, Vol. 5",1,5QJOL3TFDjWsPYmdKI2ODZ,Mujhe Charno Se,spotify:track:5QJOL3TFDjWsPYmdKI2ODZ,0.381,0.489,0.641,0,0.0516,-7.737,0.0506,80.69,0.555,39
+60,"Mridul Ras Dhara, Vol. 5",2,77kuMYF8zpzIyb9RfTLafM,Chin Liya Mera Bhola Sa Man,spotify:track:77kuMYF8zpzIyb9RfTLafM,0.74,0.589,0.654,0.0152,0.132,-6.766,0.0746,102.892,0.961,15
+61,"Mridul Ras Dhara, Vol. 5",3,1iEBXjXRNMGRGoHyuFmidu,Bihari Ji Moh Sab Rang Bhor,spotify:track:1iEBXjXRNMGRGoHyuFmidu,0.588,0.473,0.469,1.17E-05,0.154,-8.648,0.0361,127.656,0.529,15
+62,"Mridul Ras Dhara, Vol. 5",4,5yOLjW22LRjZjmrbxoXiFx,Jai Madhav Madan,spotify:track:5yOLjW22LRjZjmrbxoXiFx,0.165,0.554,0.862,0,0.32,-6.057,0.056,148.069,0.871,12
+63,"Mridul Ras Dhara, Vol. 5",5,2284F9a5gARmpOmJWvPEz3,Karke Isharo,spotify:track:2284F9a5gARmpOmJWvPEz3,0.609,0.61,0.523,0,0.334,-12.57,0.0584,118.249,0.934,11
+64,"Mridul Ras Dhara, Vol. 5",6,4UtqoKREPei63IRAExN937,Bansi Bajaye Gayo,spotify:track:4UtqoKREPei63IRAExN937,0.582,0.557,0.571,0.000197,0.312,-12.72,0.0807,118.11,0.966,11
+65,"Mridul Ras Dhara, Vol. 5",7,5sciseur6kGLyEA8Hl7Ccw,Tu Hai Mera,spotify:track:5sciseur6kGLyEA8Hl7Ccw,0.813,0.624,0.335,6.87E-06,0.273,-15.661,0.0354,150.032,0.801,11
+66,"Mridul Ras Dhara, Vol. 5",8,1h6MF5Uk9fHncI7a3YZg4Q,Radha Rani Maha Rani,spotify:track:1h6MF5Uk9fHncI7a3YZg4Q,0.673,0.489,0.576,4.14E-05,0.274,-12.659,0.0845,147.07,0.939,13
+67,"Mridul Ras Dhara, Vol. 5",9,5bcLfE6xalV4aNtJhaOiLO,Jayega Jab Yaha Se,spotify:track:5bcLfE6xalV4aNtJhaOiLO,0.45,0.501,0.211,0.00829,0.317,-18.734,0.0292,92.243,0.433,9
+68,"Mridul Ras Dhara, Vol. 5",10,7BtpTnnC8wS3Y5IqBzOLoZ,Holi Khelan Aao Shyam,spotify:track:7BtpTnnC8wS3Y5IqBzOLoZ,0.46,0.404,0.647,0,0.634,-12.209,0.0795,162.869,0.938,10
+69,"Mridul Ras Dhara, Vol. 6",1,5FVyzKZySvWQeg1NyYNZ4A,Aao Manmohana,spotify:track:5FVyzKZySvWQeg1NyYNZ4A,0.411,0.331,0.405,0,0.767,-12.846,0.0335,92.872,0.624,13
+70,"Mridul Ras Dhara, Vol. 6",2,5tN8JtjCZYCULLmRnKZZgi,Jai Shiv Shankar,spotify:track:5tN8JtjCZYCULLmRnKZZgi,0.434,0.498,0.631,5.85E-06,0.318,-7.57,0.0685,159.344,0.846,11
+71,"Mridul Ras Dhara, Vol. 6",3,60DndrZp9I60BTQcxkUWjb,Shyam Se Milne Ka,spotify:track:60DndrZp9I60BTQcxkUWjb,0.298,0.339,0.385,0,0.119,-11.761,0.0342,151.486,0.512,12
+72,"Mridul Ras Dhara, Vol. 6",4,6PMKOqiVU9aQDq0F4QzKvD,Mere Sir Par Haath Rakho,spotify:track:6PMKOqiVU9aQDq0F4QzKvD,0.118,0.392,0.628,0,0.418,-10.914,0.049,82.795,0.733,8
+73,"Mridul Ras Dhara, Vol. 6",5,2mGKxy5fS9pbwFFwVVbZL8,Chaley Jayenge Bihari Ji,spotify:track:2mGKxy5fS9pbwFFwVVbZL8,0.76,0.513,0.454,0.108,0.436,-13.134,0.0491,77.811,0.547,8
+74,"Mridul Ras Dhara, Vol. 6",6,1yzz5KHb0FK18QmRU6UoE7,Jai Radhe Radhe,spotify:track:1yzz5KHb0FK18QmRU6UoE7,0.165,0.342,0.619,0,0.118,-12.416,0.0809,106.635,0.467,8
+75,"Mridul Ras Dhara, Vol. 6",7,4KSKrR9vkaC1JASKCDdjI4,Banke Bihari Laal,spotify:track:4KSKrR9vkaC1JASKCDdjI4,0.404,0.403,0.617,0,0.131,-7.167,0.0408,78.98,0.844,15
+76,"Mridul Ras Dhara, Vol. 6",8,1RWHiMpbZT5XLXv9KfgTC5,Govind Mero Hai,spotify:track:1RWHiMpbZT5XLXv9KfgTC5,0.642,0.411,0.59,0,0.0654,-9.435,0.0375,84.849,0.811,15
+77,"Mridul Ras Dhara, Vol. 6",9,3cPzxKFcdKC9IrlJav5jCI,Banke Bihari Jai Ho,spotify:track:3cPzxKFcdKC9IrlJav5jCI,0.271,0.381,0.708,0,0.166,-8.486,0.0727,92.495,0.882,28
+78,"Mridul Ras Dhara, Vol. 6",10,5LxUSvG1SHFIWVmaoHHBeW,Mero Lala Jhule Palna,spotify:track:5LxUSvG1SHFIWVmaoHHBeW,0.597,0.496,0.801,3.35E-05,0.337,-6.713,0.049,75.657,0.923,28
+79,"Mridul Ras Dhara, Vol. 1",1,7J79YqFyoIQZ0KoeNRjOrN,Mujhe Syam Sundar Ki Dulhan,spotify:track:7J79YqFyoIQZ0KoeNRjOrN,0.573,0.471,0.713,0,0.0525,-5.668,0.048,133.879,0.71,6
+80,"Mridul Ras Dhara, Vol. 1",2,7klJG0Xf4hlCeierX5v15H,Teri Ban Jayegi,spotify:track:7klJG0Xf4hlCeierX5v15H,0.543,0.478,0.622,0.00323,0.229,-7.939,0.0537,128.285,0.526,3
+81,"Mridul Ras Dhara, Vol. 1",3,0Cv0iS6tEIfMz9L1Az6TAS,Bhaye Pragat Kripala,spotify:track:0Cv0iS6tEIfMz9L1Az6TAS,0.768,0.427,0.652,0,0.105,-8.636,0.0575,86.82,0.594,9
+82,"Mridul Ras Dhara, Vol. 1",4,1ykt4tQxAQbJD3JjSe2r4K,Hare Krishna Hare Krishna,spotify:track:1ykt4tQxAQbJD3JjSe2r4K,0.248,0.494,0.561,0,0.159,-7.979,0.055,130.222,0.486,4
+83,"Mridul Ras Dhara, Vol. 1",5,6huCdETCXtTw8oGPjuvlTv,Koi Kahe Govind Koi Kahe Gopala,spotify:track:6huCdETCXtTw8oGPjuvlTv,0.807,0.406,0.76,0,0.441,-4.128,0.0358,106.183,0.578,21
+84,"Mridul Ras Dhara, Vol. 1",6,6syXKjOlqfHcxDLWP5sZrp,He Banke Bihari,spotify:track:6syXKjOlqfHcxDLWP5sZrp,0.214,0.417,0.866,3.00E-06,0.284,-4.191,0.0396,137.123,0.62,5
+85,"Mridul Ras Dhara, Vol. 1",7,65jACHTYSSGYrPZRkRSsN6,Rahe Mere Mukh Mein,spotify:track:65jACHTYSSGYrPZRkRSsN6,0.847,0.502,0.498,0,0.175,-9.443,0.0367,129.262,0.605,3
+86,"Mridul Ras Dhara, Vol. 1",8,7aWBa6Lo06A4vbQ9PH3G15,Jo Shyam Par Fida Ho,spotify:track:7aWBa6Lo06A4vbQ9PH3G15,0.7,0.474,0.463,0,0.258,-11.766,0.0349,112.808,0.705,3
+87,"Mridul Ras Dhara, Vol. 1",9,4ThH9icjjKnTspnMfYOxCH,Kanhaiya Tumhe Ek Najar,spotify:track:4ThH9icjjKnTspnMfYOxCH,0.667,0.447,0.499,0,0.0337,-12.101,0.0755,158.607,0.777,8
+88,"Mridul Ras Dhara, Vol. 1",10,2cfKbtYykgOiMBYSjy8qTg,Naiya Le Chal,spotify:track:2cfKbtYykgOiMBYSjy8qTg,0.29,0.427,0.658,2.58E-05,0.106,-6.367,0.059,125.713,0.485,4
+90,"Mridul Ras Dhara, Vol. 2",2,6X8hBgaWyGnSghvSpGLqmg,Karar Vinde,spotify:track:6X8hBgaWyGnSghvSpGLqmg,0.325,0.556,0.642,0,0.44,-5.984,0.0342,120.714,0.389,0
+91,"Mridul Ras Dhara, Vol. 2",3,4AxQ1OoBIR9e8bTcoGFcJd,Man Bhool Mat Jaiyo,spotify:track:4AxQ1OoBIR9e8bTcoGFcJd,0.636,0.361,0.741,1.59E-05,0.584,-6.184,0.0865,74.766,0.584,2
+92,"Mridul Ras Dhara, Vol. 2",4,7Ca6gdtLKiXtCuQBZ2cjPd,Swagatam Krishna Krishna,spotify:track:7Ca6gdtLKiXtCuQBZ2cjPd,0.417,0.404,0.678,1.73E-06,0.758,-6.84,0.0509,103.32,0.47,1
+93,"Mridul Ras Dhara, Vol. 2",5,0ROADHH8klV9OxKcnEpjXF,Mare Mat Maiya,spotify:track:0ROADHH8klV9OxKcnEpjXF,0.764,0.611,0.343,0,0.216,-9.718,0.317,124.003,0.551,0
+94,"Mridul Ras Dhara, Vol. 2",6,2chuM4npL2LA8ElPONJwEV,Hari Hari Narayan,spotify:track:2chuM4npL2LA8ElPONJwEV,0.0898,0.395,0.707,0.000363,0.567,-5.628,0.0508,94.359,0.578,0
+95,"Mridul Ras Dhara, Vol. 2",7,6NndF7DP9sYSuTlgAZ6aAA,Sri Man Narayan,spotify:track:6NndF7DP9sYSuTlgAZ6aAA,0.439,0.376,0.87,7.88E-06,0.957,-4.655,0.065,151.085,0.715,0
+96,"Mridul Ras Dhara, Vol. 2",8,3k54KRmxCYddoMIUlCjwBI,Maiya Mori Mai Nahin,spotify:track:3k54KRmxCYddoMIUlCjwBI,0.381,0.518,0.652,0,0.239,-6.124,0.0508,114.326,0.642,0
+97,"Mridul Ras Dhara, Vol. 2",9,3o4GZBQ21RJ1uLoKfo2wH2,Makhan Ki Chori Chor,spotify:track:3o4GZBQ21RJ1uLoKfo2wH2,0.366,0.441,0.826,0,0.138,-4.568,0.0895,107.296,0.756,0
+98,"Mridul Ras Dhara, Vol. 2",10,2lT1WhNwYuLud3HcatOt6j,Shyam Ki Koi Khabar,spotify:track:2lT1WhNwYuLud3HcatOt6j,0.826,0.5,0.542,0.000162,0.194,-8.487,0.0414,136.572,0.519,0
+99,"Mere Bhagwan Sri Krishna, Vol. 3",1,5KtcZxfYftOIuYrm1mFyz5,Sundar Hai Rang Shyam,spotify:track:5KtcZxfYftOIuYrm1mFyz5,0.659,0.455,0.831,2.75E-05,0.295,-5.932,0.0766,79.819,0.913,1
+100,"Mere Bhagwan Sri Krishna, Vol. 3",2,45l34rwTCAiZpxPcK0ijH0,Jai Radhe Jai Krishna,spotify:track:45l34rwTCAiZpxPcK0ijH0,0.616,0.725,0.647,0.215,0.126,-8.374,0.0856,133.016,0.976,1
+101,"Mere Bhagwan Sri Krishna, Vol. 3",3,7ME4B4dq9iURvHSc3bVksz,Aarti Shree Banke Bihari Ji,spotify:track:7ME4B4dq9iURvHSc3bVksz,0.737,0.502,0.695,0,0.803,-6.411,0.0415,81.287,0.762,16
+102,"Mere Bhagwan Sri Krishna, Vol. 3",4,6zsD9CCPpSkwAxnIcWH7A6,Sabse Uncha Prem Sagai,spotify:track:6zsD9CCPpSkwAxnIcWH7A6,0.657,0.501,0.559,0.104,0.163,-7.118,0.0316,79.08,0.437,9
+103,"Mere Bhagwan Sri Krishna, Vol. 3",5,1FBkPlmLoKBRotyzTdVamS,Krishna Jinka Naam Hai,spotify:track:1FBkPlmLoKBRotyzTdVamS,0.716,0.499,0.641,0.546,0.291,-6.088,0.0361,143.385,0.646,11
+104,"Mere Bhagwan Sri Krishna, Vol. 3",6,6pwdvrnD5uWsSxI0PVXfwc,Na Radha Na Meera,spotify:track:6pwdvrnD5uWsSxI0PVXfwc,0.734,0.557,0.808,0.199,0.0859,-4.646,0.0489,137.921,0.722,1
+105,"Mere Bhagwan Sri Krishna, Vol. 3",7,2yqrgsOYavA0BErZVZ2MN2,Tere Charan Kamal Mein Shyam,spotify:track:2yqrgsOYavA0BErZVZ2MN2,0.78,0.691,0.772,0.00654,0.649,-7.44,0.0688,98.195,0.951,6
+106,"Mere Bhagwan Sri Krishna, Vol. 3",8,5sLLNKj7OowGW4cIQ60fMz,Jai Govind Gopala Murli Manohar,spotify:track:5sLLNKj7OowGW4cIQ60fMz,0.621,0.361,0.747,1.40E-06,0.378,-5.795,0.0778,165.959,0.798,3
+107,"Radhe Radhe, Vol. 1",1,0Ti3eRQanZOecgsqj7gmCQ,Sri Radhe Radhe,spotify:track:0Ti3eRQanZOecgsqj7gmCQ,0.636,0.72,0.766,0,0.141,-8.206,0.0468,105.994,0.786,38
+108,"Radhe Radhe, Vol. 1",2,17L5lE8c0cZIPEb4ZOYTAv,Radhe Albeli Sarkar,spotify:track:17L5lE8c0cZIPEb4ZOYTAv,0.3,0.706,0.789,9.39E-05,0.124,-7.031,0.0292,99.961,0.826,30
+109,"Radhe Radhe, Vol. 1",3,0X8KBTZjFEbdqtrV8zjMad,Choti Choti Gaiya,spotify:track:0X8KBTZjFEbdqtrV8zjMad,0.572,0.564,0.69,2.43E-05,0.202,-8.542,0.0666,112.141,0.939,33
+110,"Radhe Radhe, Vol. 1",4,1sQ7CaPiXaavYvNeSNF1Af,Kishori Kuch Aisa,spotify:track:1sQ7CaPiXaavYvNeSNF1Af,0.16,0.563,0.939,0,0.794,-5.068,0.0626,150.032,0.889,43
+111,"Radhe Radhe, Vol. 1",5,2owy3H0K6tvTQO7iHnty7N,Rasna Radhe Radhe Bol,spotify:track:2owy3H0K6tvTQO7iHnty7N,0.571,0.755,0.751,2.93E-06,0.237,-6.826,0.0351,106.018,0.934,33
+112,"Radhe Radhe, Vol. 1",6,1mNR0qiUb3VhDz4WmJqZZA,Radha Ka Naam Anmol,spotify:track:1mNR0qiUb3VhDz4WmJqZZA,0.483,0.549,0.709,0,0.335,-8.574,0.0438,78.887,0.915,17
+113,"Radhe Radhe, Vol. 1",7,2mKdB2FeSfxcGir6JONbJp,Teri Ankhiyan Hai,spotify:track:2mKdB2FeSfxcGir6JONbJp,0.26,0.631,0.511,0,0.0784,-10.478,0.0675,78.015,0.859,15
+114,"Radhe Radhe, Vol. 1",8,2hIFwLZV3bXuPTbXlBzuJ4,Mera Chota Sa Sansar,spotify:track:2hIFwLZV3bXuPTbXlBzuJ4,0.752,0.66,0.484,3.38E-06,0.0944,-10.878,0.0288,109.125,0.785,18
+115,"Radhe Radhe, Vol. 1",9,2UbPY6vufJIsIi8NdIzMpx,Salok Shri Radhe Radhe,spotify:track:2UbPY6vufJIsIi8NdIzMpx,0.564,0.575,0.699,0,0.144,-8.218,0.0603,121.589,0.763,21
+116,"Radhe Radhe, Vol. 2",1,4PuPU2crtFEP7HB027fAss,Kardo Kardo Beda Paar,spotify:track:4PuPU2crtFEP7HB027fAss,0.4,0.68,0.911,0,0.371,-1.811,0.0857,92.08,0.804,10
+117,"Radhe Radhe, Vol. 2",2,5u11vUbXRKBPIZBfNBx7Kp,Apni Vaani Mein Amrit,spotify:track:5u11vUbXRKBPIZBfNBx7Kp,0.571,0.755,0.751,2.93E-06,0.237,-6.826,0.0351,106.018,0.934,9
+118,"Radhe Radhe, Vol. 2",3,3BKfUE9DRLdLk7zUpbJenl,Ari Pakdo Ri,spotify:track:3BKfUE9DRLdLk7zUpbJenl,0.602,0.647,0.907,1.02E-06,0.352,-5.904,0.0564,140.098,0.902,2
+119,"Radhe Radhe, Vol. 2",4,40McKbBFGh3Ky0gRuGrCSv,Bholenath Se Nirala,spotify:track:40McKbBFGh3Ky0gRuGrCSv,0.617,0.637,0.716,2.91E-06,0.0663,-6.541,0.0382,135.958,0.833,3
+122,"Radhe Radhe, Vol. 2",7,5rkAcxsRVvpMJSjZOGawMX,Dar Pe Tumhare,spotify:track:5rkAcxsRVvpMJSjZOGawMX,0.334,0.686,0.624,1.05E-05,0.0365,-10.093,0.0354,110.053,0.899,1
+123,"Radhe Radhe, Vol. 2",8,5bsYUlhQ4zAhC92cme2LnP,Hey Madhwa Hey Sadhwa,spotify:track:5bsYUlhQ4zAhC92cme2LnP,0.434,0.442,0.51,3.59E-06,0.0755,-9.239,0.0348,141.305,0.777,1
+124,"Radhe Radhe, Vol. 2",9,3pNp7eYYsetJNi2BXBWHhF,Jari Ki Pagdi,spotify:track:3pNp7eYYsetJNi2BXBWHhF,0.452,0.618,0.75,0,0.583,-6.096,0.0393,88.192,0.859,5
+125,"Radhe Radhe, Vol. 2",10,4abmQbiLQMQ1AeS9Yoc6K8,Jai Radhe Krishna Govind,spotify:track:4abmQbiLQMQ1AeS9Yoc6K8,0.398,0.647,0.868,0,0.219,-1.834,0.0418,144.936,0.869,5
+126,"Radhe Radhe, Vol. 4",1,1u9qFcbOdc8IzrYFBgzhQA,Banke Bihari,spotify:track:1u9qFcbOdc8IzrYFBgzhQA,0.669,0.685,0.706,0,0.188,-6.924,0.0323,125.977,0.863,11
+127,"Radhe Radhe, Vol. 4",2,1usfpo2e3wSUvmIuLE447Y,Mera Mann Ho Gaya,spotify:track:1usfpo2e3wSUvmIuLE447Y,0.257,0.644,0.937,0,0.364,-6.689,0.0602,135.839,0.679,4
+128,"Radhe Radhe, Vol. 4",3,0AloiwySQ4ByZU91dPtVAR,Apni Vadi Mein Amrit Ghol,spotify:track:0AloiwySQ4ByZU91dPtVAR,0.571,0.755,0.751,2.93E-06,0.239,-6.826,0.0351,106.018,0.934,2
+129,"Radhe Radhe, Vol. 4",4,6HKWzZtd79K7ZtvI0q6Wm6,Darbar Mein Radha Rani Ke,spotify:track:6HKWzZtd79K7ZtvI0q6Wm6,0.561,0.643,0.793,0,0.308,-7.103,0.0535,135.938,0.884,7
+130,"Radhe Radhe, Vol. 4",5,2tGetJw50uS9fs2Zy20vJO,Hamey To Joganiya,spotify:track:2tGetJw50uS9fs2Zy20vJO,0.131,0.35,0.666,1.99E-05,0.545,-6.876,0.063,81.294,0.609,2
+131,"Radhe Radhe, Vol. 4",6,0p2G8WZCYI7EQY72JJQJpn,Tera Sukriya Hai,spotify:track:0p2G8WZCYI7EQY72JJQJpn,0.554,0.709,0.703,0,0.282,-7.503,0.0351,138.003,0.932,6
+135,Mridul Aarti Vandana,1,4yb23GnOhc2xtuIRIuox5c,Bankey Bihari Ji Ki Aarti,spotify:track:4yb23GnOhc2xtuIRIuox5c,0.291,0.473,0.0137,0,0.123,-43.208,0.0339,141.485,0.563,14
+136,Mridul Aarti Vandana,2,2BHTnJ4ltRhj5anZzyARaT,Ganga Ji Ki Aarti,spotify:track:2BHTnJ4ltRhj5anZzyARaT,0.133,0.43,0.012,0,0.158,-46.914,0.0333,91.858,0.706,0
+137,Mridul Aarti Vandana,3,1fi4YtZPkQkAidQW9Pyvjm,Hanuman Ji Ki Aarti,spotify:track:1fi4YtZPkQkAidQW9Pyvjm,0.168,0.544,0.0196,0,0.0696,-47.996,0.0319,92.077,0.758,0
+138,Mridul Aarti Vandana,4,6wvzFVwsPkVf3YZxKAJyqU,Jai Ambe Gouri,spotify:track:6wvzFVwsPkVf3YZxKAJyqU,0,0,0,0,0,-60,0,0,0,0
+139,Mridul Aarti Vandana,5,7lRKvb1y09kklfd6vbQJ9G,Jai Ganesh Jai Ganesh,spotify:track:7lRKvb1y09kklfd6vbQJ9G,0.63,0.692,0.542,0,0.0595,-9.239,0.043,135.131,0.565,2
+140,Mridul Aarti Vandana,6,1SVxZz0NCXtEzPv33iaeIx,Jai Shiv Omkara,spotify:track:1SVxZz0NCXtEzPv33iaeIx,0.183,0.453,0.00919,0,0.0627,-47.265,0.0362,96.097,0.39,0
+141,Mridul Aarti Vandana,7,38EhQyQFbDN2uCo3w4Llzp,Lakshmi Ji Ki Aarti,spotify:track:38EhQyQFbDN2uCo3w4Llzp,0.388,0.5,0.0112,0,0.0791,-45.926,0.0353,95.902,0.471,4
+142,Mridul Aarti Vandana,8,546Ih1Sk9Ju5iyI3NIAi73,Om Jai Jagdish Hare,spotify:track:546Ih1Sk9Ju5iyI3NIAi73,0.266,0.474,0.611,0,0.0769,-9.351,0.0385,95.002,0.58,3
+143,Mridul Aarti Vandana,9,5KtI5Ol0dSvVBNkbDZq0Ez,Ramayan Ji Ki Aarti,spotify:track:5KtI5Ol0dSvVBNkbDZq0Ez,0.379,0.364,0.0355,0,0.0801,-40.052,0.0421,85.764,0.572,0
